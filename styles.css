@@ -78,3 +78,31 @@ footer .small{font-size:2.5rem}footer p{margin:0;font-size:.78rem;color:#c7cec4}
 .article-row{grid-template-columns:1fr 25px;gap:1rem}.article-meta{grid-column:1/-1;flex-direction:row;gap:1rem}.article-row h3{font-size:1.75rem}
 .article{padding:3.5rem 0 3rem}.about{padding:3.5rem 0 4rem}
 footer{grid-template-columns:1fr;gap:1rem}footer p:last-child{text-align:left}}
+/* ---- Professional article, contact, and about styles ---- */
+.intro-links{display:flex;gap:2rem;margin-top:2rem}
+.by{font:500 11px var(--mono);letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+.article-row .by{margin:.7rem 0 0}.feature-story .by{margin:0 0 1.3rem}
+.article{max-width:720px}
+.article h1{font:800 clamp(2.4rem,5.5vw,4rem)/1 var(--sans);letter-spacing:-.05em;margin:1.4rem 0 1rem}
+.dek-article{font:400 1.3rem/1.4 var(--serif);color:var(--muted);margin:0 0 1.6rem}
+.byline{flex-wrap:wrap;gap:.4rem 1.5rem;padding:1rem 0;margin:0 0 2.5rem;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.byline span:first-child{color:var(--ink);font-weight:500}
+.prose{font:400 1.22rem/1.7 var(--serif)}
+.prose>p:first-of-type::first-letter{float:left;font:800 4.6rem/.8 var(--sans);color:var(--rust);padding:.4rem .65rem 0 0}
+.prose h2{font:800 clamp(1.8rem,3vw,2.3rem)/1.05 var(--sans);letter-spacing:-.045em;margin:2.2em 0 .5em}
+.prose strong{font-weight:600}
+.prose table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;font:500 .95rem var(--sans);margin:1.8em 0}
+.prose th,.prose td{padding:.65rem .9rem;border-bottom:1px solid var(--line);text-align:left}
+.prose th{background:#ebe6d9;font-weight:700}.prose td:last-child,.prose th:last-child{text-align:right}
+.takeaways{background:#ebe6d9;border-left:4px solid var(--orange);padding:1.4rem 1.8rem;margin:2.4em 0 1em}
+.takeaways h2{margin:0 0 .6rem;font-size:1.5rem}.takeaways ul{margin:0}
+.disclaimer{font:400 .85rem/1.5 var(--sans);color:var(--muted);margin:2.5rem 0 0}
+.about .lead,.contact .lead{font:400 1.35rem/1.45 var(--serif);color:var(--muted)}
+.about h2{font:800 1.8rem/1.1 var(--sans);letter-spacing:-.04em;margin:1.8em 0 .5em}
+.about a,.contact a{border-bottom:1px solid var(--orange)}
+.contact{max-width:640px;margin:0 auto;padding:6rem 0 7rem}
+.contact h1{font:800 clamp(2.6rem,6vw,4.5rem)/1 var(--sans);letter-spacing:-.05em;margin:0 0 1rem}
+.contact form{margin-top:2.5rem}
+.contact label{display:block;font:500 11px var(--mono);letter-spacing:.05em;text-transform:uppercase;margin:1.4rem 0 .5rem}
+.contact input,.contact textarea{width:100%;font:400 1.05rem var(--sans);padding:.85rem 1rem;background:#fff;border:1px solid var(--ink);color:var(--ink);border-radius:0}
+#form-status{margin:1.2rem 0 0;color:var(--muted)}
