@@ -1,12 +1,8 @@
-# Margin of Error
+# BizLab
 
-A static editorial website for weekly writing on business, venture capital, economics, and field notes.
+Articles on business, venture capital, finance, and economics.
 
-## Publish with GitHub Pages
-
-1. Create an empty GitHub repository.
-2. Upload the contents of this folder to its default branch.
-3. In the repository, open **Settings → Pages**, select **Deploy from a branch**, then choose the default branch and **/(root)**.
-4. Save. GitHub will provide the live URL within a few minutes.
-
-This site is dependency-free: `index.html`, `styles.css`, and `script.js` are all it needs.
+- Add or edit articles in `articles.js`.
+- Edit the About page (name, text) in `about.html`; add your photo as `profile.jpg`.
+- Site name and sections are at the top of `script.js`.
+- Hosted with GitHub Pages (Settings → Pages → main branch, /root).
