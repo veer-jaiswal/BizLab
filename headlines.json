@@ -1,0 +1,460 @@
+{
+ "updated": "2026-10-24T09:14:50.895857+00:00",
+ "categories": {
+  "top": {
+   "name": "Top stories",
+   "items": [
+    {
+     "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+     "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T09:03:15+00:00"
+    },
+    {
+     "title": "This decade has been missing its big-impact midterm",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+     "source": "NPR",
+     "date": "2026-10-24T09:00:00+00:00"
+    },
+    {
+     "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+     "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+     "source": "NPR",
+     "date": "2026-10-24T07:04:13+00:00"
+    },
+    {
+     "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
+     "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+     "source": "CNBC",
+     "date": "2026-10-24T06:41:14+00:00"
+    },
+    {
+     "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+     "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+     "source": "CNBC",
+     "date": "2026-10-24T06:23:02+00:00"
+    },
+    {
+     "title": "France prepares for day of protest a week after nationwide riots",
+     "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T06:19:46+00:00"
+    },
+    {
+     "title": "Watch: The rise of AI election ads in US midterms campaign",
+     "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T05:03:44+00:00"
+    },
+    {
+     "title": "What a day in customer service looks like — as AI changes everything",
+     "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+     "source": "CNBC",
+     "date": "2026-10-24T05:00:01+00:00"
+    },
+    {
+     "title": "Met investigates reports of letter detailing claims about Meghan's father",
+     "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T03:17:24+00:00"
+    },
+    {
+     "title": "Severe flooding hits Four Corners region, more expected through the weekend",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+     "source": "NPR",
+     "date": "2026-10-24T00:40:42+00:00"
+    }
+   ]
+  },
+  "politics": {
+   "name": "Politics",
+   "items": [
+    {
+     "title": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
+     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
+     "source": "The Guardian",
+     "date": "2026-10-24T09:00:28+00:00"
+    },
+    {
+     "title": "This decade has been missing its big-impact midterm",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
+     "source": "NPR",
+     "date": "2026-10-24T09:00:00+00:00"
+    },
+    {
+     "title": "As Trump’s time runs out, this could be his most dangerous legacy: a world divided into three | Steve Bloomfield",
+     "link": "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
+     "source": "The Guardian",
+     "date": "2026-10-24T05:00:24+00:00"
+    },
+    {
+     "title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
+     "link": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
+     "source": "The Guardian",
+     "date": "2026-10-24T02:52:47+00:00"
+    },
+    {
+     "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
+     "source": "The Guardian",
+     "date": "2026-10-24T02:01:54+00:00"
+    },
+    {
+     "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+     "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+     "source": "The Guardian",
+     "date": "2026-10-24T00:30:02+00:00"
+    },
+    {
+     "title": "Surging turnout, with Democrats voting more: key takeaways from early voting data",
+     "link": "https://www.theguardian.com/us-news/2026/oct/23/early-voting-data-key-takeaways",
+     "source": "The Guardian",
+     "date": "2026-10-23T22:57:52+00:00"
+    },
+    {
+     "title": "At a Texas high school football game, fans offer a glimpse into evolving politics",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-6003856/at-a-texas-high-school-football-game-fans-offer-a-glimpse-into-evolving-politics",
+     "source": "NPR",
+     "date": "2026-10-23T22:35:40+00:00"
+    },
+    {
+     "title": "Russia steps up election influence efforts in final stretch of midterms",
+     "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
+     "source": "NPR",
+     "date": "2026-10-23T21:40:02+00:00"
+    },
+    {
+     "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+     "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+     "source": "CNBC",
+     "date": "2026-10-23T21:26:59+00:00"
+    }
+   ]
+  },
+  "world": {
+   "name": "World & government",
+   "items": [
+    {
+     "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+     "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T09:03:15+00:00"
+    },
+    {
+     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+     "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T07:17:44+00:00"
+    },
+    {
+     "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+     "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+     "source": "NPR",
+     "date": "2026-10-24T07:04:13+00:00"
+    },
+    {
+     "title": "France prepares for day of protest a week after nationwide riots",
+     "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T06:19:46+00:00"
+    },
+    {
+     "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T05:31:01+00:00"
+    },
+    {
+     "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
+     "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
+     "source": "The Guardian",
+     "date": "2026-10-24T02:22:32+00:00"
+    },
+    {
+     "title": "Australian MP's condition improves after alleged car attack",
+     "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T01:55:15+00:00"
+    },
+    {
+     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T00:36:47+00:00"
+    },
+    {
+     "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+     "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+     "source": "The Guardian",
+     "date": "2026-10-24T00:30:02+00:00"
+    },
+    {
+     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T00:05:43+00:00"
+    }
+   ]
+  },
+  "business": {
+   "name": "Business",
+   "items": [
+    {
+     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T00:36:47+00:00"
+    },
+    {
+     "title": "How does the UK state pension compare with other countries?",
+     "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T00:09:12+00:00"
+    },
+    {
+     "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+     "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T00:05:45+00:00"
+    },
+    {
+     "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+     "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+     "source": "CNBC",
+     "date": "2026-10-23T18:57:48+00:00"
+    },
+    {
+     "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+     "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+     "source": "CNBC",
+     "date": "2026-10-23T16:51:21+00:00"
+    },
+    {
+     "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+     "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-23T15:15:13+00:00"
+    },
+    {
+     "title": "Moderna shares plunge after cancer vaccine data leaks — despite positive results",
+     "link": "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+     "source": "CNBC",
+     "date": "2026-10-23T14:36:34+00:00"
+    },
+    {
+     "title": "Restaurant earnings will test whether owning more brands pays off",
+     "link": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
+     "source": "CNBC",
+     "date": "2026-10-23T13:55:46+00:00"
+    },
+    {
+     "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+     "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-23T11:48:04+00:00"
+    },
+    {
+     "title": "Why Meta is charging to post more hyperlinks",
+     "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+     "source": "NPR",
+     "date": "2026-10-23T11:00:00+00:00"
+    }
+   ]
+  },
+  "finance": {
+   "name": "Finance",
+   "items": [
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T08:00:00+00:00"
+    },
+    {
+     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T07:00:00+00:00"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-23T22:49:00+00:00"
+    },
+    {
+     "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
+     "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+     "source": "The Guardian",
+     "date": "2026-10-23T22:03:07+00:00"
+    },
+    {
+     "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
+     "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-23T22:00:00+00:00"
+    },
+    {
+     "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+     "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-23T21:46:00+00:00"
+    },
+    {
+     "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
+     "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-23T21:13:00+00:00"
+    },
+    {
+     "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
+     "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-23T21:11:00+00:00"
+    },
+    {
+     "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
+     "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-23T21:06:00+00:00"
+    },
+    {
+     "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
+     "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-23T20:50:00+00:00"
+    }
+   ]
+  },
+  "economy": {
+   "name": "Economy",
+   "items": [
+    {
+     "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+     "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+     "source": "CNBC",
+     "date": "2026-10-23T20:49:42+00:00"
+    },
+    {
+     "title": "Why Meta is charging to post more hyperlinks",
+     "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
+     "source": "NPR",
+     "date": "2026-10-23T11:00:00+00:00"
+    },
+    {
+     "title": "Gene editing scientists slowed down for safety. Could AI leaders follow their guide?",
+     "link": "https://www.npr.org/2026/10/22/nx-s1-6001731/gene-editing-scientists-slowed-down-for-safety-could-ai-leaders-follow-their-guide",
+     "source": "NPR",
+     "date": "2026-10-22T21:38:53+00:00"
+    },
+    {
+     "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+     "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+     "source": "CNBC",
+     "date": "2026-10-22T16:40:09+00:00"
+    },
+    {
+     "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+     "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+     "source": "CNBC",
+     "date": "2026-10-21T11:20:58+00:00"
+    },
+    {
+     "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+     "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+     "source": "CNBC",
+     "date": "2026-10-21T07:50:10+00:00"
+    },
+    {
+     "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+     "link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
+     "source": "CNBC",
+     "date": "2026-10-21T01:01:01+00:00"
+    },
+    {
+     "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+     "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+     "source": "NPR",
+     "date": "2026-10-20T10:30:00+00:00"
+    },
+    {
+     "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+     "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+     "source": "NPR",
+     "date": "2026-10-20T09:00:00+00:00"
+    },
+    {
+     "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
+     "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+     "source": "CNBC",
+     "date": "2026-10-19T18:36:21+00:00"
+    }
+   ]
+  },
+  "startups": {
+   "name": "Startups",
+   "items": [
+    {
+     "title": "Startups don’t need to go viral to win customers",
+     "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+     "source": "TechCrunch",
+     "date": "2026-10-23T23:07:45+00:00"
+    },
+    {
+     "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+     "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+     "source": "TechCrunch",
+     "date": "2026-10-23T20:57:13+00:00"
+    },
+    {
+     "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+     "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+     "source": "TechCrunch",
+     "date": "2026-10-23T20:03:14+00:00"
+    },
+    {
+     "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
+     "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
+     "source": "TechCrunch",
+     "date": "2026-10-23T19:25:13+00:00"
+    },
+    {
+     "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+     "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+     "source": "TechCrunch",
+     "date": "2026-10-23T19:06:23+00:00"
+    },
+    {
+     "title": "The Week’s 10 Biggest Funding Rounds: AI Drives A Varied Lineup Of Large Financings",
+     "link": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-biotech-robotics-tenstorrent/",
+     "source": "Crunchbase News",
+     "date": "2026-10-23T18:51:22+00:00"
+    },
+    {
+     "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+     "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+     "source": "TechCrunch",
+     "date": "2026-10-23T16:26:29+00:00"
+    },
+    {
+     "title": "Protecting Trade Secrets In The Age Of AI",
+     "link": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
+     "source": "Crunchbase News",
+     "date": "2026-10-23T11:00:29+00:00"
+    },
+    {
+     "title": "5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement",
+     "link": "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-gaming-clean-tech/",
+     "source": "Crunchbase News",
+     "date": "2026-10-23T11:00:08+00:00"
+    },
+    {
+     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+     "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+     "source": "TechCrunch",
+     "date": "2026-10-22T23:15:00+00:00"
+    }
+   ]
+  }
+ }
+}
