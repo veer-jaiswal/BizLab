@@ -1,9 +1,27 @@
 {
- "updated": "2026-10-24T18:13:26.526845+00:00",
+ "updated": "2026-10-24T20:58:23.582193+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
+    {
+     "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T20:30:43+00:00"
+    },
+    {
+     "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+     "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+     "source": "CNBC",
+     "date": "2026-10-24T19:57:24+00:00"
+    },
+    {
+     "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+     "link": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T19:37:35+00:00"
+    },
     {
      "title": "Ukraine says Starlink is back to normal after disruptions",
      "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
@@ -17,7 +35,7 @@
      "date": "2026-10-24T17:22:21+00:00"
     },
     {
-     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-24T17:21:42+00:00"
@@ -29,10 +47,10 @@
      "date": "2026-10-24T17:11:56+00:00"
     },
     {
-     "title": "Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
-     "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T15:56:48+00:00"
+     "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+     "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+     "source": "CNBC",
+     "date": "2026-10-24T15:53:30+00:00"
     },
     {
      "title": "Why popular airplanes are getting scrapped years early",
@@ -41,28 +59,10 @@
      "date": "2026-10-24T15:18:30+00:00"
     },
     {
-     "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
-     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T15:13:40+00:00"
-    },
-    {
      "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
      "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
      "source": "CNBC",
      "date": "2026-10-24T15:00:01+00:00"
-    },
-    {
-     "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
-     "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
-     "source": "CNBC",
-     "date": "2026-10-24T14:30:01+00:00"
-    },
-    {
-     "title": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
-     "link": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
-     "source": "CNBC",
-     "date": "2026-10-24T13:05:01+00:00"
     }
    ]
   },
@@ -70,16 +70,28 @@
    "name": "Politics",
    "items": [
     {
+     "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+     "source": "CNBC",
+     "date": "2026-10-24T20:38:30+00:00"
+    },
+    {
+     "title": "Barack Obama to rally for Abdul El-Sayed in Michigan before key US Senate race – US politics live",
+     "link": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
+     "source": "The Guardian",
+     "date": "2026-10-24T20:28:45+00:00"
+    },
+    {
+     "title": "Democrats, voting-rights groups challenge Trump's bid to block Alaska Senate certification",
+     "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
+     "source": "CNBC",
+     "date": "2026-10-24T19:57:24+00:00"
+    },
+    {
      "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
      "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
      "source": "CNBC",
      "date": "2026-10-24T17:22:21+00:00"
-    },
-    {
-     "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
-     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
-     "source": "CNBC",
-     "date": "2026-10-24T13:00:35+00:00"
     },
     {
      "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
@@ -116,24 +128,24 @@
      "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
      "source": "CNBC",
      "date": "2026-10-24T10:59:16+00:00"
-    },
-    {
-     "title": "Tom Kean had everything going for him. Then the Republican New Jersey congressman disappeared",
-     "link": "https://www.theguardian.com/us-news/2026/oct/24/tom-kean-new-jersey-rebecca-bennett",
-     "source": "The Guardian",
-     "date": "2026-10-24T10:00:31+00:00"
-    },
-    {
-     "title": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
-     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
-     "source": "The Guardian",
-     "date": "2026-10-24T09:00:28+00:00"
     }
    ]
   },
   "world": {
    "name": "World & government",
    "items": [
+    {
+     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+     "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T19:12:51+00:00"
+    },
+    {
+     "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+     "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+     "source": "The Guardian",
+     "date": "2026-10-24T18:11:44+00:00"
+    },
     {
      "title": "Ukraine says Starlink is back to normal after disruptions",
      "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
@@ -147,6 +159,12 @@
      "date": "2026-10-24T17:25:46+00:00"
     },
     {
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T17:21:42+00:00"
+    },
+    {
      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
      "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -157,12 +175,6 @@
      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-24T15:21:44+00:00"
-    },
-    {
-     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-     "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T14:45:30+00:00"
     },
     {
      "title": "Kim Jong-un crosses newly opened bridge into China",
@@ -181,18 +193,6 @@
      "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
      "source": "NPR",
      "date": "2026-10-24T11:59:08+00:00"
-    },
-    {
-     "title": "European student protests take aim at Serbia's elections",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
-     "source": "NPR",
-     "date": "2026-10-24T11:42:11+00:00"
-    },
-    {
-     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T09:46:53+00:00"
     }
    ]
   },
@@ -265,6 +265,30 @@
    "name": "Finance",
    "items": [
     {
+     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T20:15:00+00:00"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T20:00:00+00:00"
+    },
+    {
+     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T19:45:00+00:00"
+    },
+    {
+     "title": "Young Americans are giving up on car ownership. It’s a path to financial freedom for some.",
+     "link": "https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T18:45:00+00:00"
+    },
+    {
      "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
      "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
      "source": "MarketWatch",
@@ -299,30 +323,6 @@
      "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-10-24T16:18:00+00:00"
-    },
-    {
-     "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
-     "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-24T16:04:00+00:00"
-    },
-    {
-     "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
-     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-24T16:00:00+00:00"
-    },
-    {
-     "title": "Money-saving habits to cope with higher prices — from our readers",
-     "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-24T15:27:00+00:00"
-    },
-    {
-     "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
-     "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-24T15:10:00+00:00"
     }
    ]
   },
