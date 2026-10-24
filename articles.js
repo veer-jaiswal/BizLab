@@ -47,7 +47,7 @@ body: `
 <p>A good product gets you the right to compete. Distribution decides who wins.</p>
 `},
 {
-id: "what-a-moat-actually-is", section: "business", date: "2026-10-21T16:56",
+id: "what-a-moat-actually-is", section: "venture", date: "2026-10-21T16:56",
 title: "What a Moat Actually Is (and Why Most Startups Don’t Have One)",
 summary: "Most advantages founders call a moat can be copied. The real sources of durable advantage, and a simple test for each.",
 body: `
