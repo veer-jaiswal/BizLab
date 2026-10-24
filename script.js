@@ -69,7 +69,7 @@ function renderHome() {
         <a class="text-link" href="${link(a)}">Read the article <span>→</span></a>
       </article>
       <aside class="topics"><h2 class="eyebrow">Browse by topic</h2><ul>${topics}</ul></aside>
-    </section>${news}${blocks}`;
+    </section>${HEADLINES_SHELL}${news}${blocks}`;
 }
 
 function renderArticle() {
@@ -97,25 +97,38 @@ function renderArticle() {
 }
 
 function initContact() {
-  const form = document.getElementById("contact-form"), status = document.getElementById("form-status");
+  const form = document.getElementById("contact-form");
   if (!form) return;
-  form.addEventListener("submit", async (e) => {
-    e.preventDefault();
-    const btn = form.querySelector("button"); btn.disabled = true; status.textContent = "Sending…";
-    try {
-      const data = Object.fromEntries(new FormData(form));
-      data._subject = "New message from BizLab"; data._template = "table";
-      const res = await fetch("https://formsubmit.co/ajax/" + CONTACT_EMAIL, { method: "POST", headers: { "Content-Type": "application/json", Accept: "application/json" }, body: JSON.stringify(data) });
-      const out = await res.json();
-      if (!res.ok || out.success === false || out.success === "false") throw new Error("failed");
-      form.reset(); status.textContent = "Thanks, your message was sent.";
-    } catch { status.textContent = "Sorry, that didn't send. Please email " + CONTACT_EMAIL + " directly."; }
-    btn.disabled = false;
-  });
+  if (new URLSearchParams(location.search).get("sent")) { form.outerHTML = '<p class="lead">Thanks, your message was sent. I\'ll reply by email.</p>'; return; }
+  document.getElementById("next-url").value = location.origin + location.pathname + "?sent=1";
+}
+
+/* ---- Headlines (refreshed automatically by fetch_headlines.py via GitHub Actions) ---- */
+const HEADLINES_URL = "https://raw.githubusercontent.com/veer-jaiswal/BizLab/main/headlines.json";
+const HEADLINES_SHELL = `<section id="headlines" class="topic" aria-labelledby="headlines-title" hidden>
+  <div class="section-heading"><h2 id="headlines-title">Today in the news</h2><p id="headlines-updated"></p></div>
+  <div class="tabs" id="headline-tabs"></div><div class="article-list" id="headline-list"></div></section>`;
+const ago = (iso) => { const m = Math.round((Date.now() - new Date(iso)) / 60000); return !iso || isNaN(m) ? "" : m < 60 ? Math.max(m, 1) + "m ago" : m < 1440 ? Math.round(m / 60) + "h ago" : Math.round(m / 1440) + "d ago"; };
+async function loadHeadlines() {
+  const box = document.getElementById("headlines"); if (!box) return;
+  let data;
+  for (const url of [HEADLINES_URL, "headlines.json"]) { try { const r = await fetch(url, { cache: "no-cache" }); if (r.ok) { data = await r.json(); break; } } catch (e) {} }
+  if (!data || !data.categories) return;
+  const ids = Object.keys(data.categories).filter((id) => data.categories[id].items.length);
+  if (!ids.length) return;
+  const tabs = document.getElementById("headline-tabs"), list = document.getElementById("headline-list");
+  const show = (id) => {
+    tabs.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.id === id)));
+    list.innerHTML = data.categories[id].items.slice(0, 8).map((n) => `<article class="headline"><a href="${esc(n.link)}" target="_blank" rel="noopener">${esc(n.title)}</a><span>${esc(n.source)}${n.date ? " · " + ago(n.date) : ""}</span></article>`).join("");
+  };
+  tabs.innerHTML = ids.map((id) => `<button type="button" data-id="${id}" aria-pressed="false">${esc(data.categories[id].name)}</button>`).join("");
+  tabs.addEventListener("click", (e) => { if (e.target.dataset.id) show(e.target.dataset.id); });
+  document.getElementById("headlines-updated").textContent = "Headlines from NPR, BBC, CNBC and others. Updated " + ago(data.updated) + ".";
+  box.hidden = false; show(ids[0]);
 }
 
 const page = document.body.dataset.page;
 if (page === "article") renderArticle(); else renderHeader(page === "about" || page === "contact" ? page : "");
-if (page === "home") renderHome();
+if (page === "home") { renderHome(); loadHeadlines(); }
 if (page === "contact") initContact();
 document.getElementById("site-footer").innerHTML = `<a class="wordmark small" href="index.html">${SITE.first}<span>${SITE.second}</span></a><p>${SITE.tagline}.</p><p>© ${new Date().getFullYear()} ${SITE.author}</p>`;
