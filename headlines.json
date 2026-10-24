@@ -1,74 +1,80 @@
 {
- "updated": "2026-10-24T13:24:17.077683+00:00",
+ "updated": "2026-10-24T18:13:26.526845+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
-     "link": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
-     "source": "CNBC",
-     "date": "2026-10-24T13:05:01+00:00"
+     "title": "Ukraine says Starlink is back to normal after disruptions",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+     "source": "NPR",
+     "date": "2026-10-24T17:54:25+00:00"
     },
     {
-     "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
-     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+     "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+     "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
      "source": "CNBC",
-     "date": "2026-10-24T13:00:35+00:00"
+     "date": "2026-10-24T17:22:21+00:00"
+    },
+    {
+     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T17:21:42+00:00"
+    },
+    {
+     "title": "Mum who died trying to save sons swept away in Bahamas was hero, husband says",
+     "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T17:11:56+00:00"
+    },
+    {
+     "title": "Watch: Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+     "link": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T15:56:48+00:00"
     },
     {
      "title": "Why popular airplanes are getting scrapped years early",
      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
      "source": "CNBC",
-     "date": "2026-10-24T12:59:59+00:00"
+     "date": "2026-10-24T15:18:30+00:00"
     },
     {
-     "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
-     "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+     "title": "UK braces for worst of Storm Boelo as amber warnings due to come into force",
+     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-24T12:59:49+00:00"
+     "date": "2026-10-24T15:13:40+00:00"
     },
     {
-     "title": "Berkshire shares shake the Buffett blues with new all-time highs",
-     "link": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+     "title": "Retail investors are not more sophisticated than 30 years ago, says former hedge fund manager",
+     "link": "https://www.cnbc.com/2026/10/24/stock-picking-could-hurt-investors-warns-former-hedge-fund-manager.html",
      "source": "CNBC",
-     "date": "2026-10-24T12:48:32+00:00"
+     "date": "2026-10-24T15:00:01+00:00"
     },
     {
-     "title": "Ukraine says Starlink connection 'now stable' after network limits",
-     "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T12:12:40+00:00"
+     "title": "Amgen says drug combo cuts risk of death by 58% in patients with aggressive lung cancer",
+     "link": "https://www.cnbc.com/2026/10/24/amgen-imdelltra-lung-cancer-data.html",
+     "source": "CNBC",
+     "date": "2026-10-24T14:30:01+00:00"
     },
     {
-     "title": "Perspective: The next James Bond",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
-     "source": "NPR",
-     "date": "2026-10-24T12:00:00+00:00"
-    },
-    {
-     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-     "source": "NPR",
-     "date": "2026-10-24T11:59:08+00:00"
-    },
-    {
-     "title": "Between quick wins and big dreams lies Burnham's biggest test",
-     "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T11:03:57+00:00"
-    },
-    {
-     "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T11:00:48+00:00"
+     "title": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+     "link": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
+     "source": "CNBC",
+     "date": "2026-10-24T13:05:01+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
+     "link": "https://www.cnbc.com/2026/10/24/iran-threats-us-embassies-middle-east.html",
+     "source": "CNBC",
+     "date": "2026-10-24T17:22:21+00:00"
+    },
     {
      "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
      "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
@@ -122,12 +128,6 @@
      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
      "source": "The Guardian",
      "date": "2026-10-24T09:00:28+00:00"
-    },
-    {
-     "title": "This decade has been missing its big-impact midterm",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-     "source": "NPR",
-     "date": "2026-10-24T09:00:00+00:00"
     }
    ]
   },
@@ -135,10 +135,40 @@
    "name": "World & government",
    "items": [
     {
+     "title": "Ukraine says Starlink is back to normal after disruptions",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+     "source": "NPR",
+     "date": "2026-10-24T17:54:25+00:00"
+    },
+    {
+     "title": "Two rescued after Nairobi building collapse with five still missing",
+     "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T17:25:46+00:00"
+    },
+    {
+     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+     "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T17:11:56+00:00"
+    },
+    {
+     "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+     "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T15:21:44+00:00"
+    },
+    {
+     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+     "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T14:45:30+00:00"
+    },
+    {
      "title": "Kim Jong-un crosses newly opened bridge into China",
      "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
      "source": "The Guardian",
-     "date": "2026-10-24T12:54:33+00:00"
+     "date": "2026-10-24T13:34:56+00:00"
     },
     {
      "title": "Ukraine says Starlink connection 'now stable' after network limits",
@@ -159,40 +189,10 @@
      "date": "2026-10-24T11:42:11+00:00"
     },
     {
-     "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-     "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T11:23:59+00:00"
-    },
-    {
      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
      "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-24T09:46:53+00:00"
-    },
-    {
-     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-     "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T09:45:47+00:00"
-    },
-    {
-     "title": "Seven missing after multi-storey building collapses in Kenya's capital",
-     "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T09:44:01+00:00"
-    },
-    {
-     "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
-     "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
-     "source": "The Guardian",
-     "date": "2026-10-24T09:43:09+00:00"
-    },
-    {
-     "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-     "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T07:17:44+00:00"
     }
    ]
   },
@@ -200,10 +200,16 @@
    "name": "Business",
    "items": [
     {
+     "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
+     "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
+     "source": "CNBC",
+     "date": "2026-10-24T15:53:30+00:00"
+    },
+    {
      "title": "Why popular airplanes are getting scrapped years early",
      "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
      "source": "CNBC",
-     "date": "2026-10-24T12:59:59+00:00"
+     "date": "2026-10-24T15:18:30+00:00"
     },
     {
      "title": "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
@@ -236,12 +242,6 @@
      "date": "2026-10-23T18:57:48+00:00"
     },
     {
-     "title": "Fewer people are flying as airfare soars. Here's why airlines aren't worried",
-     "link": "https://www.cnbc.com/2026/10/23/airfare-airline-capacity.html",
-     "source": "CNBC",
-     "date": "2026-10-23T16:51:21+00:00"
-    },
-    {
      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
      "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+     "title": "I’m 58 and hate annuities. How can I get dependable income in retirement?",
+     "link": "https://www.marketwatch.com/story/im-58-and-hate-annuities-how-can-i-get-dependable-income-in-retirement-cd6040f4?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-24T13:00:00+00:00"
+     "date": "2026-10-24T18:03:00+00:00"
     },
     {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "title": "I want to pay off $4,500 in credit-card debt in 2 months. Is this possible?",
+     "link": "https://www.marketwatch.com/story/i-want-to-pay-off-4-500-in-credit-card-debt-in-2-months-is-this-possible-059d9a21?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-24T12:30:00+00:00"
+     "date": "2026-10-24T17:39:00+00:00"
     },
     {
-     "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
-     "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+     "title": "Over 40% of Americans are heading toward retirement ‘blind’ — with no plan",
+     "link": "https://www.marketwatch.com/story/over-40-of-americans-are-heading-toward-retirement-blind-with-no-plan-e49b502f?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-24T12:25:00+00:00"
+     "date": "2026-10-24T17:23:00+00:00"
     },
     {
-     "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
-     "link": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
+     "title": "Elon Musk promised a SpaceX share to every kid in America — don’t hold your breath",
+     "link": "https://www.marketwatch.com/story/elon-musk-promised-a-spacex-share-to-every-kid-in-america-dont-hold-your-breath-d6572cdf?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-24T12:00:00+00:00"
+     "date": "2026-10-24T16:59:00+00:00"
     },
     {
-     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
-     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+     "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
+     "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-24T12:00:00+00:00"
+     "date": "2026-10-24T16:46:00+00:00"
     },
     {
-     "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
-     "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+     "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
+     "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-24T11:30:00+00:00"
+     "date": "2026-10-24T16:18:00+00:00"
     },
     {
-     "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
-     "link": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
+     "title": "Retire on 8% a year with little or no risk? How to use annuities the right way.",
+     "link": "https://www.marketwatch.com/story/retire-on-8-a-year-with-little-or-no-risk-how-to-use-annuities-the-right-way-06ababc5?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-24T11:00:00+00:00"
+     "date": "2026-10-24T16:04:00+00:00"
     },
     {
-     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "title": "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-23T22:49:00+00:00"
+     "date": "2026-10-24T16:00:00+00:00"
     },
     {
-     "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-     "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
-     "source": "The Guardian",
-     "date": "2026-10-23T22:03:07+00:00"
+     "title": "Money-saving habits to cope with higher prices — from our readers",
+     "link": "https://www.marketwatch.com/story/money-saving-hacks-to-cope-with-higher-prices-from-our-readers-a092767e?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T15:27:00+00:00"
     },
     {
-     "title": "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-     "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+     "title": "Is getting a wedding band from Quince a bad idea? It’s a third of the price of a local jeweler.",
+     "link": "https://www.marketwatch.com/story/is-getting-a-wedding-band-from-quince-a-bad-idea-its-a-third-of-the-price-fa89c9b2?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-23T22:00:00+00:00"
+     "date": "2026-10-24T15:10:00+00:00"
     }
    ]
   },
