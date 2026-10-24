@@ -1,74 +1,122 @@
 {
- "updated": "2026-10-24T09:14:50.895857+00:00",
+ "updated": "2026-10-24T13:24:17.077683+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-     "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T09:03:15+00:00"
-    },
-    {
-     "title": "This decade has been missing its big-impact midterm",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-     "source": "NPR",
-     "date": "2026-10-24T09:00:00+00:00"
-    },
-    {
-     "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-     "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-     "source": "NPR",
-     "date": "2026-10-24T07:04:13+00:00"
-    },
-    {
-     "title": "Turmoil hits AI buildout as neoclouds face pressure, credit risks mount and Solidigm pulls IPO",
-     "link": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+     "title": "Fact vs. fiction: Doctors share whether peptides are safe and effective",
+     "link": "https://www.cnbc.com/make-it/2026/10/24/peptides-safety-risks-benefits.html",
      "source": "CNBC",
-     "date": "2026-10-24T06:41:14+00:00"
+     "date": "2026-10-24T13:05:01+00:00"
     },
     {
-     "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-     "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+     "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
      "source": "CNBC",
-     "date": "2026-10-24T06:23:02+00:00"
+     "date": "2026-10-24T13:00:35+00:00"
     },
     {
-     "title": "France prepares for day of protest a week after nationwide riots",
-     "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T06:19:46+00:00"
-    },
-    {
-     "title": "Watch: The rise of AI election ads in US midterms campaign",
-     "link": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T05:03:44+00:00"
-    },
-    {
-     "title": "What a day in customer service looks like — as AI changes everything",
-     "link": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+     "title": "Why popular airplanes are getting scrapped years early",
+     "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
      "source": "CNBC",
-     "date": "2026-10-24T05:00:01+00:00"
+     "date": "2026-10-24T12:59:59+00:00"
     },
     {
-     "title": "Met investigates reports of letter detailing claims about Meghan's father",
-     "link": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
+     "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+     "link": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-24T03:17:24+00:00"
+     "date": "2026-10-24T12:59:49+00:00"
     },
     {
-     "title": "Severe flooding hits Four Corners region, more expected through the weekend",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6014742/flooding-weather-four-corners",
+     "title": "Berkshire shares shake the Buffett blues with new all-time highs",
+     "link": "https://www.cnbc.com/2026/10/24/berkshire-record-high-without-buffett.html",
+     "source": "CNBC",
+     "date": "2026-10-24T12:48:32+00:00"
+    },
+    {
+     "title": "Ukraine says Starlink connection 'now stable' after network limits",
+     "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T12:12:40+00:00"
+    },
+    {
+     "title": "Perspective: The next James Bond",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
      "source": "NPR",
-     "date": "2026-10-24T00:40:42+00:00"
+     "date": "2026-10-24T12:00:00+00:00"
+    },
+    {
+     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+     "source": "NPR",
+     "date": "2026-10-24T11:59:08+00:00"
+    },
+    {
+     "title": "Between quick wins and big dreams lies Burnham's biggest test",
+     "link": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T11:03:57+00:00"
+    },
+    {
+     "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+     "link": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T11:00:48+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
+     "link": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+     "source": "CNBC",
+     "date": "2026-10-24T13:00:35+00:00"
+    },
+    {
+     "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
+     "link": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
+     "source": "The Guardian",
+     "date": "2026-10-24T12:00:32+00:00"
+    },
+    {
+     "title": "The rise of the economic populist: What voters want from both parties this year",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
+     "source": "NPR",
+     "date": "2026-10-24T11:42:08+00:00"
+    },
+    {
+     "title": "Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate",
+     "source": "NPR",
+     "date": "2026-10-24T11:42:06+00:00"
+    },
+    {
+     "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
+     "link": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
+     "source": "The Guardian",
+     "date": "2026-10-24T11:35:22+00:00"
+    },
+    {
+     "title": "New Trump rule allows hunters to bait bears in Alaska with doughnuts, bacon and more",
+     "link": "https://www.theguardian.com/us-news/2026/oct/24/trump-administration-alaska-bear-hunting-bait",
+     "source": "The Guardian",
+     "date": "2026-10-24T11:00:32+00:00"
+    },
+    {
+     "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+     "link": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+     "source": "CNBC",
+     "date": "2026-10-24T10:59:16+00:00"
+    },
+    {
+     "title": "Tom Kean had everything going for him. Then the Republican New Jersey congressman disappeared",
+     "link": "https://www.theguardian.com/us-news/2026/oct/24/tom-kean-new-jersey-rebecca-bennett",
+     "source": "The Guardian",
+     "date": "2026-10-24T10:00:31+00:00"
+    },
     {
      "title": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
@@ -80,54 +128,6 @@
      "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
      "source": "NPR",
      "date": "2026-10-24T09:00:00+00:00"
-    },
-    {
-     "title": "As Trump’s time runs out, this could be his most dangerous legacy: a world divided into three | Steve Bloomfield",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/24/donald-trump-world-three-summit-vladimir-putin-xi-jinping",
-     "source": "The Guardian",
-     "date": "2026-10-24T05:00:24+00:00"
-    },
-    {
-     "title": "Democrat James Talarico targets Elon Musk at rally: ‘Texas is not for sale’",
-     "link": "https://www.theguardian.com/us-news/2026/oct/23/democrat-james-talarico-targets-elon-musk-at-rally-texas-is-not-for-sale",
-     "source": "The Guardian",
-     "date": "2026-10-24T02:52:47+00:00"
-    },
-    {
-     "title": "Ramaswamy accuses Acton of ‘lying’ about attack ad, but court records contradict mother’s claim – as it happened",
-     "link": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-     "source": "The Guardian",
-     "date": "2026-10-24T02:01:54+00:00"
-    },
-    {
-     "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-     "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-     "source": "The Guardian",
-     "date": "2026-10-24T00:30:02+00:00"
-    },
-    {
-     "title": "Surging turnout, with Democrats voting more: key takeaways from early voting data",
-     "link": "https://www.theguardian.com/us-news/2026/oct/23/early-voting-data-key-takeaways",
-     "source": "The Guardian",
-     "date": "2026-10-23T22:57:52+00:00"
-    },
-    {
-     "title": "At a Texas high school football game, fans offer a glimpse into evolving politics",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-6003856/at-a-texas-high-school-football-game-fans-offer-a-glimpse-into-evolving-politics",
-     "source": "NPR",
-     "date": "2026-10-23T22:35:40+00:00"
-    },
-    {
-     "title": "Russia steps up election influence efforts in final stretch of midterms",
-     "link": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
-     "source": "NPR",
-     "date": "2026-10-23T21:40:02+00:00"
-    },
-    {
-     "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-     "link": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
-     "source": "CNBC",
-     "date": "2026-10-23T21:26:59+00:00"
     }
    ]
   },
@@ -135,70 +135,82 @@
    "name": "World & government",
    "items": [
     {
+     "title": "Kim Jong-un crosses newly opened bridge into China",
+     "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+     "source": "The Guardian",
+     "date": "2026-10-24T12:54:33+00:00"
+    },
+    {
+     "title": "Ukraine says Starlink connection 'now stable' after network limits",
+     "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T12:12:40+00:00"
+    },
+    {
+     "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
+     "source": "NPR",
+     "date": "2026-10-24T11:59:08+00:00"
+    },
+    {
+     "title": "European student protests take aim at Serbia's elections",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
+     "source": "NPR",
+     "date": "2026-10-24T11:42:11+00:00"
+    },
+    {
      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-24T09:03:15+00:00"
+     "date": "2026-10-24T11:23:59+00:00"
+    },
+    {
+     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+     "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T09:46:53+00:00"
+    },
+    {
+     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+     "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T09:45:47+00:00"
+    },
+    {
+     "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+     "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T09:44:01+00:00"
+    },
+    {
+     "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+     "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+     "source": "The Guardian",
+     "date": "2026-10-24T09:43:09+00:00"
     },
     {
      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-24T07:17:44+00:00"
-    },
-    {
-     "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-     "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-     "source": "NPR",
-     "date": "2026-10-24T07:04:13+00:00"
-    },
-    {
-     "title": "France prepares for day of protest a week after nationwide riots",
-     "link": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T06:19:46+00:00"
-    },
-    {
-     "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T05:31:01+00:00"
-    },
-    {
-     "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-     "link": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-     "source": "The Guardian",
-     "date": "2026-10-24T02:22:32+00:00"
-    },
-    {
-     "title": "Australian MP's condition improves after alleged car attack",
-     "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T01:55:15+00:00"
-    },
-    {
-     "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
-     "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T00:36:47+00:00"
-    },
-    {
-     "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-     "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-     "source": "The Guardian",
-     "date": "2026-10-24T00:30:02+00:00"
-    },
-    {
-     "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T00:05:43+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Why popular airplanes are getting scrapped years early",
+     "link": "https://www.cnbc.com/2026/10/24/spirit-airlines-planes-scrapped-engine-shortage.html",
+     "source": "CNBC",
+     "date": "2026-10-24T12:59:59+00:00"
+    },
+    {
+     "title": "A consultant is going viral for exposing the cringe-worthy DMs bosses send employees",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6012795/a-consultant-is-going-viral-for-exposing-the-cringe-worthy-dms-bosses-send-employees",
+     "source": "NPR",
+     "date": "2026-10-24T11:42:12+00:00"
+    },
     {
      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
@@ -246,18 +258,6 @@
      "link": "https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html",
      "source": "CNBC",
      "date": "2026-10-23T13:55:46+00:00"
-    },
-    {
-     "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-     "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-23T11:48:04+00:00"
-    },
-    {
-     "title": "Why Meta is charging to post more hyperlinks",
-     "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-     "source": "NPR",
-     "date": "2026-10-23T11:00:00+00:00"
     }
    ]
   },
@@ -265,16 +265,46 @@
    "name": "Finance",
    "items": [
     {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-24T08:00:00+00:00"
-    },
-    {
      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-24T07:00:00+00:00"
+     "date": "2026-10-24T13:00:00+00:00"
+    },
+    {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T12:30:00+00:00"
+    },
+    {
+     "title": "Moderna’s cancer vaccine is ‘likely’ to get approved. Skeptics question if it will be the best option.",
+     "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T12:25:00+00:00"
+    },
+    {
+     "title": "AI fever ignites a boom in thematic ETFs as fund managers hunt for their next big hit",
+     "link": "https://www.marketwatch.com/story/ai-fever-ignites-a-boom-in-thematic-etfs-as-fund-managers-hunt-for-their-next-big-hit-82d1566c?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T12:00:00+00:00"
+    },
+    {
+     "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
+     "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T12:00:00+00:00"
+    },
+    {
+     "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+     "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T11:30:00+00:00"
+    },
+    {
+     "title": "Do machines have feelings? AI has philosophers and tech leaders rethinking consciousness.",
+     "link": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-24T11:00:00+00:00"
     },
     {
      "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
@@ -293,42 +323,18 @@
      "link": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-10-23T22:00:00+00:00"
-    },
-    {
-     "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-     "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-23T21:46:00+00:00"
-    },
-    {
-     "title": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.",
-     "link": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-23T21:13:00+00:00"
-    },
-    {
-     "title": "The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.",
-     "link": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-23T21:11:00+00:00"
-    },
-    {
-     "title": "The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.",
-     "link": "https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-23T21:06:00+00:00"
-    },
-    {
-     "title": "Some Republicans are opposing Trump on tariffs. Maine’s Susan Collins just got him to back down on Canadian levies.",
-     "link": "https://www.marketwatch.com/story/some-republicans-are-opposing-trump-on-tariffs-maines-susan-collins-just-got-him-to-back-down-on-canadian-levies-02b202ae?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-23T20:50:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "AI panic and market volatility: Are the stock market's big gains unsustainable?",
+     "link": "https://www.npr.org/2026/10/24/nx-s1-6013402/ai-panic-and-market-volatility-are-the-stock-markets-big-gains-unsustainable",
+     "source": "NPR",
+     "date": "2026-10-24T11:42:12+00:00"
+    },
     {
      "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
      "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
@@ -382,12 +388,6 @@
      "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
      "source": "NPR",
      "date": "2026-10-20T09:00:00+00:00"
-    },
-    {
-     "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-     "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-     "source": "CNBC",
-     "date": "2026-10-19T18:36:21+00:00"
     }
    ]
   },
