@@ -1,9 +1,51 @@
 {
- "updated": "2026-10-24T23:21:36.195991+00:00",
+ "updated": "2026-10-25T04:53:05.667118+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
+    {
+     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T04:16:52+00:00"
+    },
+    {
+     "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+     "source": "NPR",
+     "date": "2026-10-25T04:01:00+00:00"
+    },
+    {
+     "title": "Budget to include £1bn for social and affordable housing",
+     "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T02:57:30+00:00"
+    },
+    {
+     "title": "Meghan broke contact with father in letter citing abuse claims",
+     "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T01:44:19+00:00"
+    },
+    {
+     "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T01:32:00+00:00"
+    },
+    {
+     "title": "Burnham open to 'honest discussion' on EU free movement",
+     "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T00:33:19+00:00"
+    },
+    {
+     "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
+     "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-24T23:50:02+00:00"
+    },
     {
      "title": "Rosebank: Life on the oil field at the centre of a political storm",
      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
@@ -21,48 +63,6 @@
      "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-24T23:03:21+00:00"
-    },
-    {
-     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T23:02:06+00:00"
-    },
-    {
-     "title": "Ukraine depends on Starlink - can Europe plug the gap?",
-     "link": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T23:00:08+00:00"
-    },
-    {
-     "title": "A shark went astray and captured Korea's heart - will she finally make it back to sea?",
-     "link": "https://www.bbc.co.uk/news/articles/c9zrdknlmpdlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T22:58:43+00:00"
-    },
-    {
-     "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
-     "source": "NPR",
-     "date": "2026-10-24T22:47:58+00:00"
-    },
-    {
-     "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T22:44:36+00:00"
-    },
-    {
-     "title": "Trade tariffs cause whiplash at Port Milwaukee",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-     "source": "NPR",
-     "date": "2026-10-24T21:20:55+00:00"
-    },
-    {
-     "title": "How data centers became a bipartisan political issue in Wisconsin",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
-     "source": "NPR",
-     "date": "2026-10-24T21:20:53+00:00"
     }
    ]
   },
@@ -70,10 +70,22 @@
    "name": "Politics",
    "items": [
     {
-     "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – US politics live",
+     "title": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’",
+     "link": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+     "source": "The Guardian",
+     "date": "2026-10-25T00:16:17+00:00"
+    },
+    {
+     "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
+     "link": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+     "source": "The Guardian",
+     "date": "2026-10-25T00:14:30+00:00"
+    },
+    {
+     "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – as it happened",
      "link": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
      "source": "The Guardian",
-     "date": "2026-10-24T23:12:26+00:00"
+     "date": "2026-10-24T23:53:19+00:00"
     },
     {
      "title": "Man detained at Georgia immigration detention center dies as hunger strike continues",
@@ -106,12 +118,6 @@
      "date": "2026-10-24T19:57:24+00:00"
     },
     {
-     "title": "Epstein files take back seat in midterms but experts say issue has not gone away",
-     "link": "https://www.theguardian.com/us-news/2026/oct/24/epstein-files-midterms",
-     "source": "The Guardian",
-     "date": "2026-10-24T12:00:32+00:00"
-    },
-    {
      "title": "The rise of the economic populist: What voters want from both parties this year",
      "link": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
      "source": "NPR",
@@ -122,18 +128,18 @@
      "link": "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate",
      "source": "NPR",
      "date": "2026-10-24T11:42:06+00:00"
-    },
-    {
-     "title": "ICC prosecutor says court making ‘significant progress’ despite US sanctions",
-     "link": "https://www.theguardian.com/law/2026/oct/24/icc-deputy-prosecutor-nazhat-shameem-khan-marco-rubio-us-sanctions",
-     "source": "The Guardian",
-     "date": "2026-10-24T11:35:22+00:00"
     }
    ]
   },
   "world": {
    "name": "World & government",
    "items": [
+    {
+     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T04:16:52+00:00"
+    },
     {
      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
      "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
@@ -157,12 +163,6 @@
      "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
      "source": "The Guardian",
      "date": "2026-10-24T21:10:23+00:00"
-    },
-    {
-     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
-     "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T21:09:27+00:00"
     },
     {
      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
@@ -199,6 +199,12 @@
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Budget to include £1bn for social and affordable housing",
+     "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T02:57:30+00:00"
+    },
     {
      "title": "Rosebank: Life on the oil field at the centre of a political storm",
      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
@@ -252,12 +258,6 @@
      "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
      "source": "CNBC",
      "date": "2026-10-23T18:57:48+00:00"
-    },
-    {
-     "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-     "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-23T15:15:13+00:00"
     }
    ]
   },
