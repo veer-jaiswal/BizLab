@@ -1,74 +1,110 @@
 {
- "updated": "2026-10-25T16:32:08.655723+00:00",
+ "updated": "2026-10-25T20:57:11.344738+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Venezuelan opposition leader María Machado returns after months in exile",
-     "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T16:21:40+00:00"
+     "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+     "source": "NPR",
+     "date": "2026-10-25T20:35:35+00:00"
     },
     {
-     "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-     "source": "NPR",
-     "date": "2026-10-25T16:18:41+00:00"
+     "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+     "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T20:32:27+00:00"
+    },
+    {
+     "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+     "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+     "source": "CNBC",
+     "date": "2026-10-25T20:28:55+00:00"
     },
     {
      "title": "Early reports suggest record high turnout in Serbia elections",
      "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T16:05:15+00:00"
+     "date": "2026-10-25T19:55:15+00:00"
     },
     {
-     "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-     "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-     "source": "CNBC",
-     "date": "2026-10-25T16:02:56+00:00"
-    },
-    {
-     "title": "Israelis have changed. Will they change their leadership?",
-     "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-     "source": "NPR",
-     "date": "2026-10-25T16:00:00+00:00"
-    },
-    {
-     "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
-     "source": "NPR",
-     "date": "2026-10-25T15:03:17+00:00"
-    },
-    {
-     "title": "Couple were celebrating anniversary before Bahamas tragedy",
-     "link": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+     "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+     "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T14:38:51+00:00"
+     "date": "2026-10-25T18:38:17+00:00"
     },
     {
-     "title": "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-     "link": "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-     "source": "CNBC",
-     "date": "2026-10-25T14:14:23+00:00"
-    },
-    {
-     "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-     "link": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-     "source": "CNBC",
-     "date": "2026-10-25T13:41:37+00:00"
-    },
-    {
-     "title": "Burnham open to 'honest discussion' on EU free movement",
-     "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+     "title": "Long queues after power surge at Stansted Airport",
+     "link": "https://www.bbc.co.uk/news/articles/c64g14481n7qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T12:11:23+00:00"
+     "date": "2026-10-25T18:35:57+00:00"
+    },
+    {
+     "title": "Venezuelan opposition leader María Machado returns after months in exile",
+     "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T18:29:00+00:00"
+    },
+    {
+     "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+     "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+     "source": "CNBC",
+     "date": "2026-10-25T18:18:49+00:00"
+    },
+    {
+     "title": "Board of Deputies of British Jews declares Greens to be racist party",
+     "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T18:05:17+00:00"
+    },
+    {
+     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+     "source": "NPR",
+     "date": "2026-10-25T17:50:35+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
+     "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
+     "source": "CNBC",
+     "date": "2026-10-25T20:28:55+00:00"
+    },
+    {
+     "title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
+     "link": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
+     "source": "The Guardian",
+     "date": "2026-10-25T20:28:27+00:00"
+    },
+    {
+     "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
+     "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
+     "source": "CNBC",
+     "date": "2026-10-25T18:18:49+00:00"
+    },
+    {
+     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+     "source": "NPR",
+     "date": "2026-10-25T17:50:35+00:00"
+    },
+    {
+     "title": "Blanche defends DoJ’s pre-emptive suit to block Alaska Senate results certification",
+     "link": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
+     "source": "The Guardian",
+     "date": "2026-10-25T16:48:41+00:00"
+    },
+    {
+     "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+     "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+     "source": "CNBC",
+     "date": "2026-10-25T16:42:42+00:00"
+    },
     {
      "title": "‘Prairie Populists’ fight to win back rural voters long ceded to Republicans",
      "link": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
@@ -88,46 +124,10 @@
      "date": "2026-10-25T13:43:19+00:00"
     },
     {
-     "title": "How to build a police state | William Wheeler",
-     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state",
-     "source": "The Guardian",
-     "date": "2026-10-25T13:00:03+00:00"
-    },
-    {
-     "title": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
-     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
-     "source": "The Guardian",
-     "date": "2026-10-25T13:00:03+00:00"
-    },
-    {
      "title": "Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?",
      "link": "https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them",
      "source": "NPR",
      "date": "2026-10-25T12:06:29+00:00"
-    },
-    {
-     "title": "Democrats see an opportunity to tilt Pennsylvania's state legislature their way",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6003880/democrats-see-an-opportunity-to-tilt-pennsylvanias-state-legislature-their-way",
-     "source": "NPR",
-     "date": "2026-10-25T12:06:25+00:00"
-    },
-    {
-     "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-     "link": "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-     "source": "CNBC",
-     "date": "2026-10-25T12:00:01+00:00"
-    },
-    {
-     "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
-     "source": "NPR",
-     "date": "2026-10-25T09:00:00+00:00"
-    },
-    {
-     "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
-     "source": "NPR",
-     "date": "2026-10-25T09:00:00+00:00"
     }
    ]
   },
@@ -135,22 +135,40 @@
    "name": "World & government",
    "items": [
     {
+     "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+     "source": "The Guardian",
+     "date": "2026-10-25T19:56:56+00:00"
+    },
+    {
+     "title": "Early reports suggest record high turnout in Serbia elections",
+     "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T19:55:15+00:00"
+    },
+    {
+     "title": "Brazil election 2026: Live second round results",
+     "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+     "source": "The Guardian",
+     "date": "2026-10-25T19:37:49+00:00"
+    },
+    {
+     "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+     "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T19:14:27+00:00"
+    },
+    {
      "title": "Venezuelan opposition leader María Machado returns after months in exile",
      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T16:21:40+00:00"
+     "date": "2026-10-25T18:29:00+00:00"
     },
     {
      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
      "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
      "source": "NPR",
      "date": "2026-10-25T16:18:41+00:00"
-    },
-    {
-     "title": "Early reports suggest record high turnout in Serbia elections",
-     "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T16:05:15+00:00"
     },
     {
      "title": "Israelis have changed. Will they change their leadership?",
@@ -175,24 +193,6 @@
      "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-25T14:39:47+00:00"
-    },
-    {
-     "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
-     "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
-     "source": "The Guardian",
-     "date": "2026-10-25T11:52:45+00:00"
-    },
-    {
-     "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
-     "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
-     "source": "NPR",
-     "date": "2026-10-25T11:24:58+00:00"
-    },
-    {
-     "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-     "link": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-     "source": "The Guardian",
-     "date": "2026-10-25T11:00:01+00:00"
     }
    ]
   },
@@ -265,16 +265,46 @@
    "name": "Finance",
    "items": [
     {
+     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
+     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-25T20:15:00+00:00"
+    },
+    {
+     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
+     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-25T20:00:00+00:00"
+    },
+    {
+     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-25T19:30:00+00:00"
+    },
+    {
+     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
+     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-25T18:00:00+00:00"
+    },
+    {
+     "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
+     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-25T17:00:00+00:00"
+    },
+    {
+     "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
+     "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-25T17:00:00+00:00"
+    },
+    {
      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-10-25T14:30:00+00:00"
-    },
-    {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T14:00:00+00:00"
     },
     {
      "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
@@ -293,36 +323,6 @@
      "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
      "source": "The Guardian",
      "date": "2026-10-25T13:43:19+00:00"
-    },
-    {
-     "title": "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-     "link": "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T13:00:00+00:00"
-    },
-    {
-     "title": "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
-     "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T12:44:00+00:00"
-    },
-    {
-     "title": "Why economic health no longer dictates stock-market returns",
-     "link": "https://www.marketwatch.com/story/why-economic-health-no-longer-dictates-stock-market-returns-c44b88f2?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T12:00:00+00:00"
-    },
-    {
-     "title": "Here’s the real signal to watch for the Fed’s next move",
-     "link": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T11:30:00+00:00"
-    },
-    {
-     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-24T20:15:00+00:00"
     }
    ]
   },
