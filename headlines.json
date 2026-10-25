@@ -1,68 +1,68 @@
 {
- "updated": "2026-10-25T04:53:05.667118+00:00",
+ "updated": "2026-10-25T11:43:26.551100+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+     "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+     "source": "NPR",
+     "date": "2026-10-25T11:24:58+00:00"
+    },
+    {
+     "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+     "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T11:00:26+00:00"
+    },
+    {
+     "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T04:16:52+00:00"
+     "date": "2026-10-25T10:38:15+00:00"
     },
     {
-     "title": "Drought, fire and high diesel prices 'addin' up tough' for Oregon ranchers",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-5992998/drought-fire-and-high-diesel-prices-addin-up-tough-for-oregon-ranchers",
+     "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
      "source": "NPR",
-     "date": "2026-10-25T04:01:00+00:00"
+     "date": "2026-10-25T10:00:00+00:00"
     },
     {
-     "title": "Budget to include £1bn for social and affordable housing",
-     "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+     "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+     "source": "NPR",
+     "date": "2026-10-25T09:00:00+00:00"
+    },
+    {
+     "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+     "source": "NPR",
+     "date": "2026-10-25T09:00:00+00:00"
+    },
+    {
+     "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+     "source": "NPR",
+     "date": "2026-10-25T09:00:00+00:00"
+    },
+    {
+     "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T02:57:30+00:00"
+     "date": "2026-10-25T09:00:00+00:00"
+    },
+    {
+     "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+     "link": "https://www.cnbc.com/2026/10/24/france-riots-paris-unrest-debt-budget.html",
+     "source": "CNBC",
+     "date": "2026-10-25T08:06:11+00:00"
     },
     {
      "title": "Meghan broke contact with father in letter citing abuse claims",
      "link": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T01:44:19+00:00"
-    },
-    {
-     "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
-     "link": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T01:32:00+00:00"
-    },
-    {
-     "title": "Burnham open to 'honest discussion' on EU free movement",
-     "link": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T00:33:19+00:00"
-    },
-    {
-     "title": "Voters in Brazil to choose between Lula and Bolsonaro's son",
-     "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T23:50:02+00:00"
-    },
-    {
-     "title": "Rosebank: Life on the oil field at the centre of a political storm",
-     "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T23:15:18+00:00"
-    },
-    {
-     "title": "Why the charts are full of old songs - and so are your playlists",
-     "link": "https://www.bbc.co.uk/news/articles/c6kg50nnj0x4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T23:05:41+00:00"
-    },
-    {
-     "title": "The bitter row over military service that could shape Israel's future",
-     "link": "https://www.bbc.co.uk/news/articles/cmvg7w0x742do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T23:03:21+00:00"
+     "date": "2026-10-25T08:05:31+00:00"
     }
    ]
   },
@@ -70,34 +70,46 @@
    "name": "Politics",
    "items": [
     {
-     "title": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’",
-     "link": "https://www.theguardian.com/us-news/2026/oct/24/california-noncitizen-voting-trump-administration",
+     "title": "Trump administration has pushed off 13% of Americans enrolled in food stamps",
+     "link": "https://www.theguardian.com/us-news/2026/oct/25/trump-food-stamp-cuts",
      "source": "The Guardian",
-     "date": "2026-10-25T00:16:17+00:00"
+     "date": "2026-10-25T11:00:02+00:00"
     },
     {
-     "title": "Obama rallies rapturous Michigan crowd for El-Sayed: ‘He’ll finish the job we started’",
-     "link": "https://www.theguardian.com/us-news/2026/oct/24/barack-obama-abdul-el-sayed-michigan",
+     "title": "‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms?",
+     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans",
      "source": "The Guardian",
-     "date": "2026-10-25T00:14:30+00:00"
+     "date": "2026-10-25T11:00:02+00:00"
     },
     {
-     "title": "‘Change is in the air’: Obama praises El-Sayed and attacks Trump at Michigan rally – as it happened",
-     "link": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
+     "title": "‘Talking to every single person matters’: ‘prairie populists’ canvass the rural US heartland to win in midterms",
+     "link": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
      "source": "The Guardian",
-     "date": "2026-10-24T23:53:19+00:00"
+     "date": "2026-10-25T10:00:02+00:00"
     },
     {
-     "title": "Man detained at Georgia immigration detention center dies as hunger strike continues",
-     "link": "https://www.theguardian.com/us-news/2026/oct/24/georgia-ice-man-dies",
+     "title": "US seized American heir’s cellphone in violation of treaty agreement, lawyer says",
+     "link": "https://www.theguardian.com/us-news/2026/oct/25/fbi-spain-james-fergie-chambers-cox",
      "source": "The Guardian",
-     "date": "2026-10-24T22:06:15+00:00"
+     "date": "2026-10-25T09:00:58+00:00"
     },
     {
-     "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-     "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
+     "title": "In Arkansas, Democrats see an opening at the edge of the competitive midterms map",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6009402/midterm-blue-wave-map-arkansas-democrats-cotton-shoffner-hill-jones",
+     "source": "NPR",
+     "date": "2026-10-25T09:00:00+00:00"
+    },
+    {
+     "title": "Independent candidates sense a moment in the West. Democrats are hoping they're right",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+     "source": "NPR",
+     "date": "2026-10-25T09:00:00+00:00"
+    },
+    {
+     "title": "Ten days that could shake the world: democratic norms at stake in four pivotal elections",
+     "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
      "source": "The Guardian",
-     "date": "2026-10-24T21:25:58+00:00"
+     "date": "2026-10-25T07:00:56+00:00"
     },
     {
      "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections",
@@ -116,18 +128,6 @@
      "link": "https://www.cnbc.com/2026/10/24/alaska-senate-doj-certification-lawsuit.html",
      "source": "CNBC",
      "date": "2026-10-24T19:57:24+00:00"
-    },
-    {
-     "title": "The rise of the economic populist: What voters want from both parties this year",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-5979036/the-rise-of-the-economic-populist-what-voters-want-from-both-parties-this-year",
-     "source": "NPR",
-     "date": "2026-10-24T11:42:08+00:00"
-    },
-    {
-     "title": "Week in Politics: Ramaswamy's Ohio ad; Trump greenlights DOJ to sue over Alaska Senate",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6012100/week-in-politics-ramaswamys-ohio-ad-trump-greenlights-doj-to-sue-over-alaska-senate",
-     "source": "NPR",
-     "date": "2026-10-24T11:42:06+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+     "title": "The College of Magic turns ordinary kids into confident, top-hat wearing magicians",
+     "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+     "source": "NPR",
+     "date": "2026-10-25T11:24:58+00:00"
+    },
+    {
+     "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
+     "link": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T11:00:26+00:00"
+    },
+    {
+     "title": "Demand for UK government action 10 months after British man’s death in Grenada",
+     "link": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+     "source": "The Guardian",
+     "date": "2026-10-25T11:00:01+00:00"
+    },
+    {
+     "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+     "link": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T10:55:33+00:00"
+    },
+    {
+     "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
      "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T04:16:52+00:00"
+     "date": "2026-10-25T10:38:15+00:00"
     },
     {
-     "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-     "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T23:02:06+00:00"
-    },
-    {
-     "title": "Protests roil France once again as police seek to quell violence",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
-     "source": "NPR",
-     "date": "2026-10-24T21:21:00+00:00"
-    },
-    {
-     "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
-     "source": "NPR",
-     "date": "2026-10-24T21:20:52+00:00"
-    },
-    {
-     "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-     "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+     "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+     "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
      "source": "The Guardian",
-     "date": "2026-10-24T21:10:23+00:00"
+     "date": "2026-10-25T09:33:05+00:00"
     },
     {
-     "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-     "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
+     "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+     "link": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-24T19:12:51+00:00"
+     "date": "2026-10-25T09:00:00+00:00"
     },
     {
-     "title": "Ukraine says Starlink is back to normal after disruptions",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-     "source": "NPR",
-     "date": "2026-10-24T17:54:25+00:00"
-    },
-    {
-     "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
-     "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T17:11:56+00:00"
-    },
-    {
-     "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
-     "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T15:21:44+00:00"
-    },
-    {
-     "title": "Kim Jong-un crosses newly opened bridge into China",
-     "link": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+     "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+     "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
      "source": "The Guardian",
-     "date": "2026-10-24T13:34:56+00:00"
+     "date": "2026-10-25T08:00:58+00:00"
+    },
+    {
+     "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+     "source": "NPR",
+     "date": "2026-10-25T07:15:00+00:00"
+    },
+    {
+     "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+     "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T05:15:52+00:00"
     }
    ]
   },
@@ -203,13 +203,25 @@
      "title": "Budget to include £1bn for social and affordable housing",
      "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T02:57:30+00:00"
+     "date": "2026-10-25T10:03:17+00:00"
     },
     {
      "title": "Rosebank: Life on the oil field at the centre of a political storm",
      "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-24T23:15:18+00:00"
+     "date": "2026-10-25T07:15:38+00:00"
+    },
+    {
+     "title": "Will a new code end 'rip-off parking charges'?",
+     "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T07:05:30+00:00"
+    },
+    {
+     "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+     "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T06:00:15+00:00"
     },
     {
      "title": "Trade tariffs cause whiplash at Port Milwaukee",
@@ -246,24 +258,18 @@
      "link": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-24T00:09:12+00:00"
-    },
-    {
-     "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-     "link": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-24T00:05:45+00:00"
-    },
-    {
-     "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
-     "link": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
-     "source": "CNBC",
-     "date": "2026-10-23T18:57:48+00:00"
     }
    ]
   },
   "finance": {
    "name": "Finance",
    "items": [
+    {
+     "title": "Here’s the real signal to watch for the Fed’s next move",
+     "link": "https://www.marketwatch.com/story/heres-the-real-signal-to-watch-for-the-feds-next-move-9189cb51?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-25T11:30:00+00:00"
+    },
     {
      "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
      "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
@@ -317,12 +323,6 @@
      "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-10-24T16:46:00+00:00"
-    },
-    {
-     "title": "Walmart, Best Buy and other stores now use digital price tags. Critics say they could lead to different prices for different shoppers.",
-     "link": "https://www.marketwatch.com/story/walmart-best-buy-and-other-stores-now-use-digital-price-tags-critics-say-they-could-lead-to-different-prices-for-different-shoppers-19e2f4da?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-24T16:18:00+00:00"
     }
    ]
   },
