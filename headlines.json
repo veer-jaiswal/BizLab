@@ -1,20 +1,50 @@
 {
- "updated": "2026-10-25T20:57:11.344738+00:00",
+ "updated": "2026-10-25T23:20:03.125628+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
+     "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+     "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T22:54:57+00:00"
+    },
+    {
+     "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
+     "link": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T22:37:36+00:00"
+    },
+    {
+     "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+     "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T22:24:16+00:00"
+    },
+    {
+     "title": "Antonelli wins in US but has to wait to secure title",
+     "link": "https://www.bbc.co.uk/sport/formula1/articles/cm20w8154wn0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T22:13:05+00:00"
+    },
+    {
+     "title": "Deeply divided Israel braces for pivotal election",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T22:11:13+00:00"
+    },
+    {
+     "title": "End approaching for Carrick but Man Utd fans make clear who they blame",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cwm24jk9743yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T21:24:21+00:00"
+    },
+    {
      "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
      "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
      "source": "NPR",
      "date": "2026-10-25T20:35:35+00:00"
-    },
-    {
-     "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
-     "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T20:32:27+00:00"
     },
     {
      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
@@ -23,52 +53,28 @@
      "date": "2026-10-25T20:28:55+00:00"
     },
     {
-     "title": "Early reports suggest record high turnout in Serbia elections",
-     "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T19:55:15+00:00"
-    },
-    {
      "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
      "link": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-25T18:38:17+00:00"
     },
     {
-     "title": "Long queues after power surge at Stansted Airport",
-     "link": "https://www.bbc.co.uk/news/articles/c64g14481n7qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T18:35:57+00:00"
-    },
-    {
      "title": "Venezuelan opposition leader María Machado returns after months in exile",
      "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-25T18:29:00+00:00"
-    },
-    {
-     "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-     "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-     "source": "CNBC",
-     "date": "2026-10-25T18:18:49+00:00"
-    },
-    {
-     "title": "Board of Deputies of British Jews declares Greens to be racist party",
-     "link": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T18:05:17+00:00"
-    },
-    {
-     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
-     "source": "NPR",
-     "date": "2026-10-25T17:50:35+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
+     "link": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+     "source": "The Guardian",
+     "date": "2026-10-25T22:36:59+00:00"
+    },
     {
      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
      "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
@@ -118,12 +124,6 @@
      "date": "2026-10-25T14:00:04+00:00"
     },
     {
-     "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
-     "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
-     "source": "The Guardian",
-     "date": "2026-10-25T13:43:19+00:00"
-    },
-    {
      "title": "Politics chat: The polls show a Democratic sweep in the midterms. Can you trust them?",
      "link": "https://www.npr.org/2026/10/25/nx-s1-6014525/politics-chat-the-polls-show-a-democratic-sweep-in-the-midterms-can-you-trust-them",
      "source": "NPR",
@@ -135,22 +135,46 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
-     "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+     "title": "Brazil runoff live updates: ballot count resumes after two-hour voting extension",
+     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
      "source": "The Guardian",
-     "date": "2026-10-25T19:56:56+00:00"
+     "date": "2026-10-25T23:10:55+00:00"
     },
     {
-     "title": "Early reports suggest record high turnout in Serbia elections",
-     "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+     "title": "Serbia's veteran ruler Vučić concedes election to student-led protest movement",
+     "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-25T19:55:15+00:00"
+     "date": "2026-10-25T22:54:57+00:00"
     },
     {
      "title": "Brazil election 2026: Live second round results",
      "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
      "source": "The Guardian",
-     "date": "2026-10-25T19:37:49+00:00"
+     "date": "2026-10-25T22:11:16+00:00"
+    },
+    {
+     "title": "Deeply divided Israel braces for pivotal election",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-25T22:11:13+00:00"
+    },
+    {
+     "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil",
+     "source": "NPR",
+     "date": "2026-10-25T21:22:43+00:00"
+    },
+    {
+     "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+     "link": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+     "source": "NPR",
+     "date": "2026-10-25T21:22:40+00:00"
+    },
+    {
+     "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+     "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+     "source": "The Guardian",
+     "date": "2026-10-25T19:56:56+00:00"
     },
     {
      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
@@ -169,30 +193,6 @@
      "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
      "source": "NPR",
      "date": "2026-10-25T16:18:41+00:00"
-    },
-    {
-     "title": "Israelis have changed. Will they change their leadership?",
-     "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
-     "source": "NPR",
-     "date": "2026-10-25T16:00:00+00:00"
-    },
-    {
-     "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-     "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T15:32:51+00:00"
-    },
-    {
-     "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
-     "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
-     "source": "The Guardian",
-     "date": "2026-10-25T14:41:17+00:00"
-    },
-    {
-     "title": "Gabon says access to social media restored after eight-month ban",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T14:39:47+00:00"
     }
    ]
   },
