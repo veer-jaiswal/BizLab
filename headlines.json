@@ -1,68 +1,68 @@
 {
- "updated": "2026-10-26T04:57:10.837171+00:00",
+ "updated": "2026-10-26T13:15:28.541208+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
-     "link": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-26T04:41:36+00:00"
-    },
-    {
-     "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+     "title": "Oil prices fall as Saudi defense minister travels to Iran for talks to de-escalate conflict",
+     "link": "https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html",
      "source": "CNBC",
-     "date": "2026-10-26T04:09:41+00:00"
+     "date": "2026-10-26T13:11:08+00:00"
     },
     {
-     "title": "Lula wins but faces hostile Congress and divided country",
-     "link": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-26T03:55:13+00:00"
+     "title": "Apollo to buy nearly 10% stake in Abu Dhabi-backed alternative asset manager Mubadala Capital",
+     "link": "https://www.cnbc.com/2026/10/26/apollo-mubadala-capital-stake.html",
+     "source": "CNBC",
+     "date": "2026-10-26T13:09:26+00:00"
     },
     {
-     "title": "Venezuelan opposition leader María Machado returns after months in exile",
-     "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-26T03:05:22+00:00"
+     "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+     "link": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+     "source": "CNBC",
+     "date": "2026-10-26T13:02:37+00:00"
     },
     {
-     "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
-     "link": "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-26T01:43:55+00:00"
-    },
-    {
-     "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
-     "link": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-26T01:40:39+00:00"
-    },
-    {
-     "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+     "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-26T01:07:05+00:00"
+     "date": "2026-10-26T12:52:16+00:00"
     },
     {
-     "title": "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
-     "link": "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+     "title": "Meta announces $95 billion stock offering to fund AI expansion",
+     "link": "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
      "source": "CNBC",
-     "date": "2026-10-26T00:37:51+00:00"
+     "date": "2026-10-26T12:42:41+00:00"
     },
     {
-     "title": "Brazil's left-wing President Lula elected for fourth term",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-     "source": "NPR",
-     "date": "2026-10-26T00:35:00+00:00"
-    },
-    {
-     "title": "Behind ‘Mad Money’ was a brilliant writer viewers never saw. We lost him too soon",
-     "link": "https://www.cnbc.com/investingclub/2026/10/25/jim-cramer-remembers-cliff-mason.html",
+     "title": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+     "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
      "source": "CNBC",
-     "date": "2026-10-26T00:28:36+00:00"
+     "date": "2026-10-26T12:33:16+00:00"
+    },
+    {
+     "title": "Burnham leaves door open to referendum on EU free movement",
+     "link": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-26T12:20:41+00:00"
+    },
+    {
+     "title": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
+     "link": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
+     "source": "CNBC",
+     "date": "2026-10-26T12:15:01+00:00"
+    },
+    {
+     "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+     "source": "CNBC",
+     "date": "2026-10-26T12:14:55+00:00"
+    },
+    {
+     "title": "Neocloud stocks fall as Elon Musk says more than 200 of them face 'guppy-level death'",
+     "link": "https://www.cnbc.com/2026/10/26/neocloud-stocks-today-coreweave-nebius-iren-elon-musk.html",
+     "source": "CNBC",
+     "date": "2026-10-26T12:10:07+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
-     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
-     "source": "CNBC",
-     "date": "2026-10-26T04:09:41+00:00"
+     "title": "Trump intensifies anti-Muslim rhetoric against Abdul El-Sayed at Michigan rally – US politics live",
+     "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
+     "source": "The Guardian",
+     "date": "2026-10-26T13:07:21+00:00"
     },
     {
-     "title": "Trump rallies for Mike Rogers – and Nicki Minaj’s derriere – in Michigan",
-     "link": "https://www.theguardian.com/us-news/2026/oct/25/trump-nicki-minaj-mike-rogers-michigan-rally",
+     "title": "On the campaign trail in Michigan, Abdul El-Sayed rides a wave of support for Medicare for All",
+     "link": "https://www.theguardian.com/us-news/2026/oct/27/michigan-abdul-el-sayed-medicare-for-all",
      "source": "The Guardian",
-     "date": "2026-10-25T22:36:59+00:00"
+     "date": "2026-10-26T13:00:42+00:00"
+    },
+    {
+     "title": "Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?",
+     "link": "https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html",
+     "source": "CNBC",
+     "date": "2026-10-26T12:33:16+00:00"
+    },
+    {
+     "title": "Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters",
+     "link": "https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html",
+     "source": "CNBC",
+     "date": "2026-10-26T12:15:01+00:00"
+    },
+    {
+     "title": "Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede",
+     "link": "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+     "source": "CNBC",
+     "date": "2026-10-26T12:14:55+00:00"
+    },
+    {
+     "title": "Donald Trump has been a disaster for rural America | Steven Greenhouse",
+     "link": "https://www.theguardian.com/commentisfree/2026/oct/26/donald-trump-policy-disaster-rural-america",
+     "source": "The Guardian",
+     "date": "2026-10-26T12:00:40+00:00"
+    },
+    {
+     "title": "Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'",
+     "link": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html",
+     "source": "CNBC",
+     "date": "2026-10-26T11:49:17+00:00"
     },
     {
      "title": "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
      "link": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html",
      "source": "CNBC",
-     "date": "2026-10-25T20:28:55+00:00"
+     "date": "2026-10-26T11:33:09+00:00"
     },
     {
-     "title": "Alaska Senate candidate Mary Peltola delays campaign stops after car crash",
-     "link": "https://www.theguardian.com/us-news/2026/oct/25/mary-peltola-family-car-crash-alaska-senate",
-     "source": "The Guardian",
-     "date": "2026-10-25T20:28:27+00:00"
-    },
-    {
-     "title": "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-     "link": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-     "source": "CNBC",
-     "date": "2026-10-25T18:18:49+00:00"
-    },
-    {
-     "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+     "title": "Redistricting isn't playing out how the GOP hoped. And, Brazil's Lula wins 4th term",
+     "link": "https://www.npr.org/2026/10/26/g-s1-149917/up-first-newsletter-republican-redistricting-france-serbia-protests-brazil-luiz-inacio-lula-da-silva",
      "source": "NPR",
-     "date": "2026-10-25T17:50:35+00:00"
+     "date": "2026-10-26T11:11:00+00:00"
     },
     {
-     "title": "Blanche defends DoJ’s pre-emptive suit to block Alaska Senate results certification",
-     "link": "https://www.theguardian.com/us-news/2026/oct/25/todd-blanche-doj-lawsuit-alaska-senate-election-results",
+     "title": "Discontent with Trump buoys Democrats in Ohio: ‘People are disgusted by the corruption’",
+     "link": "https://www.theguardian.com/us-news/2026/oct/26/ohio-democrats-trump",
      "source": "The Guardian",
-     "date": "2026-10-25T16:48:41+00:00"
-    },
-    {
-     "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-     "link": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-     "source": "CNBC",
-     "date": "2026-10-25T16:42:42+00:00"
-    },
-    {
-     "title": "‘Prairie Populists’ fight to win back rural voters long ceded to Republicans",
-     "link": "https://www.theguardian.com/us-news/2026/oct/25/prairie-populists-midwest-prairie-states-midterm-elections",
-     "source": "The Guardian",
-     "date": "2026-10-25T14:37:29+00:00"
-    },
-    {
-     "title": "A child of Japanese incarceration’s call to arms: ‘The lessons of Manzanar have never been more urgent’",
-     "link": "https://www.theguardian.com/us-news/2026/oct/25/manzanar-japanese-incarceration-baseball",
-     "source": "The Guardian",
-     "date": "2026-10-25T14:00:04+00:00"
+     "date": "2026-10-26T11:00:42+00:00"
     }
    ]
   },
@@ -135,70 +135,88 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
-     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-     "source": "The Guardian",
-     "date": "2026-10-26T04:38:16+00:00"
-    },
-    {
-     "title": "Venezuelan opposition leader María Machado returns after months in exile",
-     "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+     "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+     "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-26T03:05:22+00:00"
+     "date": "2026-10-26T12:57:58+00:00"
     },
     {
-     "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+     "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+     "link": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+     "source": "The Guardian",
+     "date": "2026-10-26T12:52:39+00:00"
+    },
+    {
+     "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
      "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-26T01:07:05+00:00"
+     "date": "2026-10-26T12:52:16+00:00"
     },
     {
-     "title": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
-     "link": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+     "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
+     "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
      "source": "The Guardian",
-     "date": "2026-10-26T00:58:25+00:00"
+     "date": "2026-10-26T12:50:24+00:00"
     },
     {
-     "title": "Brazil's left-wing President Lula elected for fourth term",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-     "source": "NPR",
-     "date": "2026-10-26T00:35:00+00:00"
-    },
-    {
-     "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
-     "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+     "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+     "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
      "source": "The Guardian",
-     "date": "2026-10-26T00:19:05+00:00"
+     "date": "2026-10-26T11:00:40+00:00"
     },
     {
-     "title": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
-     "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+     "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+     "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
      "source": "The Guardian",
-     "date": "2026-10-26T00:15:36+00:00"
+     "date": "2026-10-26T09:59:27+00:00"
     },
     {
-     "title": "Deeply divided Israel braces for pivotal election",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T22:11:13+00:00"
+     "title": "‘Zero-energy companionship’: bizarre hobby takes seed among China’s stressed young adults",
+     "link": "https://www.theguardian.com/world/2026/oct/26/zero-energy-companionship-bizarre-hobby-takes-seed-among-chinas-stressed-young-adults",
+     "source": "The Guardian",
+     "date": "2026-10-26T09:47:14+00:00"
     },
     {
-     "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil",
+     "title": "Russia says it will open humanitarian corridor to Ukrainian town",
+     "link": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town",
      "source": "NPR",
-     "date": "2026-10-25T21:22:43+00:00"
+     "date": "2026-10-26T08:42:00+00:00"
     },
     {
-     "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
-     "link": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
-     "source": "NPR",
-     "date": "2026-10-25T21:22:40+00:00"
+     "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
+     "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+     "source": "The Guardian",
+     "date": "2026-10-26T06:59:36+00:00"
+    },
+    {
+     "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
+     "link": "https://www.theguardian.com/world/2026/oct/26/brazil-presidential-elections-luiz-inacio-lula-da-silva-flavio-bolsonaro",
+     "source": "The Guardian",
+     "date": "2026-10-26T06:44:33+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+     "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+     "source": "CNBC",
+     "date": "2026-10-26T12:49:14+00:00"
+    },
+    {
+     "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+     "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-26T10:48:46+00:00"
+    },
+    {
+     "title": "Healey to shield low-income pensioners from income tax in the Budget",
+     "link": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-26T10:28:12+00:00"
+    },
     {
      "title": "What is the Budget and what could be in it?",
      "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
@@ -212,7 +230,7 @@
      "date": "2026-10-26T00:26:49+00:00"
     },
     {
-     "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+     "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
      "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-25T23:44:34+00:00"
@@ -222,12 +240,6 @@
      "link": "https://www.npr.org/2026/10/25/nx-s1-6009274/netflix-lays-off-6-of-workforce-amidst-slowing-growth",
      "source": "NPR",
      "date": "2026-10-25T12:25:29+00:00"
-    },
-    {
-     "title": "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-     "link": "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-     "source": "CNBC",
-     "date": "2026-10-25T12:00:01+00:00"
     },
     {
      "title": "Budget to include £1bn for social and affordable housing",
@@ -246,18 +258,6 @@
      "link": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-25T07:05:30+00:00"
-    },
-    {
-     "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-     "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-25T06:00:15+00:00"
-    },
-    {
-     "title": "Trade tariffs cause whiplash at Port Milwaukee",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-     "source": "NPR",
-     "date": "2026-10-24T21:20:55+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+     "title": "Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower",
      "link": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-26T01:50:00+00:00"
+     "date": "2026-10-26T12:39:00+00:00"
     },
     {
-     "title": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?",
-     "link": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T20:15:00+00:00"
+     "title": "Meta announces $95bn fundraising drive to pay for AI expansion – business live",
+     "link": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+     "source": "The Guardian",
+     "date": "2026-10-26T12:35:29+00:00"
     },
     {
-     "title": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-     "link": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+     "title": "A dot-com survivor warns retail investors against buying the tech dip: ‘You’re taking a knife to a gunfight.’",
+     "link": "https://www.marketwatch.com/story/a-dot-com-survivor-warns-retail-investors-against-buying-the-tech-dip-youre-taking-a-knife-to-a-gunfight-6c940361?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-25T20:00:00+00:00"
+     "date": "2026-10-26T12:10:00+00:00"
     },
     {
-     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+     "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering",
+     "link": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-25T19:30:00+00:00"
-    },
-    {
-     "title": "My father-in-law, 81, sold his $75,000 home to pay his daughter’s $50,000 debt. How can I keep him from becoming destitute?",
-     "link": "https://www.marketwatch.com/story/my-father-in-law-81-sold-his-75-000-home-and-paid-off-his-daughters-50-000-debt-what-happens-to-him-now-60e8fc72?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T18:00:00+00:00"
-    },
-    {
-     "title": "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-     "link": "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T17:00:00+00:00"
-    },
-    {
-     "title": "We have a $300,000 mortgage with a 2.75% interest rate. I want to pay it off. My husband says I’m crazy. Who’s right?",
-     "link": "https://www.marketwatch.com/story/we-have-a-300-000-mortgage-with-a-2-75-interest-rate-i-want-to-pay-it-off-my-husband-says-im-crazy-whos-right-4ed15226?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T17:00:00+00:00"
-    },
-    {
-     "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
-     "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T14:30:00+00:00"
-    },
-    {
-     "title": "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-     "link": "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-25T14:00:00+00:00"
+     "date": "2026-10-26T12:08:00+00:00"
     },
     {
      "title": "My husband wants to sell our $1.5 million home and invest the proceeds. But this is where we raised our kids — and I can’t bear to leave.",
      "link": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-25T13:45:00+00:00"
+     "date": "2026-10-26T12:00:00+00:00"
+    },
+    {
+     "title": "The stock market’s biggest test in weeks is here",
+     "link": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-26T11:37:00+00:00"
+    },
+    {
+     "title": "Verizon’s stock rises as subscriber surge impresses Wall Street",
+     "link": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-26T11:11:00+00:00"
+    },
+    {
+     "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
+     "link": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
+     "source": "The Guardian",
+     "date": "2026-10-26T11:00:42+00:00"
+    },
+    {
+     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-26T11:00:00+00:00"
+    },
+    {
+     "title": "These four shocks could hand investors an unexpected buying window, strategists say",
+     "link": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-26T10:58:00+00:00"
     }
    ]
   },
@@ -395,6 +395,18 @@
    "name": "Startups",
    "items": [
     {
+     "title": "When Traction Becomes Personal Exposure: What The Joonko Guilty Plea Means For Founders",
+     "link": "https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/",
+     "source": "Crunchbase News",
+     "date": "2026-10-26T11:00:38+00:00"
+    },
+    {
+     "title": "California Startups Have Raised More So Far In 2026 Than The Entire US Ever Has In A Single Year",
+     "link": "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/",
+     "source": "Crunchbase News",
+     "date": "2026-10-26T11:00:35+00:00"
+    },
+    {
      "title": "Startups don’t need to go viral to win customers",
      "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
      "source": "TechCrunch",
@@ -441,18 +453,6 @@
      "link": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
      "source": "Crunchbase News",
      "date": "2026-10-23T11:00:29+00:00"
-    },
-    {
-     "title": "5 Interesting Startup Deals You May Have Missed: Robot Training, Space Lasers And Greener Cement",
-     "link": "https://news.crunchbase.com/venture/interesting-startup-deals-robots-ai-gaming-clean-tech/",
-     "source": "Crunchbase News",
-     "date": "2026-10-23T11:00:08+00:00"
-    },
-    {
-     "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
-     "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
-     "source": "TechCrunch",
-     "date": "2026-10-22T23:15:00+00:00"
     }
    ]
   }
