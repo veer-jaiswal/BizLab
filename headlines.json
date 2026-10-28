@@ -1,68 +1,68 @@
 {
- "updated": "2026-10-28T13:09:13.659482+00:00",
+ "updated": "2026-10-28T20:21:23.399043+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "At least 64 people dead in high-speed Spain train crash",
-     "link": "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+     "title": "Microsoft stock jumps 5% as cloud growth drives earnings and revenue beat",
+     "link": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
      "source": "CNBC",
-     "date": "2026-10-28T13:01:49+00:00"
+     "date": "2026-10-28T20:20:16+00:00"
     },
     {
-     "title": "Russell Brand tells court allegations had devastating impact on him",
-     "link": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
+     "title": "Alphabet's free cash flow sinks further, Q3 capex expectations miss in worrying sign for AI trade",
+     "link": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+     "source": "CNBC",
+     "date": "2026-10-28T20:19:37+00:00"
+    },
+    {
+     "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+     "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-28T12:57:39+00:00"
+     "date": "2026-10-28T20:19:10+00:00"
     },
     {
-     "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-     "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+     "title": "10-year Treasury yield creeps higher even as Fed keeps rates the same",
+     "link": "https://www.cnbc.com/2026/10/28/us-treasurys-bonds-yields-federal-reserve.html",
      "source": "CNBC",
-     "date": "2026-10-28T12:53:08+00:00"
+     "date": "2026-10-28T20:17:19+00:00"
     },
     {
-     "title": "New Zealand dollar tanks after central bank defies markets' near-certainty it would hike rates",
-     "link": "https://www.cnbc.com/2026/10/28/new-zealand-dollar-rbnz-rates.html",
+     "title": "Nvidia's $12.9 billion Hugging Face deal draws DOJ scrutiny",
+     "link": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
      "source": "CNBC",
-     "date": "2026-10-28T12:52:41+00:00"
+     "date": "2026-10-28T20:13:50+00:00"
     },
     {
-     "title": "Multiple sclerosis patient living in 'horrific pain' due to UK-wide drugs shortage",
-     "link": "https://www.bbc.co.uk/news/articles/cr20w5vx39peo?at_medium=RSS&at_campaign=rss",
+     "title": "Three media outlets seek full White House access in amended lawsuit",
+     "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+     "source": "CNBC",
+     "date": "2026-10-28T20:13:45+00:00"
+    },
+    {
+     "title": "Treasury Secretary Bessent talks to CNBC after Fed holds interest rates steady",
+     "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+     "source": "CNBC",
+     "date": "2026-10-28T20:07:48+00:00"
+    },
+    {
+     "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+     "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
+     "source": "CNBC",
+     "date": "2026-10-28T20:06:21+00:00"
+    },
+    {
+     "title": "What the Budget offers for under 25s - and what it leaves out",
+     "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-28T12:39:42+00:00"
+     "date": "2026-10-28T20:02:38+00:00"
     },
     {
-     "title": "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-     "link": "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+     "title": "Oracle stock pops 11% as long-term revenue forecast and clarity on financing ease debt concerns",
+     "link": "https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html",
      "source": "CNBC",
-     "date": "2026-10-28T12:37:51+00:00"
-    },
-    {
-     "title": "Confusion about Flávio Bolsonaro's whereabouts as Argentina says he flew to Ecuador",
-     "link": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T12:34:50+00:00"
-    },
-    {
-     "title": "Why China is desperate to ship cars outside of the country",
-     "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-     "source": "CNBC",
-     "date": "2026-10-28T12:30:02+00:00"
-    },
-    {
-     "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
-     "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-     "source": "CNBC",
-     "date": "2026-10-28T12:27:07+00:00"
-    },
-    {
-     "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-     "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-     "source": "CNBC",
-     "date": "2026-10-28T12:25:49+00:00"
+     "date": "2026-10-28T20:00:44+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "FEC campaign finance system offline days before midterms after hackers reportedly target site",
-     "link": "https://www.cnbc.com/2026/10/28/fec-hack-outage-campaign-finance-filings.html",
+     "title": "Three media outlets seek full White House access in amended lawsuit",
+     "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
      "source": "CNBC",
-     "date": "2026-10-28T12:53:08+00:00"
+     "date": "2026-10-28T20:21:03+00:00"
     },
     {
-     "title": "Trump jokes $5,000 would buy 'a hamburger and maybe a small dessert' at Mar-a-Lago as affordability looms over midterm",
-     "link": "https://www.cnbc.com/2026/10/28/trump-jokes-5000-cash-would-buy-hamburger-and-dessert-at-mar-a-lago.html",
-     "source": "CNBC",
-     "date": "2026-10-28T12:49:09+00:00"
+     "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
+     "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+     "source": "The Guardian",
+     "date": "2026-10-28T20:15:07+00:00"
     },
     {
-     "title": "Judge rules Trump-appointed US prosecutor in Los Angeles is not serving legally – US politics live",
+     "title": "Education secretary Linda McMahon plans to spend nearly $43,000 on office furniture",
+     "link": "https://www.theguardian.com/us-news/2026/oct/28/education-secretary-mcmahon-office-furniture",
+     "source": "The Guardian",
+     "date": "2026-10-28T20:15:01+00:00"
+    },
+    {
+     "title": "Trump rages at Alaska Democrat who reportedly recruited man with same name as Republican opponent – live",
      "link": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
      "source": "The Guardian",
-     "date": "2026-10-28T12:47:30+00:00"
+     "date": "2026-10-28T19:59:41+00:00"
     },
     {
-     "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others far short of majorities",
+     "title": "Peltola campaign aides, DSCC officials helped recruit second Dan Sullivan in Alaska race: NYT",
+     "link": "https://www.cnbc.com/2026/10/28/mary-peltola-dan-sullivan-alaska-senate-campaign-recruitment.html",
+     "source": "CNBC",
+     "date": "2026-10-28T19:52:06+00:00"
+    },
+    {
+     "title": "Democrat Mary Peltola’s campaign reportedly recruited second Dan Sullivan in Alaska Senate race",
+     "link": "https://www.theguardian.com/us-news/2026/oct/28/mary-peltola-dan-sullivan-alaska-senate",
+     "source": "The Guardian",
+     "date": "2026-10-28T19:48:44+00:00"
+    },
+    {
+     "title": "‘A revolution in slow motion’: is Arizona’s wealthiest district finally done with Trump?",
+     "link": "https://www.theguardian.com/us-news/2026/oct/28/arizona-house-midterms-race",
+     "source": "The Guardian",
+     "date": "2026-10-28T19:33:53+00:00"
+    },
+    {
+     "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+     "link": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
+     "source": "CNBC",
+     "date": "2026-10-28T17:39:43+00:00"
+    },
+    {
+     "title": "Israeli bonds, shekel fall as election leaves Netanyahu and others short of majorities",
      "link": "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
      "source": "CNBC",
-     "date": "2026-10-28T12:27:07+00:00"
+     "date": "2026-10-28T16:14:29+00:00"
     },
     {
-     "title": "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-     "link": "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+     "title": "UK brings forward defense spending target, pledging billions to Ukraine",
+     "link": "https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html",
      "source": "CNBC",
-     "date": "2026-10-28T12:25:49+00:00"
-    },
-    {
-     "title": "Dementia cases in US projected to rise dramatically by 2050, study finds",
-     "link": "https://www.theguardian.com/us-news/2026/oct/28/dementia-cases-increase",
-     "source": "The Guardian",
-     "date": "2026-10-28T12:00:03+00:00"
-    },
-    {
-     "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
-     "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
-     "source": "NPR",
-     "date": "2026-10-28T11:28:55+00:00"
-    },
-    {
-     "title": "Fed set to hold interest rates steady in last decision before midterms",
-     "link": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
-     "source": "The Guardian",
-     "date": "2026-10-28T10:00:03+00:00"
-    },
-    {
-     "title": "We are seeing the rise of psychopatriarchy everywhere | V (Formerly Eve Ensler)",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/28/psychopatriarchy-politics-opinion",
-     "source": "The Guardian",
-     "date": "2026-10-28T10:00:03+00:00"
-    },
-    {
-     "title": "Musk's PAC lawyer runs in Texas House district that is home to billionaire's business interests",
-     "link": "https://www.cnbc.com/2026/10/28/elon-musk-chris-gober-rourk-texas-10th-congress-election.html",
-     "source": "CNBC",
-     "date": "2026-10-28T10:00:01+00:00"
+     "date": "2026-10-28T15:53:19+00:00"
     }
    ]
   },
@@ -135,10 +135,34 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Flávio Bolsonaro on flight to Miami after fleeing Brazil amid election defeat",
+     "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+     "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T20:19:10+00:00"
+    },
+    {
+     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+     "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T16:59:47+00:00"
+    },
+    {
+     "title": "How could Israel break election deadlock? Here are four scenarios",
+     "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T14:30:31+00:00"
+    },
+    {
+     "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+     "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+     "source": "The Guardian",
+     "date": "2026-10-28T14:16:24+00:00"
+    },
+    {
+     "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
      "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
      "source": "The Guardian",
-     "date": "2026-10-28T11:32:31+00:00"
+     "date": "2026-10-28T13:39:01+00:00"
     },
     {
      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
@@ -165,34 +189,10 @@
      "date": "2026-10-28T10:17:54+00:00"
     },
     {
-     "title": "At least 30 dead in crash between two trains in central Spain, media say",
+     "title": "Dozens are dead in a high-speed train crash in Spain",
      "link": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
      "source": "NPR",
      "date": "2026-10-28T10:09:46+00:00"
-    },
-    {
-     "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
-     "link": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
-     "source": "The Guardian",
-     "date": "2026-10-28T10:00:05+00:00"
-    },
-    {
-     "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-     "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-     "source": "The Guardian",
-     "date": "2026-10-28T09:37:49+00:00"
-    },
-    {
-     "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
-     "link": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
-     "source": "NPR",
-     "date": "2026-10-28T08:47:18+00:00"
-    },
-    {
-     "title": "Partial results from Israel's contentious election show no clear winner",
-     "link": "https://www.npr.org/2026/10/28/nx-s1-6019423/israel-election-results",
-     "source": "NPR",
-     "date": "2026-10-28T08:46:47+00:00"
     }
    ]
   },
@@ -200,64 +200,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Why China is desperate to ship cars outside of the country",
-     "link": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
+     "title": "Chipotle earnings miss estimates, but same-store sales increase for third straight quarter",
+     "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
      "source": "CNBC",
-     "date": "2026-10-28T12:30:02+00:00"
+     "date": "2026-10-28T20:11:00+00:00"
     },
     {
-     "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+     "title": "What we now know about the UK economy in four charts",
+     "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-28T11:30:26+00:00"
+     "date": "2026-10-28T20:08:45+00:00"
     },
     {
-     "title": "You may get the right to find out what your colleagues earn - here's why",
-     "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T10:42:39+00:00"
-    },
-    {
-     "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-     "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T10:31:22+00:00"
-    },
-    {
-     "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T09:25:19+00:00"
-    },
-    {
-     "title": "How a lifelong Republican came to lead the data center battle in Ohio",
-     "link": "https://www.npr.org/2026/10/28/nx-s1-6019276/data-centers-ai-midterms-ohio",
-     "source": "NPR",
-     "date": "2026-10-28T09:00:00+00:00"
-    },
-    {
-     "title": "'An annoying buzz': The search for stealthier drones",
-     "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T00:01:10+00:00"
-    },
-    {
-     "title": "China's families are now supporting more old people than kids",
-     "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-27T23:16:08+00:00"
-    },
-    {
-     "title": "Landline switchover could cut people off in emergency, minister warned",
-     "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-27T20:54:48+00:00"
-    },
-    {
-     "title": "Boeing says it won't significantly ramp up 737 Max production until late 2027",
-     "link": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+     "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
+     "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
      "source": "CNBC",
-     "date": "2026-10-27T20:32:24+00:00"
+     "date": "2026-10-28T20:06:21+00:00"
+    },
+    {
+     "title": "America's largest budget airline reports 71% jump in airfare",
+     "link": "https://www.cnbc.com/2026/10/28/frontier-airlines-airfare-plane-tickets.html",
+     "source": "CNBC",
+     "date": "2026-10-28T20:06:19+00:00"
+    },
+    {
+     "title": "What the Budget offers for under 25s - and what it leaves out",
+     "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T20:02:38+00:00"
+    },
+    {
+     "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+     "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T19:51:01+00:00"
+    },
+    {
+     "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+     "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T19:15:58+00:00"
+    },
+    {
+     "title": "Healey tells departments to make 1% cuts to fund defence",
+     "link": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T19:01:34+00:00"
+    },
+    {
+     "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+     "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T18:45:09+00:00"
+    },
+    {
+     "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+     "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-28T18:12:24+00:00"
     }
    ]
   },
@@ -265,70 +265,94 @@
    "name": "Finance",
    "items": [
     {
-     "title": "11 bargain-priced stocks of companies that have huge growth potential over the next two years",
-     "link": "https://www.marketwatch.com/story/11-bargain-priced-stocks-of-companies-that-have-huge-growth-potential-over-the-next-two-years-d62618e6?mod=mw_rss_topstories",
+     "title": "Caregivers are now spending more than $11,000 a year out of pocket—up 60% in five years",
+     "link": "https://www.marketwatch.com/story/were-spending-more-than-11-000-a-year-of-our-own-money-caring-for-our-aging-parents-and-loved-ones-8fc5b2dc?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T12:54:00+00:00"
+     "date": "2026-10-28T20:18:00+00:00"
     },
     {
-     "title": "Vertiv earnings just sent an upbeat signal about AI ahead of Big Tech results",
-     "link": "https://www.marketwatch.com/story/vertiv-earnings-just-sent-an-upbeat-signal-about-ai-ahead-of-big-tech-results-5714a105?mod=mw_rss_topstories",
+     "title": "U.S. oil-refinery stocks are up roughly 150% this year. How long could this historic run last?",
+     "link": "https://www.marketwatch.com/story/u-s-oil-refinery-stocks-are-up-roughly-150-this-year-how-long-could-this-historic-run-last-f01c590f?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T12:48:00+00:00"
+     "date": "2026-10-28T20:16:00+00:00"
     },
     {
-     "title": "We are in our 70s. Should we pay off our 2.5% mortgage early or build up our savings?",
-     "link": "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
+     "title": "The cost of money itself is on the ballot as voters struggle with pricey car loans, mortgages and credit-card debt",
+     "link": "https://www.marketwatch.com/story/the-cost-of-money-itself-is-on-the-ballot-as-voters-struggle-with-pricey-car-loans-mortgages-and-credit-card-debt-c2cd83a0?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T12:45:00+00:00"
+     "date": "2026-10-28T20:11:00+00:00"
     },
     {
-     "title": "SK Hynix delivered on third-quarter results — but the outlook is what really mattered to Wall Street and the AI trade",
-     "link": "https://www.marketwatch.com/story/sk-hynix-delivered-on-third-quarter-results-but-the-outlook-is-what-really-mattered-to-wall-street-and-the-ai-trade-2fde9a57?mod=mw_rss_topstories",
+     "title": "The U.S. government will no longer penalize American companies for making six popular peptides",
+     "link": "https://www.marketwatch.com/story/trump-administration-clears-the-way-for-production-of-peptides-like-bpc-157-and-tb-500-28ac2d11?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T12:34:00+00:00"
+     "date": "2026-10-28T20:07:00+00:00"
     },
     {
-     "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-     "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+     "title": "Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information rich’ period is coming.",
+     "link": "https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T12:30:00+00:00"
+     "date": "2026-10-28T19:56:00+00:00"
     },
     {
-     "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-     "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+     "title": "Wendy’s buyout offer suggests the burger chain’s overhaul could be very expensive",
+     "link": "https://www.marketwatch.com/story/wendys-buyout-offer-suggests-the-burger-chains-overhaul-could-be-very-expensive-ff2c92bb?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T12:30:00+00:00"
+     "date": "2026-10-28T19:54:00+00:00"
     },
     {
-     "title": "The AI boom is starting to break time-tested stock-market signals",
-     "link": "https://www.marketwatch.com/story/the-ai-boom-is-starting-to-break-time-tested-stock-market-signals-b172d67e?mod=mw_rss_topstories",
+     "title": "Here’s what just sent Oracle’s stock soaring",
+     "link": "https://www.marketwatch.com/story/heres-what-just-sent-oracles-stock-soaring-7a1a91e2?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T11:25:00+00:00"
+     "date": "2026-10-28T19:40:00+00:00"
     },
     {
-     "title": "The real way to tell if Amazon’s AI spending is paying off",
-     "link": "https://www.marketwatch.com/story/the-real-way-to-tell-if-amazons-ai-spending-is-paying-off-42a8a637?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-28T10:30:00+00:00"
+     "title": "Fed holds interest rates steady in last decision before midterms",
+     "link": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+     "source": "The Guardian",
+     "date": "2026-10-28T19:26:41+00:00"
     },
     {
-     "title": "Four reasons to start worrying about inflation — the end of tariff refunds is one of them",
-     "link": "https://www.marketwatch.com/story/four-reasons-to-start-worrying-about-inflation-including-the-end-of-tariff-refunds-978a5cfd?mod=mw_rss_topstories",
+     "title": "Elon Musk says he can build a wireless carrier in two to three years. Is that possible?",
+     "link": "https://www.marketwatch.com/story/elon-musk-says-he-can-build-a-wireless-carrier-in-two-to-three-years-is-that-possible-5ccf9685?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T10:21:00+00:00"
+     "date": "2026-10-28T18:58:00+00:00"
     },
     {
-     "title": "Bill Ackman owns only a handful of stocks. Here is his rule for picking a winner.",
-     "link": "https://www.marketwatch.com/story/bill-ackman-owns-only-a-handful-of-stocks-here-is-his-rule-for-picking-a-winner-82a0ee98?mod=mw_rss_topstories",
+     "title": "Gen Z voters told us the midterms will boil down to affording life, not social issues",
+     "link": "https://www.marketwatch.com/story/gen-z-voters-told-us-the-midterms-will-boil-down-to-affording-life-not-social-issues-11bd1734?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-28T10:11:00+00:00"
+     "date": "2026-10-28T18:56:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "Treasury Secretary Bessent talks to CNBC after Fed holds interest rates steady",
+     "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+     "source": "CNBC",
+     "date": "2026-10-28T20:07:48+00:00"
+    },
+    {
+     "title": "Fed holds interest rates steady even as inflation remains stubborn",
+     "link": "https://www.npr.org/2026/10/28/nx-s1-6020425/federal-reserve-interest-rates-inflation",
+     "source": "NPR",
+     "date": "2026-10-28T18:04:42+00:00"
+    },
+    {
+     "title": "Federal Reserve issues FOMC statement",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+     "source": "Federal Reserve",
+     "date": "2026-10-28T18:00:00+00:00"
+    },
+    {
+     "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
+     "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
+     "source": "CNBC",
+     "date": "2026-10-28T15:39:14+00:00"
+    },
     {
      "title": "Fed expected to hold interest rates steady but a hike is anticipated by year's end",
      "link": "https://www.npr.org/2026/10/28/nx-s1-6017978/fed-expected-to-hold-interest-rates-steady-but-a-hike-is-anticipated-by-years-end",
@@ -364,36 +388,30 @@
      "link": "https://www.npr.org/2026/10/24/nx-s1-6013402/ai-panic-and-market-volatility-are-the-stock-markets-big-gains-unsustainable",
      "source": "NPR",
      "date": "2026-10-24T11:42:12+00:00"
-    },
-    {
-     "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-     "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-     "source": "CNBC",
-     "date": "2026-10-23T20:49:42+00:00"
-    },
-    {
-     "title": "Why Meta is charging to post more hyperlinks",
-     "link": "https://www.npr.org/sections/planet-money/2026/10/23/nx-s1-6012726/why-meta-is-charging-to-post-more-hyperlinks",
-     "source": "NPR",
-     "date": "2026-10-23T11:00:00+00:00"
-    },
-    {
-     "title": "Gene editing scientists slowed down for safety. Could AI leaders follow their guide?",
-     "link": "https://www.npr.org/2026/10/22/nx-s1-6001731/gene-editing-scientists-slowed-down-for-safety-could-ai-leaders-follow-their-guide",
-     "source": "NPR",
-     "date": "2026-10-22T21:38:53+00:00"
-    },
-    {
-     "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-     "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-     "source": "CNBC",
-     "date": "2026-10-22T16:40:09+00:00"
     }
    ]
   },
   "startups": {
    "name": "Startups",
    "items": [
+    {
+     "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+     "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+     "source": "TechCrunch",
+     "date": "2026-10-28T19:05:46+00:00"
+    },
+    {
+     "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+     "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+     "source": "TechCrunch",
+     "date": "2026-10-28T18:50:39+00:00"
+    },
+    {
+     "title": "The Crunchbase Tech Layoffs Tracker",
+     "link": "https://news.crunchbase.com/startups/tech-layoffs/",
+     "source": "Crunchbase News",
+     "date": "2026-10-28T16:25:30+00:00"
+    },
     {
      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
      "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
@@ -435,24 +453,6 @@
      "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
      "source": "TechCrunch",
      "date": "2026-10-27T20:31:17+00:00"
-    },
-    {
-     "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-     "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
-     "source": "TechCrunch",
-     "date": "2026-10-27T18:55:35+00:00"
-    },
-    {
-     "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-     "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-     "source": "TechCrunch",
-     "date": "2026-10-27T14:59:09+00:00"
-    },
-    {
-     "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-     "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-     "source": "TechCrunch",
-     "date": "2026-10-27T13:01:00+00:00"
     }
    ]
   }
