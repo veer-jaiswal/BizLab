@@ -1,68 +1,68 @@
 {
- "updated": "2026-10-29T01:02:08.342317+00:00",
+ "updated": "2026-10-29T10:09:20.473358+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-     "link": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+     "title": "ECB President Lagarde to stand down in Februrary",
+     "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
      "source": "CNBC",
-     "date": "2026-10-29T00:57:50+00:00"
+     "date": "2026-10-29T10:07:26+00:00"
     },
     {
-     "title": "Judge denies the Justice Department's bid to stop processing California ballots",
-     "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
+     "title": "What we know so far about deadly Spain train crash",
+     "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-29T10:02:37+00:00"
+    },
+    {
+     "title": "It's a 'socialist' bank — and North Dakota Republicans love it",
+     "link": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+     "source": "CNBC",
+     "date": "2026-10-29T10:00:01+00:00"
+    },
+    {
+     "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high",
+     "link": "https://www.cnbc.com/2026/10/29/shell-earnings-oil-q3.html",
+     "source": "CNBC",
+     "date": "2026-10-29T09:36:41+00:00"
+    },
+    {
+     "title": "Ofcom sets out social media age-checking methods ahead of ban",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-29T09:31:44+00:00"
+    },
+    {
+     "title": "Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative",
+     "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
+     "source": "CNBC",
+     "date": "2026-10-29T09:06:00+00:00"
+    },
+    {
+     "title": "How AI drones are influencing the course of the Ukraine war",
+     "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
      "source": "NPR",
-     "date": "2026-10-29T00:52:50+00:00"
+     "date": "2026-10-29T09:02:00+00:00"
     },
     {
-     "title": "CoreWeave and other neocloud stocks drop after Microsoft capex comes in below expectations",
-     "link": "https://www.cnbc.com/2026/10/28/neocloud-stocks-drop-after-microsoft-revises-capex-down.html",
+     "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+     "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
      "source": "CNBC",
-     "date": "2026-10-29T00:16:39+00:00"
+     "date": "2026-10-29T09:00:01+00:00"
     },
     {
-     "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
-     "link": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
-     "source": "CNBC",
-     "date": "2026-10-29T00:11:14+00:00"
+     "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
+     "source": "NPR",
+     "date": "2026-10-29T09:00:00+00:00"
     },
     {
-     "title": "Weight-loss jab boom brings needles warning for recyclers",
-     "link": "https://www.bbc.co.uk/news/articles/c98rz45yjyvgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-29T00:06:12+00:00"
-    },
-    {
-     "title": "Family row over George Michael items up for auction - including Faith guitar",
-     "link": "https://www.bbc.co.uk/news/articles/cmr4y51gd5yro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-29T00:01:16+00:00"
-    },
-    {
-     "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-     "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-29T00:00:25+00:00"
-    },
-    {
-     "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-     "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T23:21:48+00:00"
-    },
-    {
-     "title": "DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC",
-     "link": "https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html",
-     "source": "CNBC",
-     "date": "2026-10-28T23:17:17+00:00"
-    },
-    {
-     "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-     "link": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T23:11:59+00:00"
+     "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+     "source": "NPR",
+     "date": "2026-10-29T09:00:00+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Judge denies the Justice Department's bid to stop processing California ballots",
-     "link": "https://www.npr.org/2026/10/28/nx-s1-6021478/doj-california-ballots-denied",
-     "source": "NPR",
-     "date": "2026-10-29T00:52:50+00:00"
-    },
-    {
-     "title": "Judge rebuffs Trump DoJ’s bid to order California to set aside 20,000 ballots",
-     "link": "https://www.theguardian.com/us-news/2026/oct/28/federal-judge-trump-california-ballots",
-     "source": "The Guardian",
-     "date": "2026-10-29T00:48:25+00:00"
-    },
-    {
-     "title": "Obama campaigns in Georgia as Trump stumps in Ohio in dueling midterms rallies – live",
-     "link": "https://www.theguardian.com/us-news/live/2026/oct/28/trump-administration-bill-essayli-republicans-flavio-bolsonaro-us-news-latest",
-     "source": "The Guardian",
-     "date": "2026-10-29T00:46:59+00:00"
-    },
-    {
-     "title": "I’ve mailed off my vote in the US midterms. It will be a nail-biting watch, but easier from outside Trump’s America | Eleanor Limprecht",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/29/my-mail-midterms-vote-outside-trumps-america-us-election",
-     "source": "The Guardian",
-     "date": "2026-10-28T22:35:28+00:00"
-    },
-    {
-     "title": "Non-profit group leaks data of more than 40,000 homeland security workers",
-     "link": "https://www.theguardian.com/us-news/2026/oct/28/homeland-security-data-leak",
-     "source": "The Guardian",
-     "date": "2026-10-28T22:27:01+00:00"
-    },
-    {
-     "title": "Weil, Gotshal & Manges, longtime Wall Street law firm, plans wind down",
-     "link": "https://www.cnbc.com/2026/10/28/weil-gotshal-law-firm-wall-street-wind-down.html",
+     "title": "French Senate backs ‘Rioters Pay’ bill that could make protesters pay $11,000 fines",
+     "link": "https://www.cnbc.com/2026/10/29/france-protests-riots-cost-damages-law.html",
      "source": "CNBC",
-     "date": "2026-10-28T22:23:10+00:00"
+     "date": "2026-10-29T09:14:38+00:00"
     },
     {
-     "title": "New book makes fiery claims about Jared Kushner’s finances in Trump’s first term",
-     "link": "https://www.theguardian.com/us-news/2026/oct/28/jared-kushner-book-claims",
-     "source": "The Guardian",
-     "date": "2026-10-28T21:56:39+00:00"
-    },
-    {
-     "title": "A breakthrough for the group on the trail of Chinese hackers",
-     "link": "https://www.npr.org/2026/10/28/nx-s1-6019538/a-breakthrough-for-the-group-on-the-trail-of-chinese-hackers",
-     "source": "NPR",
-     "date": "2026-10-28T21:53:22+00:00"
-    },
-    {
-     "title": "California election official says federal agents threatened him over ‘voter fraud’",
-     "link": "https://www.theguardian.com/us-news/2026/oct/28/california-elections-federal-agents-voter-fraud",
-     "source": "The Guardian",
-     "date": "2026-10-28T21:04:02+00:00"
-    },
-    {
-     "title": "Three media outlets seek full White House access in amended lawsuit",
-     "link": "https://www.cnbc.com/2026/10/28/trump-white-house-media-ban-cnn-msnow-politico.html",
+     "title": "Putin praises Elon Musk as a ‘real genius’ as Russia develops Starlink alternative",
+     "link": "https://www.cnbc.com/2026/10/29/putin-elon-musk-starlink-ukraine.html",
      "source": "CNBC",
-     "date": "2026-10-28T20:21:03+00:00"
+     "date": "2026-10-29T09:06:00+00:00"
+    },
+    {
+     "title": "These are the House races to watch in the 2026 midterm election on Nov. 3",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6020921/2026-house-map-democrats-flip-republicans-tossup-triage",
+     "source": "NPR",
+     "date": "2026-10-29T09:00:00+00:00"
+    },
+    {
+     "title": "State ballots let voters decide on abortion, taxes, transgender restrictions",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6019363/state-ballot-referendum-abortion-taxes",
+     "source": "NPR",
+     "date": "2026-10-29T09:00:00+00:00"
+    },
+    {
+     "title": "Support for Trump among white evangelicals has plummeted, polls reveal",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6012410/support-for-trump-among-white-evangelicals-has-plummeted-polls-reveal",
+     "source": "NPR",
+     "date": "2026-10-29T08:44:52+00:00"
+    },
+    {
+     "title": "Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks",
+     "link": "https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html",
+     "source": "CNBC",
+     "date": "2026-10-29T07:35:45+00:00"
+    },
+    {
+     "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+     "link": "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
+     "source": "CNBC",
+     "date": "2026-10-29T04:29:32+00:00"
+    },
+    {
+     "title": "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
+     "link": "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
+     "source": "CNBC",
+     "date": "2026-10-29T04:00:51+00:00"
+    },
+    {
+     "title": "Hackers expose the identities of more than 40,000 DHS employees",
+     "link": "https://www.npr.org/2026/10/28/nx-s1-6021497/dhs-hack-ice",
+     "source": "NPR",
+     "date": "2026-10-29T03:28:50+00:00"
+    },
+    {
+     "title": "‘They mobilized a whole government response to that joke’: Obama laughs off Trump attacks in rally for Ossoff",
+     "link": "https://www.theguardian.com/us-news/2026/oct/28/obama-atlanta-democrats-jon-ossoff",
+     "source": "The Guardian",
+     "date": "2026-10-29T02:12:23+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
-     "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T23:21:48+00:00"
-    },
-    {
-     "title": "Girl seriously injured in wolf attack at German wildlife park",
-     "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T22:08:52+00:00"
-    },
-    {
-     "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
-     "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
-     "source": "The Guardian",
-     "date": "2026-10-28T22:06:46+00:00"
-    },
-    {
-     "title": "Brazilian political drama unfolds as defeated Flavio Bolsonaro arrives in Miami",
-     "link": "https://www.npr.org/2026/10/28/nx-s1-6020518/brazilian-political-drama-unfolds-as-defeated-flavio-bolsonaro-arrives-in-miami",
+     "title": "How AI drones are influencing the course of the Ukraine war",
+     "link": "https://www.npr.org/2026/10/29/g-s1-147496/ukraine-ai-drones-war-russia",
      "source": "NPR",
-     "date": "2026-10-28T21:46:27+00:00"
+     "date": "2026-10-29T09:02:00+00:00"
     },
     {
-     "title": "High-speed train crash kills at least 68 people in Spain",
-     "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+     "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+     "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-28T21:38:54+00:00"
+     "date": "2026-10-29T08:38:54+00:00"
     },
     {
-     "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
-     "link": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
+     "title": "Ethiopia acquires Russian fighter jets and air defence systems amid war in Tigray",
+     "link": "https://www.bbc.co.uk/news/articles/cw78prj801pvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-29T08:23:31+00:00"
+    },
+    {
+     "title": "Hello Kitty company cuts ties with Japanese spy show after China outcry",
+     "link": "https://www.theguardian.com/world/2026/oct/29/hello-kitty-japanese-spy-show-vivant-china-outcry",
      "source": "The Guardian",
-     "date": "2026-10-28T21:27:33+00:00"
+     "date": "2026-10-29T08:03:00+00:00"
     },
     {
-     "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+     "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+     "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-28T21:24:41+00:00"
+     "date": "2026-10-29T07:54:33+00:00"
     },
     {
-     "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
-     "link": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+     "title": "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+     "link": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-28T21:16:30+00:00"
+     "date": "2026-10-29T06:24:56+00:00"
     },
     {
-     "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T20:24:39+00:00"
+     "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6021963/spain-train-crash-updates",
+     "source": "NPR",
+     "date": "2026-10-29T06:10:11+00:00"
     },
     {
-     "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-     "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
+     "title": "Cambodian police and soldiers helped guard abusive scam compounds, Amnesty alleges",
+     "link": "https://www.theguardian.com/world/2026/oct/29/cambodian-police-scam-compounds-amnesty-international",
      "source": "The Guardian",
-     "date": "2026-10-28T20:15:07+00:00"
+     "date": "2026-10-29T06:00:26+00:00"
+    },
+    {
+     "title": "'Like cutting up a Picasso': AI microdrama edit of Neighbours worries actors and crew",
+     "link": "https://www.bbc.co.uk/news/articles/cj1dw9znd1q1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-29T03:15:35+00:00"
+    },
+    {
+     "title": "Details of thousands of US immigration agents leaked in major hack",
+     "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-29T01:30:43+00:00"
     }
    ]
   },
@@ -200,22 +200,46 @@
    "name": "Business",
    "items": [
     {
-     "title": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
+     "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+     "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-29T09:58:05+00:00"
+    },
+    {
+     "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+     "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-29T09:30:03+00:00"
+    },
+    {
+     "title": "Tariffs, diesel and computer chips are driving up costs for automakers",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6008066/automakers-inflation-tariffs-chips-diesel-earnings",
+     "source": "NPR",
+     "date": "2026-10-29T09:00:00+00:00"
+    },
+    {
+     "title": "Business as a liberal art? Some high schools say yes",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6017795/ap-business-personal-finance-course-high-school",
+     "source": "NPR",
+     "date": "2026-10-29T09:00:00+00:00"
+    },
+    {
+     "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+     "link": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-29T07:54:33+00:00"
+    },
+    {
+     "title": "Microsoft profits soar days after announcing thousands of layoffs",
      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-29T00:36:12+00:00"
+     "date": "2026-10-29T01:27:40+00:00"
     },
     {
      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
      "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-29T00:00:25+00:00"
-    },
-    {
-     "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-     "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-29T00:00:15+00:00"
     },
     {
      "title": "America's largest budget airline reports 71% jump in airfare",
@@ -234,30 +258,6 @@
      "link": "https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html",
      "source": "CNBC",
      "date": "2026-10-28T22:12:28+00:00"
-    },
-    {
-     "title": "Ford reports mixed third-quarter results, says 2027 earnings will be in line with this year",
-     "link": "https://www.cnbc.com/2026/10/28/ford-motor-f-earnings-q3-2026.html",
-     "source": "CNBC",
-     "date": "2026-10-28T21:42:24+00:00"
-    },
-    {
-     "title": "Stellantis stock rises 13% as automaker's turnaround plan, cost cuts gain traction",
-     "link": "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-     "source": "CNBC",
-     "date": "2026-10-28T20:23:48+00:00"
-    },
-    {
-     "title": "What we now know about the UK economy in four charts",
-     "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T20:08:45+00:00"
-    },
-    {
-     "title": "What the Budget offers for under 25s - and what it leaves out",
-     "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-28T20:02:38+00:00"
     }
    ]
   },
@@ -265,16 +265,40 @@
    "name": "Finance",
    "items": [
     {
-     "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-     "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+     "title": "ServiceNow stock is on track for its largest drop on record. But JPMorgan sees a bright spot.",
+     "link": "https://www.marketwatch.com/story/servicenow-stock-is-on-track-for-its-largest-drop-on-record-but-jpmorgan-sees-a-bright-spot-5e5b05c6?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-29T00:20:00+00:00"
+     "date": "2026-10-29T09:52:00+00:00"
+    },
+    {
+     "title": "‘Fancy cars hold no appeal’: My wife and I have a 99% chance of outliving our savings. Why don’t we spend it all?",
+     "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-29T09:15:00+00:00"
     },
     {
      "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
      "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-29T00:17:00+00:00"
+     "date": "2026-10-29T09:08:00+00:00"
+    },
+    {
+     "title": "NBA star LaMelo Ball is selling his $2.6 million luxury condo in Charlotte after leaving the Hornets",
+     "link": "https://www.marketwatch.com/story/nba-star-lamelo-ball-is-selling-his-2-6-million-luxury-condo-in-charlotte-after-leaving-the-hornets-2356414e?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-29T09:02:00+00:00"
+    },
+    {
+     "title": "Samsung Electronics earned nearly as much as Microsoft and Alphabet combined. What the Korean giant is now saying about the memory-chip outlook.",
+     "link": "https://www.marketwatch.com/story/samsung-electronics-earned-nearly-as-much-as-microsoft-and-alphabet-combined-what-the-korean-giant-is-now-saying-about-the-memory-chip-outlook-e5c94b94?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-29T09:01:00+00:00"
+    },
+    {
+     "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
+     "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-29T00:20:00+00:00"
     },
     {
      "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
@@ -299,36 +323,24 @@
      "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-10-28T23:02:00+00:00"
-    },
-    {
-     "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-     "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-28T22:41:00+00:00"
-    },
-    {
-     "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-     "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-28T22:25:00+00:00"
-    },
-    {
-     "title": "Embattled CBS leader Bari Weiss downplays concerns about weak 60 Minutes ratings",
-     "link": "https://www.theguardian.com/media/2026/oct/28/bari-weiss-cbs-news-60-minutes",
-     "source": "The Guardian",
-     "date": "2026-10-28T22:22:19+00:00"
-    },
-    {
-     "title": "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-28T22:00:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+     "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+     "source": "CNBC",
+     "date": "2026-10-29T09:00:01+00:00"
+    },
+    {
+     "title": "Two reports will give insight on the economy ahead of Election Day",
+     "link": "https://www.npr.org/2026/10/29/nx-s1-6020539/two-reports-will-give-insight-on-the-economy-ahead-of-election-day",
+     "source": "NPR",
+     "date": "2026-10-29T08:45:27+00:00"
+    },
     {
      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
      "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
@@ -376,18 +388,6 @@
      "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
      "source": "CNBC",
      "date": "2026-10-27T15:51:00+00:00"
-    },
-    {
-     "title": "How Aldi is pushing down grocery prices",
-     "link": "https://www.npr.org/sections/planet-money/2026/10/27/g-s1-149358/how-aldi-is-pushing-down-grocery-prices",
-     "source": "NPR",
-     "date": "2026-10-27T10:30:00+00:00"
-    },
-    {
-     "title": "Trade tariffs cause whiplash at Port Milwaukee",
-     "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-     "source": "NPR",
-     "date": "2026-10-24T21:20:55+00:00"
     }
    ]
   },
