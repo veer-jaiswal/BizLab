@@ -1,68 +1,68 @@
 {
- "updated": "2026-10-30T10:11:02.391550+00:00",
+ "updated": "2026-10-30T18:04:44.007415+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-     "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+     "title": "Why bitcoin held up better after the record Binance hack",
+     "link": "https://www.cnbc.com/2026/10/30/binance-hack-bitcoin-price.html",
      "source": "CNBC",
-     "date": "2026-10-30T10:09:07+00:00"
+     "date": "2026-10-30T17:54:02+00:00"
     },
     {
-     "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-     "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+     "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+     "link": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
      "source": "CNBC",
-     "date": "2026-10-30T10:00:01+00:00"
+     "date": "2026-10-30T17:48:34+00:00"
     },
     {
-     "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
-     "link": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+     "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T17:47:01+00:00"
+    },
+    {
+     "title": "ICE activity is surging ahead of midterms. So is voter turnout.",
+     "link": "https://www.npr.org/2026/10/30/nx-s1-6023331/ice-activity-surge-midterms",
+     "source": "NPR",
+     "date": "2026-10-30T17:45:27+00:00"
+    },
+    {
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T17:39:43+00:00"
+    },
+    {
+     "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+     "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
      "source": "CNBC",
-     "date": "2026-10-30T09:16:27+00:00"
+     "date": "2026-10-30T17:31:46+00:00"
     },
     {
-     "title": "BP’s third-quarter profit nearly quadruples to $8.5 billion as refining margins surge",
-     "link": "https://www.cnbc.com/2026/10/30/bp-earnings-oil-q3.html",
+     "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+     "link": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
      "source": "CNBC",
-     "date": "2026-10-30T09:00:24+00:00"
+     "date": "2026-10-30T17:21:47+00:00"
     },
     {
-     "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
+     "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+     "link": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+     "source": "CNBC",
+     "date": "2026-10-30T17:15:53+00:00"
     },
     {
-     "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
+     "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
+     "link": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+     "source": "CNBC",
+     "date": "2026-10-30T17:12:59+00:00"
     },
     {
-     "title": "2026 midterm election voter guides: Find local resources in your community",
-     "link": "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
-    },
-    {
-     "title": "For voters from immigrant families and new citizens, voting is bigger than themselves",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6022142/new-citizens-immigrant-voting-ice-trump",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
-    },
-    {
-     "title": "On what anatomical feature was Trump fixated this week? The quiz knows — do you?",
-     "link": "https://www.npr.org/2026/10/30/g-s1-150445/trump-midterms-ai-china-star-trek-dhs-news-quiz",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
-    },
-    {
-     "title": "Here are the Senate races to watch ahead of Election Day",
-     "link": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
+     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+     "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T17:07:19+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "As Trump escalates extreme attacks, Democrats – finally – rally round El-Sayed",
-     "link": "https://www.theguardian.com/us-news/2026/oct/30/abdul-el-sayed-michigan-senate-tump",
-     "source": "The Guardian",
-     "date": "2026-10-30T10:00:52+00:00"
-    },
-    {
-     "title": "The world needs the United Nations more than ever. It needs a new lease on life | Alex Rondos and Mark Medish",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/30/united-nations-secretary-general",
-     "source": "The Guardian",
-     "date": "2026-10-30T10:00:52+00:00"
-    },
-    {
-     "title": "A rare red line in deeply cynical times",
-     "link": "https://www.theguardian.com/us-news/2026/oct/29/a-rare-red-line-in-deeply-cynical-times",
-     "source": "The Guardian",
-     "date": "2026-10-30T10:00:51+00:00"
-    },
-    {
-     "title": "Mary Peltola made a mistake. But her Republican opponent would be a disaster for Alaska | Kim Heacox",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/30/mary-peltola-dan-sullivan-alaska",
-     "source": "The Guardian",
-     "date": "2026-10-30T10:00:51+00:00"
-    },
-    {
-     "title": "Trump vowed to reduce prices, but his policies have fueled US inflation  | Steven Greenhouse",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
-     "source": "The Guardian",
-     "date": "2026-10-30T10:00:50+00:00"
-    },
-    {
-     "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-     "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+     "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+     "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
      "source": "CNBC",
-     "date": "2026-10-30T10:00:01+00:00"
+     "date": "2026-10-30T17:31:46+00:00"
     },
     {
-     "title": "I’m a gen Z voter. Content creators have far less power than politicians think | Alex Bronzini-Vender",
-     "link": "https://www.theguardian.com/commentisfree/2026/oct/30/gen-z-politics-content-creators",
+     "title": "A working-class Alaskan Native takes on a ‘multimillionaire’ Republican for seat in Congress",
+     "link": "https://www.theguardian.com/us-news/2026/oct/30/bill-hill-alaska-congressional-race",
      "source": "The Guardian",
-     "date": "2026-10-30T09:00:50+00:00"
+     "date": "2026-10-30T16:00:17+00:00"
     },
     {
-     "title": "Here are the Senate races to watch ahead of Election Day",
-     "link": "https://www.npr.org/2026/10/30/g-s1-149975/2026-midterms-senate-map",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
+     "title": "Trump rallies in Kansas and Iowa are back on after RNC said they were canceled: Source",
+     "link": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
+     "source": "CNBC",
+     "date": "2026-10-30T15:52:35+00:00"
     },
     {
-     "title": "Democrats seek to weaken the Republican lead in state legislatures",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6022353/midterms-state-legislatures-pennsylvania",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
+     "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
+     "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
+     "source": "CNBC",
+     "date": "2026-10-30T15:33:00+00:00"
     },
     {
-     "title": "2026 midterm election voter guides: Find local resources in your community",
-     "link": "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides",
+     "title": "Trump reverses decision to cancel Kansas and Iowa rallies before midterms",
+     "link": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
+     "source": "The Guardian",
+     "date": "2026-10-30T15:28:49+00:00"
+    },
+    {
+     "title": "Alaska Democrat says she ‘knew nothing’ about effort to put two Dan Sullivans on ballot",
+     "link": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+     "source": "The Guardian",
+     "date": "2026-10-30T15:00:49+00:00"
+    },
+    {
+     "title": "Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms",
+     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax",
+     "source": "The Guardian",
+     "date": "2026-10-30T15:00:19+00:00"
+    },
+    {
+     "title": "NPR special: 5 takeaways from a year of listening to swing voters",
+     "link": "https://www.npr.org/2026/10/30/nx-s1-6008113/npr-special-swing-voter-focus-groups",
      "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
+     "date": "2026-10-30T15:00:00+00:00"
+    },
+    {
+     "title": "Congressional Democrats demand answers over ICE treatment of hunger strikers",
+     "link": "https://www.theguardian.com/us-news/2026/oct/30/congressional-democrats-letter-ice-dhs-hunger-strikers",
+     "source": "The Guardian",
+     "date": "2026-10-30T14:13:13+00:00"
+    },
+    {
+     "title": "Why is the Cheesecake Factory at the center of the latest culture war?",
+     "link": "https://www.npr.org/2026/10/30/nx-s1-6023106/cheesecake-factory-culture-war-affordability-trump-obama",
+     "source": "NPR",
+     "date": "2026-10-30T12:00:31+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Israel is in a political deadlock. What comes next?",
-     "link": "https://www.npr.org/2026/10/30/g-s1-150761/israel-election-politics-deadlock-arabs",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
-    },
-    {
-     "title": "How Kenyans got caught in $130m US ghost student scam",
-     "link": "https://www.bbc.co.uk/news/articles/cxvgdzpy7241o?at_medium=RSS&at_campaign=rss",
+     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+     "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-30T08:32:35+00:00"
+     "date": "2026-10-30T17:47:01+00:00"
     },
     {
-     "title": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
-     "link": "https://www.bbc.co.uk/news/videos/cwly4p6e9264o?at_medium=RSS&at_campaign=rss",
+     "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+     "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-30T07:33:27+00:00"
+     "date": "2026-10-30T17:39:43+00:00"
     },
     {
-     "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-     "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-30T06:02:23+00:00"
-    },
-    {
-     "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-     "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+     "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
+     "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
      "source": "The Guardian",
-     "date": "2026-10-30T05:00:45+00:00"
+     "date": "2026-10-30T17:37:46+00:00"
     },
     {
-     "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-     "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-     "source": "The Guardian",
-     "date": "2026-10-30T05:00:45+00:00"
-    },
-    {
-     "title": "New York police will now investigate Cornell sex complaints, governor says",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy42j9wewlo?at_medium=RSS&at_campaign=rss",
+     "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+     "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-30T03:32:44+00:00"
+     "date": "2026-10-30T17:25:20+00:00"
     },
     {
-     "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
-     "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+     "link": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-30T03:24:12+00:00"
+     "date": "2026-10-30T17:07:19+00:00"
     },
     {
-     "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
-     "link": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
-     "source": "The Guardian",
-     "date": "2026-10-30T02:56:46+00:00"
+     "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
+     "link": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T17:00:32+00:00"
     },
     {
-     "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
-     "link": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
-     "source": "The Guardian",
-     "date": "2026-10-30T01:45:56+00:00"
+     "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+     "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T16:26:11+00:00"
+    },
+    {
+     "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+     "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T15:17:11+00:00"
+    },
+    {
+     "title": "Spain transport minister says he won't resign over high-speed rail disaster",
+     "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T15:03:39+00:00"
+    },
+    {
+     "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
+     "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T14:48:22+00:00"
     }
    ]
   },
@@ -200,64 +200,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-     "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+     "title": "City of London chief tops UK Black Powerlist",
+     "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-30T09:33:51+00:00"
+     "date": "2026-10-30T18:00:24+00:00"
     },
     {
-     "title": "Candy prices got you scared stiff? What to know about the cost of Halloween this year",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6018566/halloween-candy-prices-chocolate",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
-    },
-    {
-     "title": "How powerful is Elon Musk? How his political influence compares to past U.S. moguls",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6019325/elon-musk-power-moguls-politics",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
-    },
-    {
-     "title": "'Affordability? For who?' Voters decide between helping homeowners or public services",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6018258/affordability-florida-amendment-3",
-     "source": "NPR",
-     "date": "2026-10-30T09:00:00+00:00"
+     "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+     "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T17:47:01+00:00"
     },
     {
      "title": "Yorkshire Water boss resigns after firm downgraded",
      "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-30T07:54:08+00:00"
+     "date": "2026-10-30T16:04:55+00:00"
     },
     {
-     "title": "How video game remakes tap the power of nostalgia",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-30T07:45:00+00:00"
-    },
-    {
-     "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-30T00:00:35+00:00"
-    },
-    {
-     "title": "Google value plunges by $500bn as AI search hits ad sales",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-29T22:17:52+00:00"
-    },
-    {
-     "title": "Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise",
-     "link": "https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html",
+     "title": "Cheaper cars are selling considerably faster than at the beginning of the year",
+     "link": "https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html",
      "source": "CNBC",
-     "date": "2026-10-29T21:52:27+00:00"
+     "date": "2026-10-30T15:37:21+00:00"
     },
     {
      "title": "Starbucks sales miss expectations, but its U.S. turnaround is gaining steam",
      "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
      "source": "CNBC",
-     "date": "2026-10-29T21:29:59+00:00"
+     "date": "2026-10-30T13:29:50+00:00"
+    },
+    {
+     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+     "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
+     "source": "NPR",
+     "date": "2026-10-30T13:01:22+00:00"
+    },
+    {
+     "title": "What we know about Binance's $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T12:27:28+00:00"
+    },
+    {
+     "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T12:04:02+00:00"
+    },
+    {
+     "title": "Streeting denies 'kicking can down the road' in defence spending row",
+     "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-30T11:23:38+00:00"
+    },
+    {
+     "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
+     "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
+     "source": "NPR",
+     "date": "2026-10-30T11:21:56+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "Here’s when Binance plans to reopen after what’s believed to be the largest-ever $6.3 billion hack",
-     "link": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+     "title": "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
+     "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-30T09:50:00+00:00"
+     "date": "2026-10-30T18:00:00+00:00"
     },
     {
-     "title": "Why Intel’s stock is sinking toward its worst drop in two years",
-     "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+     "title": "American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’",
+     "link": "https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-30T09:46:00+00:00"
+     "date": "2026-10-30T17:44:00+00:00"
     },
     {
-     "title": "‘There’s a lot of hurt between us’: My father’s caregiver is using his debit card for DoorDash orders. What can I do?",
-     "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+     "title": "You can expect the stock market to rally no matter who wins on Election Day",
+     "link": "https://www.marketwatch.com/story/you-can-expect-the-stock-market-to-rally-no-matter-who-wins-on-election-day-d4a3c282?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-30T09:15:00+00:00"
+     "date": "2026-10-30T17:32:00+00:00"
     },
     {
-     "title": "Solidcore founder Anne Mahlum plans enormous 10-bedroom ‘dream home’",
-     "link": "https://www.marketwatch.com/story/solidcore-founder-anne-mahlum-plans-enormous-10-bedroom-dream-home-032e0444?mod=mw_rss_topstories",
+     "title": "Social Security’s fate — and your benefits — are in the hands of the candidates elected this year",
+     "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-30T09:01:00+00:00"
+     "date": "2026-10-30T17:21:00+00:00"
     },
     {
-     "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-     "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+     "title": "The big winners of the tech wreck are biopharma stocks",
+     "link": "https://www.marketwatch.com/story/the-big-winners-of-the-tech-wreck-are-biopharma-stocks-2ac4d175?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-30T03:16:00+00:00"
+     "date": "2026-10-30T17:13:00+00:00"
     },
     {
-     "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-     "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+     "title": "After Intel’s historic stock drop, analysts say there’s no reason to buy the dip",
+     "link": "https://www.marketwatch.com/story/after-intels-historic-stock-drop-analysts-say-theres-no-reason-to-buy-the-dip-068446af?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-30T00:15:00+00:00"
+     "date": "2026-10-30T16:45:00+00:00"
     },
     {
-     "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-     "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-30T00:14:00+00:00"
+     "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+     "link": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+     "source": "The Guardian",
+     "date": "2026-10-30T16:35:44+00:00"
     },
     {
-     "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
-     "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+     "title": "Trump administration is illegally delaying student-debt forgiveness for tens of thousands of public servants, lawsuit alleges",
+     "link": "https://www.marketwatch.com/story/trump-administration-is-illegally-delaying-student-debt-forgiveness-for-tens-of-thousands-of-public-servants-lawsuit-alleges-e4d31e59?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-30T00:06:00+00:00"
+     "date": "2026-10-30T16:20:00+00:00"
     },
     {
-     "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
-     "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+     "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+     "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-30T00:05:00+00:00"
+     "date": "2026-10-30T16:00:00+00:00"
     },
     {
-     "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-     "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+     "title": "Private equity in your 401(k)? Heed Warren Buffett’s warning.",
+     "link": "https://www.marketwatch.com/story/private-equity-in-your-401-k-heed-warren-buffetts-warning-6f318cd0?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-10-29T22:45:00+00:00"
+     "date": "2026-10-30T15:53:00+00:00"
     }
    ]
   },
@@ -333,7 +333,13 @@
      "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
      "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
      "source": "CNBC",
-     "date": "2026-10-30T10:09:07+00:00"
+     "date": "2026-10-30T11:16:46+00:00"
+    },
+    {
+     "title": "The two most interesting risks to Anthropic",
+     "link": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+     "source": "NPR",
+     "date": "2026-10-30T11:00:00+00:00"
     },
     {
      "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
@@ -382,18 +388,54 @@
      "link": "https://www.npr.org/2026/10/29/nx-s1-6020539/two-reports-give-insight-on-the-economy-ahead-of-election-day",
      "source": "NPR",
      "date": "2026-10-29T08:45:27+00:00"
-    },
-    {
-     "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-     "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-     "source": "CNBC",
-     "date": "2026-10-28T21:31:46+00:00"
     }
    ]
   },
   "startups": {
    "name": "Startups",
    "items": [
+    {
+     "title": "Satlyt takes another step toward turning satellites into space data centers",
+     "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+     "source": "TechCrunch",
+     "date": "2026-10-30T18:01:24+00:00"
+    },
+    {
+     "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+     "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+     "source": "TechCrunch",
+     "date": "2026-10-30T17:47:12+00:00"
+    },
+    {
+     "title": "The Week’s 10 Biggest Funding Rounds: Physical AI And Predictions Lead The Lineup",
+     "link": "https://news.crunchbase.com/venture/biggest-rounds-startups-physical-ai-predictions-robotics-rebuild/",
+     "source": "Crunchbase News",
+     "date": "2026-10-30T16:33:59+00:00"
+    },
+    {
+     "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+     "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+     "source": "TechCrunch",
+     "date": "2026-10-30T14:00:00+00:00"
+    },
+    {
+     "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+     "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+     "source": "TechCrunch",
+     "date": "2026-10-30T13:00:00+00:00"
+    },
+    {
+     "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+     "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+     "source": "TechCrunch",
+     "date": "2026-10-30T13:00:00+00:00"
+    },
+    {
+     "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
+     "link": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
+     "source": "Crunchbase News",
+     "date": "2026-10-30T11:00:49+00:00"
+    },
     {
      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
@@ -411,48 +453,6 @@
      "link": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
      "source": "TechCrunch",
      "date": "2026-10-29T13:00:00+00:00"
-    },
-    {
-     "title": "Series B Funding Is Up, But Fewer Deals Are Getting Done",
-     "link": "https://news.crunchbase.com/venture/seriesb-startup-funding-up-deals-down-ai-prometheus/",
-     "source": "Crunchbase News",
-     "date": "2026-10-29T11:00:35+00:00"
-    },
-    {
-     "title": "Jumbo Series A Rounds Hiding The Real Squeeze On Seed Startups",
-     "link": "https://news.crunchbase.com/seed/jumbo-seriesa-squeeze-seed-startup-funding-schroder-mgv/",
-     "source": "Crunchbase News",
-     "date": "2026-10-29T11:00:12+00:00"
-    },
-    {
-     "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-     "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-     "source": "TechCrunch",
-     "date": "2026-10-28T23:15:00+00:00"
-    },
-    {
-     "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-     "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-     "source": "TechCrunch",
-     "date": "2026-10-28T19:05:46+00:00"
-    },
-    {
-     "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-     "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
-     "source": "TechCrunch",
-     "date": "2026-10-28T18:50:39+00:00"
-    },
-    {
-     "title": "The Crunchbase Tech Layoffs Tracker",
-     "link": "https://news.crunchbase.com/startups/tech-layoffs/",
-     "source": "Crunchbase News",
-     "date": "2026-10-28T16:25:30+00:00"
-    },
-    {
-     "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-     "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-     "source": "TechCrunch",
-     "date": "2026-10-28T13:00:00+00:00"
     }
    ]
   }
