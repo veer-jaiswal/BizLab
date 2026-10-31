@@ -1,68 +1,68 @@
 {
- "updated": "2026-10-31T05:54:46.962581+00:00",
+ "updated": "2026-10-31T12:45:12.453758+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Spain train disaster clouds Sánchez chances of re-election",
-     "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T05:44:21+00:00"
+     "title": "Berkshire ekes out some new highs, but October rally stalls",
+     "link": "https://www.cnbc.com/2026/10/31/berkshire-ekes-out-some-new-highs-but-october-rally-stalls.html",
+     "source": "CNBC",
+     "date": "2026-10-31T12:26:00+00:00"
     },
     {
-     "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
-     "link": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T05:16:01+00:00"
+     "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+     "link": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+     "source": "CNBC",
+     "date": "2026-10-31T12:11:12+00:00"
     },
     {
-     "title": "Burnham 'open' to calls for slavery apology but not reparations",
-     "link": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
+     "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-31T03:12:08+00:00"
+     "date": "2026-10-31T12:05:04+00:00"
+    },
+    {
+     "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+     "link": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
+     "source": "CNBC",
+     "date": "2026-10-31T12:00:01+00:00"
+    },
+    {
+     "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+     "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+     "source": "CNBC",
+     "date": "2026-10-31T12:00:01+00:00"
+    },
+    {
+     "title": "Perspective: Forget the ballroom, we're headed to Cheesecake Factory!",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6015466/perspective-forget-the-ballroom-were-headed-to-cheesecake-factory",
+     "source": "NPR",
+     "date": "2026-10-31T12:00:00+00:00"
+    },
+    {
+     "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+     "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+     "source": "NPR",
+     "date": "2026-10-31T11:56:10+00:00"
+    },
+    {
+     "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
+     "link": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+     "source": "CNBC",
+     "date": "2026-10-31T11:00:01+00:00"
     },
     {
      "title": "Celebrity Traitors comes to a climax in nail-biting final",
      "link": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-31T02:18:59+00:00"
+     "date": "2026-10-31T10:54:56+00:00"
     },
     {
-     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-     "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T02:12:19+00:00"
-    },
-    {
-     "title": "Global nature talks reach deal but money remains an issue",
-     "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T01:27:05+00:00"
-    },
-    {
-     "title": "Police deployed during stand-off over control of top Poland court",
-     "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T01:11:43+00:00"
-    },
-    {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T00:40:43+00:00"
-    },
-    {
-     "title": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
-     "link": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T00:04:06+00:00"
-    },
-    {
-     "title": "Why MPs keep talking about an early election despite Burnham's denials",
-     "link": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T00:00:15+00:00"
+     "title": "The rise of the 15-foot skeleton—how a viral novelty became a Halloween staple",
+     "link": "https://www.cnbc.com/make-it/2026/10/23/giant-halloween-skeleton-decorations.html",
+     "source": "CNBC",
+     "date": "2026-10-31T10:27:19+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
-     "link": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
-     "source": "The Guardian",
-     "date": "2026-10-31T01:30:07+00:00"
-    },
-    {
-     "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
-     "link": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
-     "source": "The Guardian",
-     "date": "2026-10-31T00:29:28+00:00"
-    },
-    {
-     "title": "Retired Michigan teacher released from Russian prison believed he would never be freed",
-     "link": "https://www.theguardian.com/us-news/2026/oct/30/retired-michigan-teacher-released-russian-prison",
-     "source": "The Guardian",
-     "date": "2026-10-30T23:19:41+00:00"
-    },
-    {
-     "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
-     "link": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
-     "source": "The Guardian",
-     "date": "2026-10-30T23:13:17+00:00"
-    },
-    {
-     "title": "Democratic lawmakers demand ICE data on detainee miscarriages",
-     "link": "https://www.theguardian.com/us-news/2026/oct/30/democrats-miscarriages-ice-detainees",
-     "source": "The Guardian",
-     "date": "2026-10-30T23:01:31+00:00"
-    },
-    {
-     "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
-     "link": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+     "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+     "link": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
      "source": "CNBC",
-     "date": "2026-10-30T22:57:55+00:00"
+     "date": "2026-10-31T12:11:12+00:00"
     },
     {
-     "title": "It's a 'socialist' bank — and North Dakota Republicans love it",
-     "link": "https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html",
+     "title": "Mill 19: a creative hub built into a former steel factory",
+     "link": "https://www.theguardian.com/artanddesign/gallery/2026/oct/31/mill-19-steel-factory-pittsburgh",
+     "source": "The Guardian",
+     "date": "2026-10-31T12:00:42+00:00"
+    },
+    {
+     "title": "This rightwing evangelical was one of Trump’s biggest backers. Why isn’t he talking about the midterms?",
+     "link": "https://www.theguardian.com/us-news/2026/oct/31/lance-wallnau-donald-trump-evangelicals",
+     "source": "The Guardian",
+     "date": "2026-10-31T12:00:41+00:00"
+    },
+    {
+     "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+     "link": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
      "source": "CNBC",
-     "date": "2026-10-30T22:12:36+00:00"
+     "date": "2026-10-31T12:00:01+00:00"
     },
     {
-     "title": "Gamble on democracy: Inside suspicious election-contracts trading on prediction markets",
-     "link": "https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html",
-     "source": "CNBC",
-     "date": "2026-10-30T22:00:53+00:00"
-    },
-    {
-     "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+     "title": "The Healthcare Election: Florida",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-5995422/the-healthcare-election-florida",
      "source": "NPR",
-     "date": "2026-10-30T21:56:52+00:00"
+     "date": "2026-10-31T11:46:45+00:00"
     },
     {
-     "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-     "link": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-     "source": "CNBC",
-     "date": "2026-10-30T19:11:32+00:00"
+     "title": "Politics, norms and the DOJ's unprecedented pre-election headlines",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6020974/politics-norms-and-the-dojs-unprecedented-pre-election-headlines",
+     "source": "NPR",
+     "date": "2026-10-31T11:42:56+00:00"
+    },
+    {
+     "title": "Week in Politics: Trump's Midwest pivot; sharper Democratic messaging",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6019280/week-in-politics-trumps-midwest-pivot-sharper-democratic-messaging",
+     "source": "NPR",
+     "date": "2026-10-31T11:42:51+00:00"
+    },
+    {
+     "title": "Election integrity, extremism and Pete Hegseth: nine voters on the US midterm election",
+     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
+     "source": "The Guardian",
+     "date": "2026-10-31T11:00:44+00:00"
+    },
+    {
+     "title": "Men detained at Texas’s ‘dog pound’ ICE facility describe their experience – in art, letters and song",
+     "link": "https://www.theguardian.com/us-news/2026/oct/31/ice-detention-texas-stories-art",
+     "source": "The Guardian",
+     "date": "2026-10-31T11:00:43+00:00"
+    },
+    {
+     "title": "Top Democrats are fighting a billionaire tax in California. Their voters are on the other side |",
+     "link": "https://www.theguardian.com/commentisfree/2026/oct/31/california-billionaire-tax-democrats-voters",
+     "source": "The Guardian",
+     "date": "2026-10-31T11:00:41+00:00"
     }
    ]
   },
@@ -135,13 +135,31 @@
    "name": "World & government",
    "items": [
     {
+     "title": "US approves sale of 500 Patriot missiles to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T12:21:25+00:00"
+    },
+    {
+     "title": "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T12:05:04+00:00"
+    },
+    {
+     "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
+     "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
+     "source": "NPR",
+     "date": "2026-10-31T11:56:10+00:00"
+    },
+    {
      "title": "Spain train disaster clouds Sánchez chances of re-election",
      "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-31T05:44:21+00:00"
     },
     {
-     "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+     "title": "The fight to save Canadian town threatened by Trump's tariffs",
      "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-31T02:39:25+00:00"
@@ -165,12 +183,6 @@
      "date": "2026-10-31T01:11:43+00:00"
     },
     {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T00:40:43+00:00"
-    },
-    {
      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
@@ -181,24 +193,30 @@
      "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-30T21:13:14+00:00"
-    },
-    {
-     "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
-     "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-30T20:41:51+00:00"
-    },
-    {
-     "title": "Canada and EU announce new alliance open to like-minded countries",
-     "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-     "source": "The Guardian",
-     "date": "2026-10-30T19:42:15+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+     "link": "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+     "source": "CNBC",
+     "date": "2026-10-31T12:00:01+00:00"
+    },
+    {
+     "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+     "source": "NPR",
+     "date": "2026-10-31T09:00:00+00:00"
+    },
+    {
+     "title": "Oil company earnings skyrocket — again",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
+     "source": "NPR",
+     "date": "2026-10-31T09:00:00+00:00"
+    },
     {
      "title": "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
      "link": "https://www.npr.org/2026/10/30/nx-s1-6023175/hackers-steal-over-6-billion-from-crypto-exchange-binance-in-staggering-heist",
@@ -240,30 +258,36 @@
      "link": "https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html",
      "source": "CNBC",
      "date": "2026-10-30T13:29:50+00:00"
-    },
-    {
-     "title": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
-     "link": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance",
-     "source": "NPR",
-     "date": "2026-10-30T13:01:22+00:00"
-    },
-    {
-     "title": "What we know about Binance's $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-30T12:27:28+00:00"
-    },
-    {
-     "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-30T12:04:02+00:00"
     }
    ]
   },
   "finance": {
    "name": "Finance",
    "items": [
+    {
+     "title": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
+     "link": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-31T12:37:00+00:00"
+    },
+    {
+     "title": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block China from accessing advanced chips",
+     "link": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-31T12:30:00+00:00"
+    },
+    {
+     "title": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+     "link": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-31T12:00:00+00:00"
+    },
+    {
+     "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+     "source": "The Guardian",
+     "date": "2026-10-31T10:00:40+00:00"
+    },
     {
      "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
      "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
@@ -299,36 +323,18 @@
      "link": "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-10-30T20:52:00+00:00"
-    },
-    {
-     "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
-     "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-30T20:48:00+00:00"
-    },
-    {
-     "title": "Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.",
-     "link": "https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-30T20:42:00+00:00"
-    },
-    {
-     "title": "Microsoft is winning the cloud wars and becoming Wall Street’s new golden child",
-     "link": "https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-30T20:29:00+00:00"
-    },
-    {
-     "title": "AMD’s stock slides after Intel earnings reveal two big issues",
-     "link": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-30T20:28:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
+     "source": "NPR",
+     "date": "2026-10-31T09:00:00+00:00"
+    },
     {
      "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
      "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
@@ -382,12 +388,6 @@
      "link": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
      "source": "NPR",
      "date": "2026-10-29T13:05:03+00:00"
-    },
-    {
-     "title": "Two reports give insight on the economy ahead of Election Day",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6020539/two-reports-give-insight-on-the-economy-ahead-of-election-day",
-     "source": "NPR",
-     "date": "2026-10-29T08:45:27+00:00"
     }
    ]
   },
