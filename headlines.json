@@ -1,74 +1,104 @@
 {
- "updated": "2026-10-31T19:21:24.397393+00:00",
+ "updated": "2026-11-01T00:11:28.403922+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
+     "title": "Who are the real winners of Celebrity Traitors?",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-01T00:06:01+00:00"
+    },
+    {
+     "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+     "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+     "source": "CNBC",
+     "date": "2026-10-31T23:56:40+00:00"
+    },
+    {
+     "title": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+     "link": "https://www.bbc.co.uk/sport/formula1/articles/c6reyl8zp3jwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T23:07:02+00:00"
+    },
+    {
+     "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+     "link": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T23:06:13+00:00"
+    },
+    {
+     "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+     "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T22:56:15+00:00"
+    },
+    {
+     "title": "Virginia and D.C. sue to block construction of Trump arch",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+     "source": "NPR",
+     "date": "2026-10-31T22:48:51+00:00"
+    },
+    {
      "title": "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
      "link": "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
      "source": "CNBC",
-     "date": "2026-10-31T19:16:25+00:00"
-    },
-    {
-     "title": "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-     "link": "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-     "source": "CNBC",
-     "date": "2026-10-31T18:56:37+00:00"
-    },
-    {
-     "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
-     "source": "NPR",
-     "date": "2026-10-31T18:42:33+00:00"
-    },
-    {
-     "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
-     "source": "NPR",
-     "date": "2026-10-31T18:11:02+00:00"
-    },
-    {
-     "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T17:53:35+00:00"
-    },
-    {
-     "title": "Healey risks breaking minimum wage promise for younger workers",
-     "link": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T17:26:29+00:00"
-    },
-    {
-     "title": "Emotional reunions with loved ones for Oleshky evacuees",
-     "link": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T16:55:47+00:00"
-    },
-    {
-     "title": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g18l8l4wgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T16:49:18+00:00"
+     "date": "2026-10-31T22:27:56+00:00"
     },
     {
      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
      "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-10-31T16:32:08+00:00"
+     "date": "2026-10-31T22:11:45+00:00"
     },
     {
-     "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
-     "source": "NPR",
-     "date": "2026-10-31T13:50:58+00:00"
+     "title": "Why did this Korean content creator throw a divorce ceremony?",
+     "link": "https://www.bbc.co.uk/news/videos/c51kd2jyjr1eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T22:01:39+00:00"
+    },
+    {
+     "title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T21:29:01+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+     "link": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+     "source": "CNBC",
+     "date": "2026-10-31T23:56:40+00:00"
+    },
+    {
+     "title": "Virginia and D.C. sue to block construction of Trump arch",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch",
+     "source": "NPR",
+     "date": "2026-10-31T22:48:51+00:00"
+    },
+    {
+     "title": "What a midterm race in Kentucky says about how Democrats may do in Trump strongholds",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6023294/what-a-midterm-race-in-kentucky-says-about-how-democrats-may-do-in-trump-strongholds",
+     "source": "NPR",
+     "date": "2026-10-31T21:14:36+00:00"
+    },
+    {
+     "title": "Election officials worry about DOJ monitoring of Tuesday's vote",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6019312/election-officials-worry-about-doj-monitoring-of-tuesdays-vote",
+     "source": "NPR",
+     "date": "2026-10-31T21:14:31+00:00"
+    },
+    {
+     "title": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+     "link": "https://www.theguardian.com/us-news/2026/oct/31/judge-dismisses-trump-lawsuit-wall-street-journal-epstein",
+     "source": "The Guardian",
+     "date": "2026-10-31T20:31:39+00:00"
+    },
     {
      "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
      "link": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
@@ -94,40 +124,10 @@
      "date": "2026-10-31T15:00:45+00:00"
     },
     {
-     "title": "How Trump and his allies seek to interfere in the US midterm elections",
-     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections",
-     "source": "The Guardian",
-     "date": "2026-10-31T14:00:44+00:00"
-    },
-    {
      "title": "Justice Department seeks to isolate Alaska ballots amid criminal probe over Senate candidate",
      "link": "https://www.npr.org/2026/10/31/nx-s1-6024423/criminal-probe-alaska-senate-candidate",
      "source": "NPR",
      "date": "2026-10-31T13:50:58+00:00"
-    },
-    {
-     "title": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
-     "link": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
-     "source": "CNBC",
-     "date": "2026-10-31T13:47:03+00:00"
-    },
-    {
-     "title": "Crypto industry pours more than $200 million into 2026 midterms to pressure Congress on favorable rules",
-     "link": "https://www.cnbc.com/2026/10/31/crypto-industry-spends-more-than-200-million-to-sway-the-midterms.html",
-     "source": "CNBC",
-     "date": "2026-10-31T13:04:29+00:00"
-    },
-    {
-     "title": "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-     "link": "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
-     "source": "CNBC",
-     "date": "2026-10-31T12:00:01+00:00"
-    },
-    {
-     "title": "The Healthcare Election: Florida",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-5995422/the-healthcare-election-florida",
-     "source": "NPR",
-     "date": "2026-10-31T11:46:45+00:00"
     }
    ]
   },
@@ -135,7 +135,43 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Anti-corruption and party discipline: takeaways from from this week's key political meeting in Beijing",
+     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T22:11:45+00:00"
+    },
+    {
+     "title": "Thousands demonstrate in Paris as protests spread across Europe",
+     "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T21:29:01+00:00"
+    },
+    {
+     "title": "Secretary Rubio has a tough time getting officials at G20 on the same page",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page",
+     "source": "NPR",
+     "date": "2026-10-31T21:14:34+00:00"
+    },
+    {
+     "title": "A new political era in the Southern Philippines",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines",
+     "source": "NPR",
+     "date": "2026-10-31T21:14:32+00:00"
+    },
+    {
+     "title": "France seethes again as youth-led protests sweep Europe",
+     "link": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe",
+     "source": "NPR",
+     "date": "2026-10-31T19:30:19+00:00"
+    },
+    {
+     "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+     "link": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-10-31T19:22:26+00:00"
+    },
+    {
+     "title": "Key takeaways from this week's political meeting in Beijing",
      "link": "https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways",
      "source": "NPR",
      "date": "2026-10-31T18:42:33+00:00"
@@ -145,12 +181,6 @@
      "link": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-31T17:53:35+00:00"
-    },
-    {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T16:32:08+00:00"
     },
     {
      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
@@ -163,42 +193,18 @@
      "link": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-31T14:28:15+00:00"
-    },
-    {
-     "title": "US approves sale of 500 Patriot missiles to Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T12:21:25+00:00"
-    },
-    {
-     "title": "Drone photo award winners: Far-out landscapes. Ship recycling. Rugs, rugs rugs!",
-     "link": "https://www.npr.org/2026/10/31/g-s1-150698/drone-photo-award-winners",
-     "source": "NPR",
-     "date": "2026-10-31T11:56:10+00:00"
-    },
-    {
-     "title": "Spain train disaster clouds Sánchez chances of re-election",
-     "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T05:44:21+00:00"
-    },
-    {
-     "title": "The fight to save Canadian town threatened by Trump's tariffs",
-     "link": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T02:39:25+00:00"
-    },
-    {
-     "title": "Global nature talks reach deal but money remains an issue",
-     "link": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-31T01:27:05+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Mixed economic forecast weighs heavy ahead of midterms",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+     "source": "NPR",
+     "date": "2026-10-31T21:14:35+00:00"
+    },
     {
      "title": "A simple explainer of the massive $6.3 billion crypto heist at Binance",
      "link": "https://www.npr.org/2026/10/31/nx-s1-6024426/binance-crypto-heist-cyber-criminals-north-korea",
@@ -252,18 +258,24 @@
      "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-10-30T18:00:24+00:00"
-    },
-    {
-     "title": "Yorkshire Water boss resigns after firm downgraded",
-     "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-10-30T16:04:55+00:00"
     }
    ]
   },
   "finance": {
    "name": "Finance",
    "items": [
+    {
+     "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+     "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-31T20:15:00+00:00"
+    },
+    {
+     "title": "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+     "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-10-31T19:30:00+00:00"
+    },
     {
      "title": "This is where most people go wrong in their 30s and 40s",
      "link": "https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories",
@@ -311,24 +323,18 @@
      "link": "https://www.marketwatch.com/story/how-to-use-i-bonds-to-create-guaranteed-inflation-proof-income-in-retirement-50753fea?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-10-31T16:02:00+00:00"
-    },
-    {
-     "title": "Our church has a $1.5 million bequest earning 3.75% in a savings account. Are we throwing money away?",
-     "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-31T15:30:00+00:00"
-    },
-    {
-     "title": "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-     "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-10-31T15:25:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "Mixed economic forecast weighs heavy ahead of midterms",
+     "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
+     "source": "NPR",
+     "date": "2026-10-31T21:14:35+00:00"
+    },
     {
      "title": "Plans for a data center threaten scenic wilderness and dark skies in West Virginia",
      "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
@@ -382,18 +388,18 @@
      "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
      "source": "CNBC",
      "date": "2026-10-29T14:48:01+00:00"
-    },
-    {
-     "title": "With days to go before the midterms, data shows the U.S. economy is doing well",
-     "link": "https://www.npr.org/2026/10/29/nx-s1-6021008/economy-gdp-inflation-midterms-voters-affordability",
-     "source": "NPR",
-     "date": "2026-10-29T13:05:03+00:00"
     }
    ]
   },
   "startups": {
    "name": "Startups",
    "items": [
+    {
+     "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+     "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+     "source": "TechCrunch",
+     "date": "2026-10-31T21:36:07+00:00"
+    },
     {
      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
@@ -447,12 +453,6 @@
      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
      "source": "TechCrunch",
      "date": "2026-10-30T13:00:00+00:00"
-    },
-    {
-     "title": "Sector Snapshot: Travel Tech Funding Heads Toward Multiyear Low Despite AI Push",
-     "link": "https://news.crunchbase.com/travel-tourism/travel-tech-startup-venture-funding-low-ai/",
-     "source": "Crunchbase News",
-     "date": "2026-10-30T11:00:49+00:00"
     }
    ]
   }
