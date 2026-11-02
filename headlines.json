@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-01T22:09:40.602909+00:00",
+ "updated": "2026-11-02T06:21:54.033012+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Nine killed in 'horrific' Florida jet crash",
+     "title": "9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida",
+     "link": "https://www.npr.org/2026/11/02/g-s1-151211/south-florida-jet-crash",
+     "source": "NPR",
+     "date": "2026-11-02T06:13:28+00:00"
+    },
+    {
+     "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+     "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+     "source": "CNBC",
+     "date": "2026-11-02T06:02:03+00:00"
+    },
+    {
+     "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+     "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T06:00:54+00:00"
+    },
+    {
+     "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+     "link": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
+     "source": "CNBC",
+     "date": "2026-11-02T05:09:45+00:00"
+    },
+    {
+     "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+     "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T04:40:00+00:00"
+    },
+    {
+     "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
+     "link": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
+     "source": "CNBC",
+     "date": "2026-11-02T04:09:34+00:00"
+    },
+    {
+     "title": "Binance users withdraw $3.6bn after record crypto hack",
+     "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T03:32:14+00:00"
+    },
+    {
+     "title": "Nine killed as small jet crashes on Florida street",
      "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-01T21:59:40+00:00"
+     "date": "2026-11-02T02:59:02+00:00"
     },
     {
-     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-     "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T21:55:01+00:00"
-    },
-    {
-     "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-     "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+     "title": "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
+     "link": "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
      "source": "CNBC",
-     "date": "2026-11-01T21:25:03+00:00"
+     "date": "2026-11-02T02:58:53+00:00"
     },
     {
      "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
      "link": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-01T21:18:12+00:00"
-    },
-    {
-     "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-     "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-     "source": "CNBC",
-     "date": "2026-11-01T21:06:42+00:00"
-    },
-    {
-     "title": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
-     "link": "https://www.bbc.co.uk/news/articles/cj3vqy1g3eygo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T20:33:11+00:00"
-    },
-    {
-     "title": "Haley Stevens endorses GOP candidate in Michigan Senate race, spurning Abdul El-Sayed",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
-     "source": "NPR",
-     "date": "2026-11-01T19:49:15+00:00"
-    },
-    {
-     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-     "source": "NPR",
-     "date": "2026-11-01T19:00:58+00:00"
-    },
-    {
-     "title": "Peaceful protests in Germany spiral into violence and looting",
-     "link": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T18:51:56+00:00"
-    },
-    {
-     "title": "How to think about the midterms — and the political moment the country is in",
-     "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
-     "source": "NPR",
-     "date": "2026-11-01T18:27:06+00:00"
+     "date": "2026-11-02T02:46:55+00:00"
     }
    ]
   },
@@ -70,22 +70,52 @@
    "name": "Politics",
    "items": [
     {
+     "title": "These midterms could effectively end the Trump era – but neither side is yet ready for what comes next | Nesrine Malik",
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/02/us-midterms-donald-trump-democrats-us-politics",
+     "source": "The Guardian",
+     "date": "2026-11-02T06:00:32+00:00"
+    },
+    {
+     "title": "The ‘blockers’ who stood up to Elon Musk’s Doge – podcast",
+     "link": "https://www.theguardian.com/news/audio/2026/nov/02/the-blockers-who-stood-up-to-elon-musks-doge-podcast",
+     "source": "The Guardian",
+     "date": "2026-11-02T03:00:28+00:00"
+    },
+    {
+     "title": "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
+     "link": "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
+     "source": "CNBC",
+     "date": "2026-11-02T02:39:35+00:00"
+    },
+    {
+     "title": "Trump launches racist diatribe against Abdul El-Sayed at Iowa rally",
+     "link": "https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally",
+     "source": "The Guardian",
+     "date": "2026-11-02T01:07:23+00:00"
+    },
+    {
+     "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
+     "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
+     "source": "The Guardian",
+     "date": "2026-11-02T00:12:17+00:00"
+    },
+    {
      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
      "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
      "source": "CNBC",
-     "date": "2026-11-01T21:25:03+00:00"
+     "date": "2026-11-01T23:17:57+00:00"
+    },
+    {
+     "title": "Do you know signs of a stroke? BE FAST are the words to remember",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6025502/stroke-acronym-be-fast",
+     "source": "NPR",
+     "date": "2026-11-01T22:22:12+00:00"
     },
     {
      "title": "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
      "link": "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
      "source": "CNBC",
      "date": "2026-11-01T21:06:42+00:00"
-    },
-    {
-     "title": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
-     "link": "https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate",
-     "source": "The Guardian",
-     "date": "2026-11-01T20:31:30+00:00"
     },
     {
      "title": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
@@ -98,36 +128,6 @@
      "link": "https://www.npr.org/2026/11/01/nx-s1-6020993/michigan-senate-race-abdul-el-sayed-haley-stevens-mike-rogers",
      "source": "NPR",
      "date": "2026-11-01T19:49:15+00:00"
-    },
-    {
-     "title": "Connecticut senator Chris Murphy hospitalized after stroke",
-     "link": "https://www.theguardian.com/us-news/2026/nov/01/chris-murphy-stroke-hospitalized",
-     "source": "The Guardian",
-     "date": "2026-11-01T19:27:44+00:00"
-    },
-    {
-     "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-     "link": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-     "source": "CNBC",
-     "date": "2026-11-01T19:10:12+00:00"
-    },
-    {
-     "title": "Connecticut Senator Chris Murphy is hospitalized with a stroke",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6025467/chris-murphy-stroke",
-     "source": "NPR",
-     "date": "2026-11-01T19:00:58+00:00"
-    },
-    {
-     "title": "How to think about the midterms — and the political moment the country is in",
-     "link": "https://www.npr.org/2026/11/01/g-s1-151146/how-to-think-about-the-midterms-and-the-political-moment-the-country-is-in",
-     "source": "NPR",
-     "date": "2026-11-01T18:27:06+00:00"
-    },
-    {
-     "title": "Ella Baron on Donald Trump and the US midterms – cartoon",
-     "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/01/ella-baron-donald-trump-us-midterms-cartoon",
-     "source": "The Guardian",
-     "date": "2026-11-01T18:21:55+00:00"
     }
    ]
   },
@@ -135,22 +135,46 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-     "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T21:55:01+00:00"
-    },
-    {
      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
      "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-01T21:16:45+00:00"
+     "date": "2026-11-02T01:45:42+00:00"
+    },
+    {
+     "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+     "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T01:18:27+00:00"
+    },
+    {
+     "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T00:15:30+00:00"
+    },
+    {
+     "title": "This legendary board game could take decades to complete",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete",
+     "source": "NPR",
+     "date": "2026-11-01T22:30:00+00:00"
     },
     {
      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
      "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
      "source": "The Guardian",
-     "date": "2026-11-01T19:50:39+00:00"
+     "date": "2026-11-01T22:26:11+00:00"
+    },
+    {
+     "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
+     "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+     "source": "NPR",
+     "date": "2026-11-01T22:19:13+00:00"
+    },
+    {
+     "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+     "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-01T21:55:01+00:00"
     },
     {
      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
@@ -169,36 +193,24 @@
      "link": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-01T17:05:18+00:00"
-    },
-    {
-     "title": "They signed up for a lifetime at sea on an endless cruise. High gas prices intervened",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened",
-     "source": "NPR",
-     "date": "2026-11-01T13:15:28+00:00"
-    },
-    {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T13:11:37+00:00"
-    },
-    {
-     "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-     "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-     "source": "The Guardian",
-     "date": "2026-11-01T12:00:12+00:00"
-    },
-    {
-     "title": "Shops looted as German cost-of-living protests turn violent",
-     "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T11:57:48+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Binance users withdraw $3.6bn after record crypto hack",
+     "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T03:32:14+00:00"
+    },
+    {
+     "title": "Don't get caught out by new Buy Now Pay Later rules",
+     "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-01T23:34:49+00:00"
+    },
     {
      "title": "Thousands of jobs at Virgin Media O2 to be cut",
      "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
@@ -246,24 +258,30 @@
      "link": "https://www.npr.org/2026/10/31/nx-s1-5992790/data-centers-west-virginia-skiing-dark-skies",
      "source": "NPR",
      "date": "2026-10-31T09:00:00+00:00"
-    },
-    {
-     "title": "Oil company earnings skyrocket — again",
-     "link": "https://www.npr.org/2026/10/31/nx-s1-6008072/oil-company-profits-gasoline-diesel-prices",
-     "source": "NPR",
-     "date": "2026-10-31T09:00:00+00:00"
-    },
-    {
-     "title": "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
-     "link": "https://www.npr.org/2026/10/30/nx-s1-6023175/hackers-steal-over-6-billion-from-crypto-exchange-binance-in-staggering-heist",
-     "source": "NPR",
-     "date": "2026-10-30T21:44:09+00:00"
     }
    ]
   },
   "finance": {
    "name": "Finance",
    "items": [
+    {
+     "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+     "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-02T03:23:00+00:00"
+    },
+    {
+     "title": "This is the biggest threat to the AI-powered bull market",
+     "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-02T00:22:00+00:00"
+    },
+    {
+     "title": "Apple’s new earnings era begins at a critical time for Big Tech",
+     "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-02T00:21:00+00:00"
+    },
     {
      "title": "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
      "link": "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
@@ -277,6 +295,24 @@
      "date": "2026-11-01T19:20:00+00:00"
     },
     {
+     "title": "Investors pull billions in funds from Binance after record $6.3bn hack",
+     "link": "https://www.theguardian.com/business/2026/nov/01/investors-take-out-36bn-from-binance-after-record-hack-that-stole-billions",
+     "source": "The Guardian",
+     "date": "2026-11-01T18:53:25+00:00"
+    },
+    {
+     "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
+     "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
+     "source": "The Guardian",
+     "date": "2026-11-01T18:37:42+00:00"
+    },
+    {
+     "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
+     "link": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+     "source": "The Guardian",
+     "date": "2026-11-01T17:47:42+00:00"
+    },
+    {
      "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?",
      "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
      "source": "MarketWatch",
@@ -287,48 +323,18 @@
      "link": "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-11-01T17:05:00+00:00"
-    },
-    {
-     "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
-     "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-01T16:35:00+00:00"
-    },
-    {
-     "title": "Apple’s new earnings era begins at a critical time for Big Tech",
-     "link": "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-01T15:00:00+00:00"
-    },
-    {
-     "title": "This is the biggest threat to the AI-powered bull market",
-     "link": "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-01T14:00:00+00:00"
-    },
-    {
-     "title": "America is doing better than you think. Your algorithm is just hiding it.",
-     "link": "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-01T13:00:00+00:00"
-    },
-    {
-     "title": "Who really wins under Trump’s economy? Coastal liberal elites who hate him.",
-     "link": "https://www.marketwatch.com/story/who-really-wins-under-trumps-economy-coastal-liberal-elites-who-hate-him-d74c63cb?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-01T13:00:00+00:00"
-    },
-    {
-     "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-     "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-     "source": "The Guardian",
-     "date": "2026-11-01T12:00:12+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+     "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
+     "source": "CNBC",
+     "date": "2026-11-02T06:02:03+00:00"
+    },
     {
      "title": "Mixed economic forecast weighs heavy ahead of midterms",
      "link": "https://www.npr.org/2026/10/31/nx-s1-6022285/mixed-economic-forecast-weighs-heavy-ahead-of-midterms",
@@ -382,12 +388,6 @@
      "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
      "source": "CNBC",
      "date": "2026-10-29T14:53:06+00:00"
-    },
-    {
-     "title": "European Central Bank keeps key interest rate on hold at 2.5%",
-     "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
-     "source": "CNBC",
-     "date": "2026-10-29T14:48:01+00:00"
     }
    ]
   },
