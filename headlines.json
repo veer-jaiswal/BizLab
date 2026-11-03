@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-02T19:34:23.897877+00:00",
+ "updated": "2026-11-03T02:56:56.145371+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
-     "link": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o?at_medium=RSS&at_campaign=rss",
+     "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+     "link": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+     "source": "CNBC",
+     "date": "2026-11-03T02:50:34+00:00"
+    },
+    {
+     "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+     "link": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+     "source": "CNBC",
+     "date": "2026-11-03T02:47:57+00:00"
+    },
+    {
+     "title": "Christmas 2026 stamps unveiled by Royal Mail",
+     "link": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-02T19:23:07+00:00"
+     "date": "2026-11-03T02:27:50+00:00"
     },
     {
-     "title": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
-     "link": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-     "source": "CNBC",
-     "date": "2026-11-02T19:19:17+00:00"
-    },
-    {
-     "title": "Prediction market traders now see nearly 75% chance of Democrats winning the Senate",
-     "link": "https://www.cnbc.com/2026/11/02/prediction-market-traders-now-see-nearly-75percent-chance-of-democrats-winning-the-senate.html",
-     "source": "CNBC",
-     "date": "2026-11-02T19:15:26+00:00"
-    },
-    {
-     "title": "Texas governor race tightens in prediction markets, but Abbott remains favored",
-     "link": "https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html",
-     "source": "CNBC",
-     "date": "2026-11-02T18:54:04+00:00"
-    },
-    {
-     "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-     "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
-     "source": "NPR",
-     "date": "2026-11-02T18:54:01+00:00"
-    },
-    {
-     "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
-     "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+     "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-02T18:48:00+00:00"
+     "date": "2026-11-03T02:11:13+00:00"
     },
     {
-     "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-     "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-     "source": "CNBC",
-     "date": "2026-11-02T18:46:31+00:00"
-    },
-    {
-     "title": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
-     "link": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
-     "source": "CNBC",
-     "date": "2026-11-02T18:38:19+00:00"
-    },
-    {
-     "title": "Apple reports after the bell. Options traders expect a big move",
-     "link": "https://www.cnbc.com/2026/11/02/apple-reports-after-the-bell-options-traders-expect-a-big-move.html",
-     "source": "CNBC",
-     "date": "2026-11-02T18:19:03+00:00"
-    },
-    {
-     "title": "MP Carla Lockhart quits DUP in Drumcree row",
-     "link": "https://www.bbc.co.uk/news/articles/cm87zn1vy28zo?at_medium=RSS&at_campaign=rss",
+     "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+     "link": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-02T18:17:31+00:00"
+     "date": "2026-11-03T01:52:28+00:00"
+    },
+    {
+     "title": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
+     "link": "https://www.bbc.co.uk/news/articles/cm62yjx4dl0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T01:49:49+00:00"
+    },
+    {
+     "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+     "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+     "source": "CNBC",
+     "date": "2026-11-03T01:32:13+00:00"
+    },
+    {
+     "title": "North Korea denies being behind record $6.3bn Binance hack",
+     "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T01:23:03+00:00"
+    },
+    {
+     "title": "Apple unsure when more foldable iPhones will be available after selling out",
+     "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T00:29:00+00:00"
+    },
+    {
+     "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+     "link": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T00:26:04+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Judge tosses DOJ case against ex-FBI officials accused of lying about Hunter Biden probe",
-     "link": "https://www.cnbc.com/2026/11/02/fbi-hunter-biden-doj-case-dismissed.html",
-     "source": "CNBC",
-     "date": "2026-11-02T19:19:17+00:00"
-    },
-    {
-     "title": "How Israel is at the heart of Haley Stevens’s extraordinary reversal",
-     "link": "https://www.theguardian.com/us-news/2026/nov/02/haley-stevens-israel-aipac",
-     "source": "The Guardian",
-     "date": "2026-11-02T19:15:23+00:00"
-    },
-    {
-     "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
-     "link": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
-     "source": "CNBC",
-     "date": "2026-11-02T18:59:48+00:00"
-    },
-    {
-     "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-     "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
-     "source": "NPR",
-     "date": "2026-11-02T18:54:01+00:00"
-    },
-    {
-     "title": "Social Security may have to cut retirement benefits in six years. Here's how much money is at stake for beneficiaries",
-     "link": "https://www.cnbc.com/2026/11/01/social-security-benefit-cuts-2032.html",
-     "source": "CNBC",
-     "date": "2026-11-02T18:46:31+00:00"
-    },
-    {
-     "title": "DOJ asks Supreme Court to block California counting disputed mail-in ballots",
+     "title": "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
      "link": "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
      "source": "CNBC",
-     "date": "2026-11-02T18:12:15+00:00"
+     "date": "2026-11-03T01:32:13+00:00"
     },
     {
-     "title": "Why did a Democrat endorse a Republican in Michigan senate race? - The Latest",
-     "link": "https://www.theguardian.com/news/audio/2026/nov/02/why-did-a-democrat-endorse-a-republican-in-michigan-senate-race-the-latest",
-     "source": "The Guardian",
-     "date": "2026-11-02T17:53:12+00:00"
+     "title": "Coal no longer king in Navajo Nation presidential election",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6019547/coal-no-longer-king-in-navajo-nation-presidential-election",
+     "source": "NPR",
+     "date": "2026-11-03T00:15:25+00:00"
     },
     {
-     "title": "What are the races to watch in the US midterm elections and why do they matter?",
-     "link": "https://www.theguardian.com/us-news/2026/nov/02/what-are-midterm-elections",
-     "source": "The Guardian",
-     "date": "2026-11-02T17:37:43+00:00"
+     "title": "Trump offered a closing message to voters by touting his D.C. renovations",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6026399/trump-offered-a-closing-message-to-voters-by-touting-his-d-c-renovations",
+     "source": "NPR",
+     "date": "2026-11-02T23:35:51+00:00"
     },
     {
-     "title": "Judge tosses case against two officials accused of lying about Hunter Biden",
-     "link": "https://www.theguardian.com/us-news/2026/nov/02/judge-tosses-case-fbi-hunter-biden",
+     "title": "Five dimensional chess: inside James Talarico’s extraordinary bid to break Texas Democrats’ losing streak",
+     "link": "https://www.theguardian.com/us-news/2026/nov/02/james-talarico-texas-senate-midterm-elections",
      "source": "The Guardian",
-     "date": "2026-11-02T17:33:32+00:00"
+     "date": "2026-11-02T23:32:17+00:00"
     },
     {
-     "title": "Trump promised a steel mill in this rural Iowa region. But is it all a midterm election ploy?",
-     "link": "https://www.theguardian.com/us-news/2026/nov/02/iowa-midterms-steel-mill",
+     "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’s endorsement of Mike Rogers",
+     "link": "https://www.theguardian.com/us-news/2026/nov/02/democrats-reaction-haley-steven-mike-rogers",
      "source": "The Guardian",
-     "date": "2026-11-02T17:00:23+00:00"
+     "date": "2026-11-02T23:22:57+00:00"
+    },
+    {
+     "title": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+     "link": "https://www.theguardian.com/us-news/2026/nov/02/california-voter-fraud-charges",
+     "source": "The Guardian",
+     "date": "2026-11-02T23:22:24+00:00"
+    },
+    {
+     "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
+     "link": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+     "source": "CNBC",
+     "date": "2026-11-02T21:15:13+00:00"
+    },
+    {
+     "title": "Alaska Senate race: what to know about Democrats’ alleged ballot-stacking effort",
+     "link": "https://www.theguardian.com/us-news/2026/oct/29/alaska-senate-race-ballot-stacking-allegation-explained",
+     "source": "The Guardian",
+     "date": "2026-11-02T21:01:57+00:00"
+    },
+    {
+     "title": "Ex-FBI chief in Chicago sues DoJ, claiming he was pressured to investigate Trump’s foes",
+     "link": "https://www.theguardian.com/us-news/2026/nov/02/fbi-douglas-depodesta-trump-lawsuit-doj",
+     "source": "The Guardian",
+     "date": "2026-11-02T20:59:53+00:00"
+    },
+    {
+     "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
+     "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
+     "source": "NPR",
+     "date": "2026-11-02T20:02:41+00:00"
     }
    ]
   },
@@ -135,70 +135,94 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+     "title": "Man and boy arrested after allegedly attacking One Nation volunteer with baseball bat in Australia",
+     "link": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T01:57:46+00:00"
+    },
+    {
+     "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
      "link": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-02T18:48:00+00:00"
+     "date": "2026-11-03T01:56:27+00:00"
+    },
+    {
+     "title": "North Korea denies being behind record $6.3bn Binance hack",
+     "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T01:23:03+00:00"
+    },
+    {
+     "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+     "link": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T00:08:14+00:00"
+    },
+    {
+     "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+     "link": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T00:07:05+00:00"
+    },
+    {
+     "title": "Legal challenge to Australia's social media ban to start in High Court",
+     "link": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T23:37:31+00:00"
+    },
+    {
+     "title": "Man guilty of stealing cash from farm owned by South African president",
+     "link": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T20:08:51+00:00"
+    },
+    {
+     "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
+     "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
+     "source": "The Guardian",
+     "date": "2026-11-02T20:00:27+00:00"
+    },
+    {
+     "title": "Trump to remove Rwanda and South Africa from US trade deal",
+     "link": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-02T19:33:10+00:00"
     },
     {
      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
      "link": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-02T18:34:24+00:00"
-    },
-    {
-     "title": "Shop freezers in seven European countries hit by cyber-attack",
-     "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-02T17:38:11+00:00"
-    },
-    {
-     "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-     "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-02T17:33:19+00:00"
-    },
-    {
-     "title": "Dutch police offer record €2m reward in hunt for drug lord",
-     "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-02T17:29:49+00:00"
-    },
-    {
-     "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
-     "link": "https://www.bbc.co.uk/news/articles/c6rryvwre0p5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-02T14:35:38+00:00"
-    },
-    {
-     "title": "Ryanair says it may freeze workers' pay and raise airfares",
-     "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-02T12:22:10+00:00"
-    },
-    {
-     "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-     "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-     "source": "NPR",
-     "date": "2026-11-02T12:19:54+00:00"
-    },
-    {
-     "title": "Uganda begins withdrawing troops from Somalia after 20 years",
-     "link": "https://www.bbc.co.uk/news/articles/c8zxlqxwed4do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-02T12:05:34+00:00"
-    },
-    {
-     "title": "Five arrested after South African farmer shot and tortured",
-     "link": "https://www.bbc.co.uk/news/articles/cv4g13z0px8yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-02T10:48:47+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+     "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T02:11:13+00:00"
+    },
+    {
+     "title": "North Korea denies being behind record $6.3bn Binance hack",
+     "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T01:23:03+00:00"
+    },
+    {
+     "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+     "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T00:41:36+00:00"
+    },
+    {
+     "title": "Apple unsure when more foldable iPhones will be available after selling out",
+     "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T00:29:00+00:00"
+    },
     {
      "title": "Shop freezers in seven European countries hit by cyber-attack",
      "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
@@ -234,30 +258,6 @@
      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-02T07:42:33+00:00"
-    },
-    {
-     "title": "Don't get caught out by new Buy Now Pay Later rules",
-     "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T23:34:49+00:00"
-    },
-    {
-     "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
-     "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T16:57:14+00:00"
-    },
-    {
-     "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-     "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-01T13:11:37+00:00"
-    },
-    {
-     "title": "'Grasping at straws': Judge dismisses Trump suit against Wall Street Journal over Epstein letter",
-     "link": "https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter",
-     "source": "NPR",
-     "date": "2026-11-01T08:20:19+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "How soon gas prices could go down now that oil is tumbling",
-     "link": "https://www.marketwatch.com/story/how-soon-gas-prices-could-go-down-now-that-oil-is-tumbling-a1140dc2?mod=mw_rss_topstories",
+     "title": "Here’s why Palantir’s stock is down despite a ‘bombastic’ quarter",
+     "link": "https://www.marketwatch.com/story/heres-why-palantirs-stock-is-down-despite-a-bombastic-quarter-42c9fdb8?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-02T19:27:00+00:00"
+     "date": "2026-11-03T00:59:00+00:00"
     },
     {
-     "title": "It may take weeks to tally the midterm election results. Here’s why Wall Street isn’t worried.",
-     "link": "https://www.marketwatch.com/story/it-may-take-weeks-to-tally-the-midterm-election-results-heres-why-wall-street-isnt-worried-ed9313fd?mod=mw_rss_topstories",
+     "title": "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+     "link": "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-02T18:16:00+00:00"
+     "date": "2026-11-03T00:52:00+00:00"
     },
     {
-     "title": "The bond-market rally is defying the typical investing playbook. Here’s why.",
-     "link": "https://www.marketwatch.com/story/the-bond-market-rally-is-defying-the-typical-investing-playbook-heres-why-17a14342?mod=mw_rss_topstories",
+     "title": "Nasdaq-100 tumbles into its third correction this year as AI worries mount",
+     "link": "https://www.marketwatch.com/story/nasdaq-100-tumbles-into-its-third-correction-this-year-as-ai-worries-mount-abee4c0d?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-02T18:13:00+00:00"
+     "date": "2026-11-03T00:03:00+00:00"
+    },
+    {
+     "title": "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+     "link": "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-02T23:39:00+00:00"
+    },
+    {
+     "title": "Stock market after midterm elections: What S&P 500 history shows",
+     "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+     "source": "CNBC",
+     "date": "2026-11-02T23:13:34+00:00"
+    },
+    {
+     "title": "Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned",
+     "link": "https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-02T22:03:00+00:00"
+    },
+    {
+     "title": "Wall Street’s most hated stocks are faring far better than its favorites",
+     "link": "https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-02T21:45:00+00:00"
+    },
+    {
+     "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
+     "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-02T21:35:00+00:00"
     },
     {
      "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
      "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-02T18:00:00+00:00"
+     "date": "2026-11-02T21:30:00+00:00"
     },
     {
-     "title": "Marvell’s deal for Lumentum is giving flashbacks to the dot-com bubble",
-     "link": "https://www.marketwatch.com/story/marvell-and-lumentum-officially-plan-to-combine-heres-what-to-know-5599b98a?mod=mw_rss_topstories",
+     "title": "The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.",
+     "link": "https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-02T17:32:00+00:00"
-    },
-    {
-     "title": "Oracle wants $20 billion to fund its AI future — and its stock is paying the price",
-     "link": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-02T17:31:00+00:00"
-    },
-    {
-     "title": "Oil price falls amid hope of a breakthrough to end Iran war",
-     "link": "https://www.theguardian.com/business/2026/nov/02/oil-price-falls-amid-hope-of-a-breakthrough-to-end-iran-war",
-     "source": "The Guardian",
-     "date": "2026-11-02T17:14:23+00:00"
-    },
-    {
-     "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing us to do Roth conversions?",
-     "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-02T17:00:00+00:00"
-    },
-    {
-     "title": "6 dividend stocks for investors who want to cut their exposure to the S&P 500",
-     "link": "https://www.marketwatch.com/story/6-dividend-stocks-for-investors-who-want-to-cut-their-exposure-to-the-s-p-500-52519928?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-02T16:56:00+00:00"
-    },
-    {
-     "title": "These tech stocks got unfairly swept up in last week’s selloff, analysts say",
-     "link": "https://www.marketwatch.com/story/these-tech-stocks-got-unfairly-swept-up-in-last-weeks-selloff-analysts-say-e296c1b3?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-02T16:50:00+00:00"
+     "date": "2026-11-02T21:29:00+00:00"
     }
    ]
   },
@@ -395,6 +395,18 @@
    "name": "Startups",
    "items": [
     {
+     "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+     "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+     "source": "TechCrunch",
+     "date": "2026-11-03T00:35:52+00:00"
+    },
+    {
+     "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+     "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+     "source": "TechCrunch",
+     "date": "2026-11-02T23:13:53+00:00"
+    },
+    {
      "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
      "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
      "source": "TechCrunch",
@@ -441,18 +453,6 @@
      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
      "source": "TechCrunch",
      "date": "2026-10-30T23:21:23+00:00"
-    },
-    {
-     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-     "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-     "source": "TechCrunch",
-     "date": "2026-10-30T22:56:13+00:00"
-    },
-    {
-     "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-     "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-     "source": "TechCrunch",
-     "date": "2026-10-30T19:55:13+00:00"
     }
    ]
   }
