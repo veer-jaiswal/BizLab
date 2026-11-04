@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-03T19:34:50.719491+00:00",
+ "updated": "2026-11-04T01:27:45.640175+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Options traders are betting heavily on these stocks ahead of election results",
-     "link": "https://www.cnbc.com/2026/11/03/options-traders-are-betting-heavily-on-these-stocks-ahead-of-election-results.html",
-     "source": "CNBC",
-     "date": "2026-11-03T19:22:30+00:00"
+     "title": "Democrat Roy Cooper wins a North Carolina Senate seat",
+     "link": "https://www.npr.org/2026/11/03/g-s1-150958/north-carolina-senate-results",
+     "source": "NPR",
+     "date": "2026-11-04T01:24:24+00:00"
     },
     {
-     "title": "Reform UK councillor charged with rape and sexual assault",
-     "link": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
+     "title": "Rep. Katherine Clark says Democrats are on track to win control of the House tonight",
+     "link": "https://www.npr.org/2026/11/03/nx-s1-6028015/rep-katherine-clark-says-democrats-are-on-track-to-win-control-of-the-house-tonight",
+     "source": "NPR",
+     "date": "2026-11-04T01:23:15+00:00"
+    },
+    {
+     "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+     "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-03T19:09:56+00:00"
+     "date": "2026-11-04T01:14:05+00:00"
     },
     {
-     "title": "Sullivan: What the 2026 midterms could mean for energy investors",
-     "link": "https://www.cnbc.com/2026/11/03/2026-midterms-energy-investors.html",
+     "title": "Google responds to political backlash over removing search from schools that ban AI",
+     "link": "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
      "source": "CNBC",
-     "date": "2026-11-03T19:03:06+00:00"
+     "date": "2026-11-04T01:07:01+00:00"
     },
     {
-     "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto",
-     "link": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:40:37+00:00"
-    },
-    {
-     "title": "Meta seeks to raise up to $25 billion in debt sale as AI spending jumps",
-     "link": "https://www.cnbc.com/2026/11/03/meta-bond-sale-ai-funding.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:33:49+00:00"
-    },
-    {
-     "title": "What the 2026 midterm elections could mean for Trump's final two years",
-     "link": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:29:24+00:00"
-    },
-    {
-     "title": "The 'poison pill' ballot measure that could kill the California billionaire tax",
-     "link": "https://www.cnbc.com/2026/11/03/poison-pill-ballot-measure-could-kill-california-billionaire-tax-.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:23:31+00:00"
-    },
-    {
-     "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
-     "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:05:18+00:00"
-    },
-    {
-     "title": "Seven flights across Europe targeted by suspected bomb threats",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+     "title": "When will we know the results?",
+     "link": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-03T17:56:03+00:00"
+     "date": "2026-11-04T00:56:05+00:00"
     },
     {
-     "title": "AI-generated 'slopaganda' in political ads puts internet platforms on alert",
-     "link": "https://www.cnbc.com/2026/11/03/ai-generated-slopaganda-in-political-ads-puts-platforms-on-alert.html",
+     "title": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+     "link": "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+     "source": "NPR",
+     "date": "2026-11-04T00:55:57+00:00"
+    },
+    {
+     "title": "Scammers using AI-generated images of missing pets to demand reward money",
+     "link": "https://www.bbc.co.uk/news/articles/cdx8080nq74o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-04T00:44:44+00:00"
+    },
+    {
+     "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-04T00:04:28+00:00"
+    },
+    {
+     "title": "Election Day 2026: Photos from around the country",
+     "link": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
+     "source": "NPR",
+     "date": "2026-11-04T00:00:10+00:00"
+    },
+    {
+     "title": "Jim Cramer sees signs of life in tech stocks — but not from the usual winners",
+     "link": "https://www.cnbc.com/2026/11/03/jim-cramer-sees-signs-of-life-in-tech-stocks-but-not-from-the-usual-winners.html",
      "source": "CNBC",
-     "date": "2026-11-03T17:37:31+00:00"
+     "date": "2026-11-03T23:58:09+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "US midterm elections 2026 live: Americans go to the polls to decide control of Congress",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-elections-live-updates-voting",
+     "title": "Democrat Roy Cooper wins a North Carolina Senate seat",
+     "link": "https://www.npr.org/2026/11/03/g-s1-150958/north-carolina-senate-results",
+     "source": "NPR",
+     "date": "2026-11-04T01:24:24+00:00"
+    },
+    {
+     "title": "Rep. Katherine Clark says Democrats are on track to win control of the House tonight",
+     "link": "https://www.npr.org/2026/11/03/nx-s1-6028015/rep-katherine-clark-says-democrats-are-on-track-to-win-control-of-the-house-tonight",
+     "source": "NPR",
+     "date": "2026-11-04T01:23:15+00:00"
+    },
+    {
+     "title": "US midterm elections 2026 live updates: Ossoff and Warner win re-election as Democrats vie for Senate control",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates",
      "source": "The Guardian",
-     "date": "2026-11-03T19:13:09+00:00"
+     "date": "2026-11-04T01:20:08+00:00"
     },
     {
-     "title": "What the 2026 midterm elections could mean for Trump's final two years",
-     "link": "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:29:24+00:00"
-    },
-    {
-     "title": "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-     "link": "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:25:57+00:00"
-    },
-    {
-     "title": "5 things to watch on Election Day as Democrats push for control of Congress",
-     "link": "https://www.cnbc.com/2026/11/03/election-day-congress-races.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:12:26+00:00"
-    },
-    {
-     "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-     "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:11:24+00:00"
-    },
-    {
-     "title": "Even if US democracy can be salvaged from Trump, Europe is moving on | Rafael Behr",
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/03/us-democracy-donald-trump-europe-trust",
+     "title": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/jon-ossoff-mike-collins-georgia-senate",
      "source": "The Guardian",
-     "date": "2026-11-03T18:07:14+00:00"
+     "date": "2026-11-04T01:12:58+00:00"
     },
     {
-     "title": "Midterm elections could jolt stocks if Democrats sweep Congress",
-     "link": "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
+     "title": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+     "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+     "source": "The Guardian",
+     "date": "2026-11-04T01:08:42+00:00"
+    },
+    {
+     "title": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+     "link": "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+     "source": "NPR",
+     "date": "2026-11-04T00:55:57+00:00"
+    },
+    {
+     "title": "Democrats look poised to win House control in midterm elections after two turbulent years of Trump",
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-house-midterm-elections-results",
+     "source": "The Guardian",
+     "date": "2026-11-04T00:25:51+00:00"
+    },
+    {
+     "title": "Democrats aim to retake Senate from Republicans as Americans go to polls",
+     "link": "https://www.theguardian.com/us-news/2026/nov/03/democrats-senate-midterm-elections-results",
+     "source": "The Guardian",
+     "date": "2026-11-04T00:12:38+00:00"
+    },
+    {
+     "title": "Election Day 2026: Photos from around the country",
+     "link": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
+     "source": "NPR",
+     "date": "2026-11-04T00:00:10+00:00"
+    },
+    {
+     "title": "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
+     "link": "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
      "source": "CNBC",
-     "date": "2026-11-03T18:05:18+00:00"
-    },
-    {
-     "title": "US man charged with mailing hundreds of letters containing powder to officials before midterms",
-     "link": "https://www.theguardian.com/us-news/2026/nov/03/charges-powder-letters-midterms",
-     "source": "The Guardian",
-     "date": "2026-11-03T17:50:43+00:00"
-    },
-    {
-     "title": "What made Haley Stevens turn on el-Sayed? | Judith Levine",
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/03/haley-stevens-michigan-endorsement-opinion",
-     "source": "The Guardian",
-     "date": "2026-11-03T17:00:51+00:00"
-    },
-    {
-     "title": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi",
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/03/datacentres-are-deeply-unpopular-so-the-geniuses-at-openai-are-rebranding-them",
-     "source": "The Guardian",
-     "date": "2026-11-03T16:58:55+00:00"
+     "date": "2026-11-03T23:28:01+00:00"
     }
    ]
   },
@@ -135,10 +135,34 @@
    "name": "World & government",
    "items": [
     {
+     "title": "Spanish transport minister resigns days after deadly train crash",
+     "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T22:45:59+00:00"
+    },
+    {
+     "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+     "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+     "source": "NPR",
+     "date": "2026-11-03T22:25:15+00:00"
+    },
+    {
+     "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+     "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+     "source": "The Guardian",
+     "date": "2026-11-03T22:08:50+00:00"
+    },
+    {
+     "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+     "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-03T21:53:38+00:00"
+    },
+    {
      "title": "Seven flights across Europe targeted by suspected bomb threats",
      "link": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-03T17:56:03+00:00"
+     "date": "2026-11-03T20:42:47+00:00"
     },
     {
      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
@@ -165,34 +189,10 @@
      "date": "2026-11-03T15:54:39+00:00"
     },
     {
-     "title": "Mining giant joins fight to stop killer toad march across Australia",
-     "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-03T15:05:01+00:00"
-    },
-    {
      "title": "Libya's top religious authority rules against wearing Nike clothes",
      "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-03T14:56:46+00:00"
-    },
-    {
-     "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-     "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-     "source": "NPR",
-     "date": "2026-11-03T14:13:58+00:00"
-    },
-    {
-     "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
-     "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-03T13:55:47+00:00"
-    },
-    {
-     "title": "Trump’s troubles with Iran could open the door to China",
-     "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
-     "source": "The Guardian",
-     "date": "2026-11-03T13:13:50+00:00"
     }
    ]
   },
@@ -200,64 +200,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
-     "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+     "title": "Canva announces major job cuts after 'our hardest year yet'",
+     "link": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-04T00:09:35+00:00"
+    },
+    {
+     "title": "Graduates are managing AI - but are they learning much else?",
+     "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-04T00:04:35+00:00"
+    },
+    {
+     "title": "Poundland supplier 'will lose millions' if retailer collapses",
+     "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-04T00:03:17+00:00"
+    },
+    {
+     "title": "Legendary Photographer on getting that perfect election night picture",
+     "link": "https://www.npr.org/2026/11/03/nx-s1-6005523/legendary-photographer-on-getting-that-perfect-election-night-picture",
+     "source": "NPR",
+     "date": "2026-11-03T22:33:33+00:00"
+    },
+    {
+     "title": "JetBlue raises bag fees for third time in a year as fuel costs bite",
+     "link": "https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html",
      "source": "CNBC",
-     "date": "2026-11-03T19:25:44+00:00"
+     "date": "2026-11-03T22:26:20+00:00"
+    },
+    {
+     "title": "A Binance engineer thought he was interviewing for a job. Then the hackers pounced",
+     "link": "https://www.npr.org/2026/11/03/nx-s1-6027799/binance-crypto-exchange-cyber-heist",
+     "source": "NPR",
+     "date": "2026-11-03T21:30:20+00:00"
     },
     {
      "title": "Ferrari raises 2026 guidance after Q3 earnings beat",
      "link": "https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html",
      "source": "CNBC",
-     "date": "2026-11-03T18:52:06+00:00"
-    },
-    {
-     "title": "When caring for aging family members becomes cost prohibitive",
-     "link": "https://www.npr.org/2026/11/03/nx-s1-6026479/when-caring-for-aging-family-members-becomes-cost-prohibitive",
-     "source": "NPR",
-     "date": "2026-11-03T17:09:56+00:00"
-    },
-    {
-     "title": "Disney plans several thousand layoffs, asks some managers to cut costs by up to 20%",
-     "link": "https://www.cnbc.com/2026/11/03/disney-layoffs-cost-cuts.html",
-     "source": "CNBC",
-     "date": "2026-11-03T17:05:29+00:00"
-    },
-    {
-     "title": "Yum Brands earnings beat estimates, but cyclospora outbreak weighs on Taco Bell",
-     "link": "https://www.cnbc.com/2026/11/03/yum-brands-yum-q3-2026-earnings.html",
-     "source": "CNBC",
-     "date": "2026-11-03T15:19:14+00:00"
-    },
-    {
-     "title": "Asda hires ex-Morrisons boss in bid to grow firm",
-     "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-03T15:12:35+00:00"
-    },
-    {
-     "title": "Mining giant joins fight to stop killer toad march across Australia",
-     "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-03T15:05:01+00:00"
-    },
-    {
-     "title": "Versant earnings beat expectations as digital platforms drive growth",
-     "link": "https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html",
-     "source": "CNBC",
-     "date": "2026-11-03T14:17:42+00:00"
-    },
-    {
-     "title": "Baked by Melissa enters Target with first at-home cupcake mix",
-     "link": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
-     "source": "CNBC",
-     "date": "2026-11-03T13:40:04+00:00"
+     "date": "2026-11-03T21:11:34+00:00"
     },
     {
      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
      "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-03T12:07:59+00:00"
+     "date": "2026-11-03T20:53:03+00:00"
+    },
+    {
+     "title": "Chicago entrepreneur turns empty downtown office space into vertical gardens",
+     "link": "https://www.npr.org/2026/11/03/nx-s1-5944524-e1/chicago-entrepreneur-turns-empty-downtown-office-space-into-vertical-gardens",
+     "source": "NPR",
+     "date": "2026-11-03T20:52:02+00:00"
+    },
+    {
+     "title": "Pfizer hikes full-year outlook on new product growth, taps company veteran as new CFO",
+     "link": "https://www.cnbc.com/2026/11/03/pfizer-pfe-earnings-q3-2026.html",
+     "source": "CNBC",
+     "date": "2026-11-03T19:25:44+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
-     "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+     "title": "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+     "link": "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T19:23:00+00:00"
+     "date": "2026-11-04T01:16:00+00:00"
     },
     {
-     "title": "My wife and I have no kids and a 99% chance of outliving our life savings. Why not spend it all?",
-     "link": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+     "title": "Super Micro’s stock pops as earnings show booming demand for AI servers",
+     "link": "https://www.marketwatch.com/story/super-micros-stock-pops-as-earnings-show-booming-demand-for-ai-servers-2d179658?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T19:00:00+00:00"
+     "date": "2026-11-04T01:12:00+00:00"
     },
     {
-     "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-     "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+     "title": "What analysts are telling us while Apple’s stock falls after earnings report",
+     "link": "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T18:30:00+00:00"
+     "date": "2026-11-03T22:48:00+00:00"
     },
     {
-     "title": "Once election results are in, here’s what investors should focus on next",
-     "link": "https://www.marketwatch.com/story/once-election-results-are-in-heres-what-investors-should-focus-on-next-75c5ac5d?mod=mw_rss_topstories",
+     "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+     "link": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T18:27:00+00:00"
+     "date": "2026-11-03T22:45:00+00:00"
     },
     {
-     "title": "Stock market after midterm elections: What S&P 500 history shows",
-     "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
-     "source": "CNBC",
-     "date": "2026-11-03T18:21:05+00:00"
+     "title": "US tech stocks recover after selloff spooks investors over AI spending",
+     "link": "https://www.theguardian.com/business/2026/nov/03/us-tech-stocks-recovery-ai-spending",
+     "source": "The Guardian",
+     "date": "2026-11-03T22:18:45+00:00"
     },
     {
-     "title": "My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Should I intervene?",
-     "link": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+     "title": "AI’s control over the bond market is growing — even rivaling war and elections",
+     "link": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T17:30:00+00:00"
+     "date": "2026-11-03T22:06:00+00:00"
     },
     {
-     "title": "Want to help your adult kids and grandkids? Give them money while you’re still alive.",
-     "link": "https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories",
+     "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
+     "link": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T17:15:00+00:00"
+     "date": "2026-11-03T21:30:00+00:00"
     },
     {
-     "title": "‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?",
-     "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+     "title": "Depressing, but true: If you want to get ahead at work, embrace virtue signaling",
+     "link": "https://www.marketwatch.com/story/depressing-but-true-if-you-want-to-get-ahead-at-work-embrace-virtue-signaling-b4e72f0a?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T17:01:00+00:00"
+     "date": "2026-11-03T21:27:00+00:00"
     },
     {
-     "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
-     "link": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
+     "title": "Anthropic’s IPO is a high-stakes referendum on Big Tech — and this chart proves it",
+     "link": "https://www.marketwatch.com/story/anthropics-ipo-is-a-high-stakes-referendum-on-big-tech-and-this-chart-proves-it-d1c54d33?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T16:56:00+00:00"
+     "date": "2026-11-03T21:04:00+00:00"
     },
     {
-     "title": "U.S. clears path for first regulated equity perpetual futures",
-     "link": "https://www.marketwatch.com/story/u-s-clears-path-for-first-regulated-equity-perpetual-futures-6bb35905?mod=mw_rss_topstories",
+     "title": "The internet is ‘dying’: AI is eating it and obliterating these business models",
+     "link": "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-03T16:46:00+00:00"
+     "date": "2026-11-03T20:46:00+00:00"
     }
    ]
   },
@@ -407,7 +407,7 @@
      "date": "2026-11-03T16:49:09+00:00"
     },
     {
-     "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+     "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
      "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
      "source": "TechCrunch",
      "date": "2026-11-03T14:30:00+00:00"
