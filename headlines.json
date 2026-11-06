@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-05T20:04:04.340681+00:00",
+ "updated": "2026-11-06T01:36:45.504387+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "California governor commutes death sentences for all 548 people on death row",
-     "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-05T19:57:20+00:00"
-    },
-    {
-     "title": "IRS announces bigger estate and gift tax exemption for 2027",
-     "link": "https://www.cnbc.com/2026/11/05/2027-estate-and-gift-tax-exemption-irs-raises-limit.html",
-     "source": "CNBC",
-     "date": "2026-11-05T19:54:26+00:00"
+     "date": "2026-11-06T01:26:52+00:00"
     },
     {
      "title": "IRS announces new federal income tax brackets for 2027",
      "link": "https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html",
      "source": "CNBC",
-     "date": "2026-11-05T19:53:13+00:00"
+     "date": "2026-11-06T01:21:08+00:00"
     },
     {
-     "title": "British man infected with Ebola in DR Congo arrives in UK for treatment",
-     "link": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
+     "title": "Trump signs order preventing future presidents from changing Oval Office",
+     "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-05T19:49:14+00:00"
+     "date": "2026-11-06T01:20:01+00:00"
     },
     {
-     "title": "Wall Street's fear gauge surges the most since April. Why traders think it should be even higher",
-     "link": "https://www.cnbc.com/2026/11/05/wall-streets-fear-gauge-surges-the-most-since-april-why-traders-think-it-should-be-even-higher.html",
-     "source": "CNBC",
-     "date": "2026-11-05T19:20:21+00:00"
-    },
-    {
-     "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
-     "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
-     "source": "CNBC",
-     "date": "2026-11-05T19:13:06+00:00"
-    },
-    {
-     "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-     "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+     "title": "Met chief warns policing 'heading for failure' without reform",
+     "link": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-05T19:08:08+00:00"
+     "date": "2026-11-06T01:13:53+00:00"
     },
     {
-     "title": "Blue Origin pushes launch to January 2027 as it races to rebuild damaged launch pad",
-     "link": "https://www.cnbc.com/2026/11/05/blue-origin-launch-new-glenn.html",
+     "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+     "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
      "source": "CNBC",
-     "date": "2026-11-05T19:02:32+00:00"
+     "date": "2026-11-06T01:11:35+00:00"
     },
     {
-     "title": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy9z5423p2o?at_medium=RSS&at_campaign=rss",
+     "title": "IRS unveils higher capital gains tax brackets for 2027",
+     "link": "https://www.cnbc.com/2026/11/05/capital-gains-tax-2027-federal.html",
+     "source": "CNBC",
+     "date": "2026-11-06T01:00:10+00:00"
+    },
+    {
+     "title": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
+     "link": "https://www.bbc.co.uk/news/articles/c6m2d7vpd0meo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-05T18:53:47+00:00"
+     "date": "2026-11-06T00:39:18+00:00"
     },
     {
-     "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+     "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
      "source": "NPR",
-     "date": "2026-11-05T18:30:16+00:00"
+     "date": "2026-11-06T00:16:53+00:00"
+    },
+    {
+     "title": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
+     "link": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-06T00:09:56+00:00"
+    },
+    {
+     "title": "These are the races in the House and Senate that haven't been called yet",
+     "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+     "source": "NPR",
+     "date": "2026-11-06T00:03:45+00:00"
     }
    ]
   },
@@ -70,70 +70,100 @@
    "name": "Politics",
    "items": [
     {
-     "title": "US elections 2026 live: Democrats flip four more House seats as Republicans trade blame for brutal midterms losses",
+     "title": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
      "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
      "source": "The Guardian",
-     "date": "2026-11-05T19:48:12+00:00"
+     "date": "2026-11-06T01:23:42+00:00"
     },
     {
-     "title": "‘Dark horse diplomat’: Melania Trump plays both sides in joint Russia-Ukraine White House visit",
-     "link": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
+     "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
+     "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
      "source": "The Guardian",
-     "date": "2026-11-05T19:46:31+00:00"
+     "date": "2026-11-06T00:29:06+00:00"
     },
     {
-     "title": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
-     "link": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
-     "source": "The Guardian",
-     "date": "2026-11-05T19:41:41+00:00"
+     "title": "These are the races in the House and Senate that haven't been called yet",
+     "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+     "source": "NPR",
+     "date": "2026-11-06T00:03:45+00:00"
     },
     {
-     "title": "Gavin Newsom commutes more than 500 death sentences in California",
-     "link": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california",
-     "source": "The Guardian",
-     "date": "2026-11-05T19:28:24+00:00"
+     "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+     "source": "NPR",
+     "date": "2026-11-05T23:52:48+00:00"
     },
     {
-     "title": "Trump is soothing the midterms loss with what he loves best: interior design | Arwa Mahdawi",
-     "link": "https://www.theguardian.com/us-news/2026/nov/05/trumps-interior-design",
-     "source": "The Guardian",
-     "date": "2026-11-05T19:12:23+00:00"
-    },
-    {
-     "title": "US midterm voters responded in a thunderous voice. This is just the beginning | Betsy Reed",
-     "link": "https://www.theguardian.com/us-news/2026/nov/05/us-midterm-election-free-press",
-     "source": "The Guardian",
-     "date": "2026-11-05T19:09:42+00:00"
-    },
-    {
-     "title": "Trump tries to get 2024 conviction in hush-money corruption case thrown out",
-     "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-2024-conviction-hush-money",
-     "source": "The Guardian",
-     "date": "2026-11-05T19:05:48+00:00"
-    },
-    {
-     "title": "The Guardian view on the midterms and foreign policy: American voters spoke, and now the world waits anxiously | Editorial",
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/05/the-guardian-view-on-the-midterms-and-foreign-policy-american-voters-spoke-and-now-the-world-waits-anxiously",
-     "source": "The Guardian",
-     "date": "2026-11-05T18:52:33+00:00"
-    },
-    {
-     "title": "Voters rejected AI data centers over resource concerns. Here's why measuring water usage is hard",
-     "link": "https://www.cnbc.com/2026/11/05/meta-spacex-ai-data-centers-use-millions-of-gallons-of-water-a-day.html",
+     "title": "Mississippi Senate election: Democrat Scott Colom narrowly leads Republican Cindy Hyde-Smith",
+     "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
      "source": "CNBC",
-     "date": "2026-11-05T18:52:21+00:00"
+     "date": "2026-11-05T23:40:00+00:00"
     },
     {
-     "title": "Jim Cramer says the AI trade is not going away as Nasdaq enters correction",
-     "link": "https://www.cnbc.com/investingclub/2026/11/05/cramer-says-the-ai-trade-is-not-going-away-as-nasdaq-enters-correction.html",
-     "source": "CNBC",
-     "date": "2026-11-05T18:46:23+00:00"
+     "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+     "source": "NPR",
+     "date": "2026-11-05T23:34:36+00:00"
+    },
+    {
+     "title": "What the blue wave looked like in North Carolina",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6030848/what-the-blue-wave-looked-like-in-north-carolina",
+     "source": "NPR",
+     "date": "2026-11-05T23:17:52+00:00"
+    },
+    {
+     "title": "Newsom announces he will commute sentences of inmates on California's death row",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6030961/newsom-announces-he-will-commute-sentences-of-inmates-on-californias-death-row",
+     "source": "NPR",
+     "date": "2026-11-05T23:11:43+00:00"
+    },
+    {
+     "title": "What happens after the ‘blue wave’? Ask your midterm election results questions",
+     "link": "https://www.theguardian.com/community/live/2026/nov/05/what-happens-after-the-blue-wave-our-reporters-answer-your-midterm-election-results-questions",
+     "source": "The Guardian",
+     "date": "2026-11-05T23:10:36+00:00"
+    },
+    {
+     "title": "How Democrats plan to investigate the Trump administration after their midterm wins",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6029639/how-democrats-plan-to-investigate-the-trump-administration-after-their-midterm-wins",
+     "source": "NPR",
+     "date": "2026-11-05T22:28:50+00:00"
     }
    ]
   },
   "world": {
    "name": "World & government",
    "items": [
+    {
+     "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+     "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-06T01:28:03+00:00"
+    },
+    {
+     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+     "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-06T01:26:52+00:00"
+    },
+    {
+     "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+     "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+     "source": "The Guardian",
+     "date": "2026-11-06T01:22:49+00:00"
+    },
+    {
+     "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+     "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-06T00:02:57+00:00"
+    },
+    {
+     "title": "California governor commutes sentences for state's 548 death row inmates",
+     "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-05T23:09:33+00:00"
+    },
     {
      "title": "Who could be behind hoax bomb threats to European air travel?",
      "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
@@ -163,36 +193,6 @@
      "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
      "source": "NPR",
      "date": "2026-11-05T18:30:16+00:00"
-    },
-    {
-     "title": "French protests see numbers surge as unions join strikes over high cost of living",
-     "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-05T17:59:53+00:00"
-    },
-    {
-     "title": "Paraguay President Santiago Peña resigns after bank collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-05T17:40:40+00:00"
-    },
-    {
-     "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-     "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-05T17:39:48+00:00"
-    },
-    {
-     "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-     "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
-     "source": "The Guardian",
-     "date": "2026-11-05T17:37:27+00:00"
-    },
-    {
-     "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
-     "link": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
-     "source": "The Guardian",
-     "date": "2026-11-05T17:08:29+00:00"
     }
    ]
   },
@@ -200,10 +200,40 @@
    "name": "Business",
    "items": [
     {
-     "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+     "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-05T17:57:57+00:00"
+     "date": "2026-11-06T01:26:52+00:00"
+    },
+    {
+     "title": "Fears about an AI crackdown after midterms sparks a $2 trillion rout in tech stocks",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+     "source": "NPR",
+     "date": "2026-11-06T00:16:53+00:00"
+    },
+    {
+     "title": "The engine parts that 'fight the laws of the universe'",
+     "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-06T00:06:06+00:00"
+    },
+    {
+     "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+     "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-06T00:02:52+00:00"
+    },
+    {
+     "title": "Pasture mealybugs have killed off huge swaths of grasses in the Southeast",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6018539/pasture-mealybugs-have-killed-off-huge-swaths-of-grasses-in-the-southeast",
+     "source": "NPR",
+     "date": "2026-11-05T23:00:37+00:00"
+    },
+    {
+     "title": "Firms told to publish salaries in job adverts ahead of new law",
+     "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-05T22:32:02+00:00"
     },
     {
      "title": "Interest rates hiked to 4% in first increase in over three years",
@@ -228,36 +258,6 @@
      "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-05T15:27:09+00:00"
-    },
-    {
-     "title": "Wendy's rejects $1.4 billion takeover proposal from Nelson Peltz’s Trian",
-     "link": "https://www.cnbc.com/2026/11/05/wendys-rejects-takeover-proposal.html",
-     "source": "CNBC",
-     "date": "2026-11-05T15:08:05+00:00"
-    },
-    {
-     "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
-     "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
-     "source": "NPR",
-     "date": "2026-11-05T15:00:00+00:00"
-    },
-    {
-     "title": "Faisal Islam: How high will interest rates go?",
-     "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-05T13:17:10+00:00"
-    },
-    {
-     "title": "Three ways the interest rate rise could affect you",
-     "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-05T13:08:30+00:00"
-    },
-    {
-     "title": "Welsh aviation firm AerFin bought in £475m deal",
-     "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-05T11:01:06+00:00"
     }
    ]
   },
@@ -265,70 +265,94 @@
    "name": "Finance",
    "items": [
     {
+     "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
+     "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-06T01:07:00+00:00"
+    },
+    {
+     "title": "Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years",
+     "link": "https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-06T01:06:00+00:00"
+    },
+    {
+     "title": "Here are the 2027 capital-gains tax rates for each income level",
+     "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-05T23:48:00+00:00"
+    },
+    {
+     "title": "Tech stocks log worst day since 2020 as carnage comes to the AI trade",
+     "link": "https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-05T22:48:00+00:00"
+    },
+    {
+     "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+     "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-05T22:40:00+00:00"
+    },
+    {
+     "title": "Nasdaq drops into correction territory — here’s what typically happens next",
+     "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+     "source": "CNBC",
+     "date": "2026-11-05T22:31:24+00:00"
+    },
+    {
+     "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+     "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-05T22:24:00+00:00"
+    },
+    {
+     "title": "Buy the dip or wait it out? Young investors react as retail stock selling hits one of its highest levels since COVID crash.",
+     "link": "https://www.marketwatch.com/story/buy-the-dip-or-wait-it-out-young-investors-react-as-retail-stock-selling-hits-one-of-its-highest-levels-since-covid-crash-610d8087?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-05T21:44:00+00:00"
+    },
+    {
+     "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $456 billion two-day wipeout",
+     "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-05T21:43:00+00:00"
+    },
+    {
      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
      "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-05T19:46:00+00:00"
-    },
-    {
-     "title": "This pancreatic cancer treatment is on track for ‘one of the best drug launches of all time’",
-     "link": "https://www.marketwatch.com/story/this-pancreatic-cancer-treatment-is-on-track-for-one-of-the-best-drug-launches-of-all-time-37bf86ce?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-05T19:32:00+00:00"
-    },
-    {
-     "title": "Trump’s Iran war has changed the future of Social Security",
-     "link": "https://www.marketwatch.com/story/trumps-iran-war-has-changed-the-future-of-social-security-7a500f9f?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-05T19:32:00+00:00"
-    },
-    {
-     "title": "The ‘Musk selloff’ deepens as Tesla and SpaceX combine for $450 billion two-day wipeout",
-     "link": "https://www.marketwatch.com/story/the-musk-selloff-deepens-as-tesla-and-spacex-combine-for-450-billion-two-day-wipeout-d300ab4f?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-05T19:29:00+00:00"
-    },
-    {
-     "title": "As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity",
-     "link": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-05T18:59:00+00:00"
-    },
-    {
-     "title": "US tech shares fall sharply as investors bet on AI slowdown after Democrats’ election triumph",
-     "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-     "source": "The Guardian",
-     "date": "2026-11-05T18:44:25+00:00"
-    },
-    {
-     "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
-     "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-05T18:18:00+00:00"
-    },
-    {
-     "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-     "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-05T18:15:00+00:00"
-    },
-    {
-     "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
-     "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-05T18:03:00+00:00"
-    },
-    {
-     "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-     "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-05T18:00:00+00:00"
+     "date": "2026-11-05T21:39:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "With stubbornly high interest rates, some are reconsidering adjustable-rate mortgages",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6026480/with-stubbornly-high-interest-rates-some-are-reconsidering-adjustable-rate-mortgages",
+     "source": "NPR",
+     "date": "2026-11-05T23:09:10+00:00"
+    },
+    {
+     "title": "AI shares sink after blue wave",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6030828/ai-shares-sink-after-blue-wave",
+     "source": "NPR",
+     "date": "2026-11-05T23:06:25+00:00"
+    },
+    {
+     "title": "Voters are fed up with high prices. Here's what the new Congress could do to help",
+     "link": "https://www.npr.org/2026/11/05/nx-s1-6029335/voters-are-fed-up-with-high-prices-heres-what-the-new-congress-could-do-to-help",
+     "source": "NPR",
+     "date": "2026-11-05T23:06:15+00:00"
+    },
+    {
+     "title": "The October jobs report is out Friday. Here's everything to expect",
+     "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+     "source": "CNBC",
+     "date": "2026-11-05T21:32:52+00:00"
+    },
     {
      "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
      "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
@@ -364,30 +388,6 @@
      "link": "https://www.npr.org/2026/11/05/nx-s1-5992908/libraries-and-cost-of-living",
      "source": "NPR",
      "date": "2026-11-05T10:00:00+00:00"
-    },
-    {
-     "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-     "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-     "source": "CNBC",
-     "date": "2026-11-04T22:46:43+00:00"
-    },
-    {
-     "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-     "link": "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-     "source": "CNBC",
-     "date": "2026-11-04T13:49:48+00:00"
-    },
-    {
-     "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
-     "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
-     "source": "CNBC",
-     "date": "2026-11-04T10:47:30+00:00"
-    },
-    {
-     "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-     "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-     "source": "CNBC",
-     "date": "2026-11-03T19:15:21+00:00"
     }
    ]
   },
