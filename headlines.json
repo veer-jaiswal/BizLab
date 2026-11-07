@@ -1,32 +1,186 @@
 {
- "updated": "2026-11-07T10:24:18.606859+00:00",
+ "updated": "2026-11-07T17:46:37.967184+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-     "source": "NPR",
-     "date": "2026-11-07T10:00:00+00:00"
-    },
-    {
-     "title": "From young offender to junior doctor: 'I wrote a plan and stuck to it'",
-     "link": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo?at_medium=RSS&at_campaign=rss",
+     "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+     "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-07T09:23:39+00:00"
+     "date": "2026-11-07T17:32:42+00:00"
     },
     {
-     "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-     "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-     "source": "CNBC",
-     "date": "2026-11-07T09:01:57+00:00"
+     "title": "Ousted Paraguayan president appears before prosecutors",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+     "source": "NPR",
+     "date": "2026-11-07T17:14:36+00:00"
     },
     {
-     "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-     "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+     "title": "Italian foreign minister says hackers leaked his personal data",
+     "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T16:50:06+00:00"
+    },
+    {
+     "title": "Dolly Parton's manager drops lawsuit against her nephew",
+     "link": "https://www.bbc.co.uk/news/articles/cmkgekz0r0v9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T16:30:31+00:00"
+    },
+    {
+     "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
+     "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T16:25:55+00:00"
+    },
+    {
+     "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+     "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
      "source": "CNBC",
-     "date": "2026-11-07T07:37:36+00:00"
+     "date": "2026-11-07T16:02:33+00:00"
+    },
+    {
+     "title": "No clear winner after tight New Zealand general election",
+     "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T15:56:28+00:00"
+    },
+    {
+     "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+     "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+     "source": "CNBC",
+     "date": "2026-11-07T15:23:46+00:00"
+    },
+    {
+     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T15:19:35+00:00"
+    },
+    {
+     "title": "Two men arrested after boy injured in sword attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T15:10:54+00:00"
+    }
+   ]
+  },
+  "politics": {
+   "name": "Politics",
+   "items": [
+    {
+     "title": "Ousted Paraguayan president appears before prosecutors",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+     "source": "NPR",
+     "date": "2026-11-07T17:14:36+00:00"
+    },
+    {
+     "title": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/youth-vote-turnout-midterm-elections",
+     "source": "The Guardian",
+     "date": "2026-11-07T17:00:16+00:00"
+    },
+    {
+     "title": "Did the Bay Area just save its transit system from the brink of certain death?",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/san-francisco-bay-area-transit-bart-muni",
+     "source": "The Guardian",
+     "date": "2026-11-07T16:00:15+00:00"
+    },
+    {
+     "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+     "source": "The Guardian",
+     "date": "2026-11-07T15:15:11+00:00"
+    },
+    {
+     "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
+     "source": "The Guardian",
+     "date": "2026-11-07T15:00:14+00:00"
+    },
+    {
+     "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
+     "link": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
+     "source": "CNBC",
+     "date": "2026-11-07T14:00:01+00:00"
+    },
+    {
+     "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
+     "link": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
+     "source": "CNBC",
+     "date": "2026-11-07T13:30:01+00:00"
+    },
+    {
+     "title": "America doesn't like socialism. So why are socialists winning?",
+     "link": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+     "source": "CNBC",
+     "date": "2026-11-07T13:01:01+00:00"
+    },
+    {
+     "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
+     "source": "The Guardian",
+     "date": "2026-11-07T13:00:12+00:00"
+    },
+    {
+     "title": "Will Pete Hegseth be the blue tsunami’s next victim? | Arwa Mahdawi",
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
+     "source": "The Guardian",
+     "date": "2026-11-07T13:00:12+00:00"
+    }
+   ]
+  },
+  "world": {
+   "name": "World & government",
+   "items": [
+    {
+     "title": "Ousted Paraguayan president appears before prosecutors",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+     "source": "NPR",
+     "date": "2026-11-07T17:14:36+00:00"
+    },
+    {
+     "title": "Italian foreign minister says hackers leaked his personal data",
+     "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T16:50:06+00:00"
+    },
+    {
+     "title": "No clear winner after tight New Zealand general election",
+     "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T15:56:28+00:00"
+    },
+    {
+     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+     "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T15:19:35+00:00"
+    },
+    {
+     "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+     "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "source": "The Guardian",
+     "date": "2026-11-07T13:48:18+00:00"
+    },
+    {
+     "title": "New Zealand election coalition talks will likely take weeks – as it happened",
+     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+     "source": "The Guardian",
+     "date": "2026-11-07T13:12:22+00:00"
+    },
+    {
+     "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+     "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T12:49:36+00:00"
+    },
+    {
+     "title": "Texas mayor instructs police to limit co-operation with ICE",
+     "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T08:15:55+00:00"
     },
     {
      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
@@ -35,170 +189,22 @@
      "date": "2026-11-07T07:27:44+00:00"
     },
     {
-     "title": "Paraguay's president impeached after collapse of bank",
-     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T07:20:00+00:00"
-    },
-    {
-     "title": "Pope in 'pretty good health' as he starts Latin America tour",
-     "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T06:59:48+00:00"
-    },
-    {
-     "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-     "link": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-     "source": "CNBC",
-     "date": "2026-11-07T06:00:01+00:00"
-    },
-    {
-     "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
-     "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T05:12:52+00:00"
-    },
-    {
-     "title": "Inside the card-grading empire shaping the price of Pokémon cards",
-     "link": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
-     "source": "CNBC",
-     "date": "2026-11-07T02:00:01+00:00"
-    }
-   ]
-  },
-  "politics": {
-   "name": "Politics",
-   "items": [
-    {
-     "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
-     "source": "The Guardian",
-     "date": "2026-11-07T10:00:08+00:00"
-    },
-    {
-     "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
-     "source": "NPR",
-     "date": "2026-11-07T10:00:00+00:00"
-    },
-    {
-     "title": "‘Minimal look, maximal politics’: why the black T-shirt signals modern power",
-     "link": "https://www.theguardian.com/fashion/2026/nov/06/minimal-look-maximal-politics-how-the-black-t-shirt-became-a-political-weapon",
-     "source": "The Guardian",
-     "date": "2026-11-07T09:51:10+00:00"
-    },
-    {
-     "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-     "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-     "source": "CNBC",
-     "date": "2026-11-07T07:37:36+00:00"
-    },
-    {
-     "title": "The end of Maga as we know it",
-     "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
-     "source": "The Guardian",
-     "date": "2026-11-07T06:00:05+00:00"
-    },
-    {
-     "title": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-     "source": "The Guardian",
-     "date": "2026-11-07T03:02:26+00:00"
-    },
-    {
-     "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
-     "source": "The Guardian",
-     "date": "2026-11-07T01:38:06+00:00"
-    },
-    {
-     "title": "Mississippi Senate: Colom increases lead over Hyde-Smith to nearly 2,500 votes",
-     "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
-     "source": "CNBC",
-     "date": "2026-11-06T23:12:56+00:00"
-    },
-    {
-     "title": "American democracy was a big winner in the midterms",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6029750/american-democracy-was-a-big-winner-in-the-midterms",
-     "source": "NPR",
-     "date": "2026-11-06T22:33:11+00:00"
-    },
-    {
-     "title": "What to know about Gina Hinojosa, Texas' first Latina governor-elect",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6030822/what-to-know-about-gina-hinojosa-texas-first-latina-governor-elect",
-     "source": "NPR",
-     "date": "2026-11-06T22:26:00+00:00"
-    }
-   ]
-  },
-  "world": {
-   "name": "World & government",
-   "items": [
-    {
-     "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
-     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-     "source": "The Guardian",
-     "date": "2026-11-07T10:07:48+00:00"
-    },
-    {
      "title": "Paraguay's president impeached and under house arrest after bank collapse",
      "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-07T07:20:00+00:00"
-    },
-    {
-     "title": "Pope in 'pretty good health' as he starts Latin America tour",
-     "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T06:59:48+00:00"
-    },
-    {
-     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-     "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
-     "source": "The Guardian",
-     "date": "2026-11-07T01:55:11+00:00"
-    },
-    {
-     "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-     "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T23:46:08+00:00"
-    },
-    {
-     "title": "With Stephen Miller pick, Trump readies for a battle",
-     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T23:24:15+00:00"
-    },
-    {
-     "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-     "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-     "source": "The Guardian",
-     "date": "2026-11-06T21:23:54+00:00"
-    },
-    {
-     "title": "AI stocks climb after trillions wiped from market values",
-     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T21:06:25+00:00"
-    },
-    {
-     "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-     "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-     "source": "NPR",
-     "date": "2026-11-06T20:42:51+00:00"
-    },
-    {
-     "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
-     "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
-     "source": "The Guardian",
-     "date": "2026-11-06T19:23:24+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+     "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+     "source": "CNBC",
+     "date": "2026-11-07T13:00:01+00:00"
+    },
     {
      "title": "The Cybertruck's 'cause of death?' Insufficient demand",
      "link": "https://www.npr.org/2026/11/06/nx-s1-6032607/the-cybertrucks-cause-of-death-insufficient-demand",
@@ -252,12 +258,6 @@
      "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
      "source": "NPR",
      "date": "2026-11-06T13:49:21+00:00"
-    },
-    {
-     "title": "Where's the growth? Legacy automakers face a tougher 2027 as costs rise, market tightens",
-     "link": "https://www.cnbc.com/2026/11/06/automakers-rising-costs-flat-production-2027.html",
-     "source": "CNBC",
-     "date": "2026-11-06T13:19:53+00:00"
     }
    ]
   },
@@ -265,70 +265,76 @@
    "name": "Finance",
    "items": [
     {
-     "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-     "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+     "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
+     "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-06T21:45:00+00:00"
+     "date": "2026-11-07T17:43:00+00:00"
     },
     {
-     "title": "Elon Musk opens the door for a big SpaceX acquisition",
-     "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+     "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+     "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-06T21:45:00+00:00"
+     "date": "2026-11-07T17:33:00+00:00"
     },
     {
-     "title": "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-     "link": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+     "title": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what’s making them richer.",
+     "link": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-06T21:37:00+00:00"
-    },
-    {
-     "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-     "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-06T21:24:00+00:00"
-    },
-    {
-     "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-     "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-06T21:15:00+00:00"
+     "date": "2026-11-07T17:04:00+00:00"
     },
     {
      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-06T21:15:00+00:00"
+     "date": "2026-11-07T17:01:00+00:00"
     },
     {
-     "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-     "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+     "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-06T20:58:00+00:00"
+     "date": "2026-11-07T16:40:00+00:00"
     },
     {
-     "title": "Nasdaq drops into correction territory — here’s what typically happens next",
-     "link": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html",
+     "title": "The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.",
+     "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-07T16:30:00+00:00"
+    },
+    {
+     "title": "I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?",
+     "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-07T16:30:00+00:00"
+    },
+    {
+     "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+     "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
      "source": "CNBC",
-     "date": "2026-11-06T20:42:28+00:00"
+     "date": "2026-11-07T16:02:33+00:00"
     },
     {
      "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
      "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-06T20:15:00+00:00"
+     "date": "2026-11-07T16:00:00+00:00"
     },
     {
-     "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-     "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
-     "source": "CNBC",
-     "date": "2026-11-06T19:05:00+00:00"
+     "title": "You follow the rules for smart stock trading. But are they the right rules?",
+     "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-07T16:00:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "Can Congress fix affordability? MIT's Daron Acemoglu weighs in",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6030646/can-congress-fix-affordability-mits-daron-acemoglu-weighs-in",
+     "source": "NPR",
+     "date": "2026-11-07T12:41:05+00:00"
+    },
     {
      "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
      "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
@@ -382,12 +388,6 @@
      "link": "https://www.npr.org/2026/11/05/nx-s1-6029335/voters-are-fed-up-with-high-prices-heres-what-the-new-congress-could-do-to-help",
      "source": "NPR",
      "date": "2026-11-05T23:06:15+00:00"
-    },
-    {
-     "title": "The October jobs report is out Friday. Here's everything to expect",
-     "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-     "source": "CNBC",
-     "date": "2026-11-05T21:32:52+00:00"
     }
    ]
   },
