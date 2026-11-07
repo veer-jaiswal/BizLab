@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-07T00:58:15.247281+00:00",
+ "updated": "2026-11-07T10:24:18.606859+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "With Stephen Miller pick, Trump readies for a battle",
-     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+     "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+     "source": "NPR",
+     "date": "2026-11-07T10:00:00+00:00"
+    },
+    {
+     "title": "From young offender to junior doctor: 'I wrote a plan and stuck to it'",
+     "link": "https://www.bbc.co.uk/news/articles/cm9qz9r8d9wlo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-06T23:24:15+00:00"
+     "date": "2026-11-07T09:23:39+00:00"
     },
     {
-     "title": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
-     "link": "https://www.bbc.co.uk/news/articles/cw0k00rp2e35o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T22:50:53+00:00"
-    },
-    {
-     "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-     "link": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+     "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+     "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
      "source": "CNBC",
-     "date": "2026-11-06T22:25:58+00:00"
+     "date": "2026-11-07T09:01:57+00:00"
     },
     {
-     "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-     "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+     "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+     "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
      "source": "CNBC",
-     "date": "2026-11-06T22:22:53+00:00"
+     "date": "2026-11-07T07:37:36+00:00"
     },
     {
-     "title": "Child, 6, dies weeks after Waterford arson attack",
-     "link": "https://www.bbc.co.uk/news/articles/c62e99vm8ll7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T21:53:38+00:00"
-    },
-    {
-     "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-     "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-     "source": "CNBC",
-     "date": "2026-11-06T21:40:09+00:00"
-    },
-    {
-     "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+     "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
      "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-06T21:26:56+00:00"
+     "date": "2026-11-07T07:27:44+00:00"
     },
     {
-     "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-     "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-     "source": "CNBC",
-     "date": "2026-11-06T21:15:47+00:00"
-    },
-    {
-     "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-     "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-     "source": "CNBC",
-     "date": "2026-11-06T21:07:07+00:00"
-    },
-    {
-     "title": "AI stocks climb after trillions wiped from market values",
-     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+     "title": "Paraguay's president impeached after collapse of bank",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-06T21:06:25+00:00"
+     "date": "2026-11-07T07:20:00+00:00"
+    },
+    {
+     "title": "Pope in 'pretty good health' as he starts Latin America tour",
+     "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T06:59:48+00:00"
+    },
+    {
+     "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
+     "link": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
+     "source": "CNBC",
+     "date": "2026-11-07T06:00:01+00:00"
+    },
+    {
+     "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+     "link": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T05:12:52+00:00"
+    },
+    {
+     "title": "Inside the card-grading empire shaping the price of Pokémon cards",
+     "link": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
+     "source": "CNBC",
+     "date": "2026-11-07T02:00:01+00:00"
     }
    ]
   },
@@ -70,22 +70,52 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+     "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+     "source": "The Guardian",
+     "date": "2026-11-07T10:00:08+00:00"
+    },
+    {
+     "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+     "source": "NPR",
+     "date": "2026-11-07T10:00:00+00:00"
+    },
+    {
+     "title": "‘Minimal look, maximal politics’: why the black T-shirt signals modern power",
+     "link": "https://www.theguardian.com/fashion/2026/nov/06/minimal-look-maximal-politics-how-the-black-t-shirt-became-a-political-weapon",
+     "source": "The Guardian",
+     "date": "2026-11-07T09:51:10+00:00"
+    },
+    {
+     "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+     "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+     "source": "CNBC",
+     "date": "2026-11-07T07:37:36+00:00"
+    },
+    {
+     "title": "The end of Maga as we know it",
+     "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+     "source": "The Guardian",
+     "date": "2026-11-07T06:00:05+00:00"
+    },
+    {
+     "title": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
      "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
      "source": "The Guardian",
-     "date": "2026-11-07T00:30:46+00:00"
+     "date": "2026-11-07T03:02:26+00:00"
+    },
+    {
+     "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+     "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+     "source": "The Guardian",
+     "date": "2026-11-07T01:38:06+00:00"
     },
     {
      "title": "Mississippi Senate: Colom increases lead over Hyde-Smith to nearly 2,500 votes",
      "link": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html",
      "source": "CNBC",
      "date": "2026-11-06T23:12:56+00:00"
-    },
-    {
-     "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
-     "link": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
-     "source": "The Guardian",
-     "date": "2026-11-06T22:35:09+00:00"
     },
     {
      "title": "American democracy was a big winner in the midterms",
@@ -98,36 +128,6 @@
      "link": "https://www.npr.org/2026/11/06/nx-s1-6030822/what-to-know-about-gina-hinojosa-texas-first-latina-governor-elect",
      "source": "NPR",
      "date": "2026-11-06T22:26:00+00:00"
-    },
-    {
-     "title": "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
-     "link": "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
-     "source": "CNBC",
-     "date": "2026-11-06T22:22:53+00:00"
-    },
-    {
-     "title": "Stephen Miller replaces Susie Wiles as White House chief of staff",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032810/stephen-miller-replaces-susie-wiles-as-white-house-chief-of-staff",
-     "source": "NPR",
-     "date": "2026-11-06T22:21:35+00:00"
-    },
-    {
-     "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-     "source": "NPR",
-     "date": "2026-11-06T21:53:10+00:00"
-    },
-    {
-     "title": "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-     "link": "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-     "source": "CNBC",
-     "date": "2026-11-06T21:40:09+00:00"
-    },
-    {
-     "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-     "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-     "source": "CNBC",
-     "date": "2026-11-06T21:15:47+00:00"
     }
    ]
   },
@@ -135,10 +135,40 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+     "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+     "source": "The Guardian",
+     "date": "2026-11-07T10:07:48+00:00"
+    },
+    {
+     "title": "Paraguay's president impeached and under house arrest after bank collapse",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-06T21:49:50+00:00"
+     "date": "2026-11-07T07:20:00+00:00"
+    },
+    {
+     "title": "Pope in 'pretty good health' as he starts Latin America tour",
+     "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T06:59:48+00:00"
+    },
+    {
+     "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+     "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+     "source": "The Guardian",
+     "date": "2026-11-07T01:55:11+00:00"
+    },
+    {
+     "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+     "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-06T23:46:08+00:00"
+    },
+    {
+     "title": "With Stephen Miller pick, Trump readies for a battle",
+     "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-06T23:24:15+00:00"
     },
     {
      "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
@@ -163,36 +193,6 @@
      "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
      "source": "The Guardian",
      "date": "2026-11-06T19:23:24+00:00"
-    },
-    {
-     "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-     "source": "NPR",
-     "date": "2026-11-06T19:13:06+00:00"
-    },
-    {
-     "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
-     "source": "NPR",
-     "date": "2026-11-06T19:00:21+00:00"
-    },
-    {
-     "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-     "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T17:44:02+00:00"
-    },
-    {
-     "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-     "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T16:51:01+00:00"
-    },
-    {
-     "title": "Four midterms takeaways for 2028 White House race",
-     "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T16:12:22+00:00"
     }
    ]
   },
