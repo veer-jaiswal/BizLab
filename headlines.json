@@ -1,74 +1,98 @@
 {
- "updated": "2026-11-07T17:46:37.967184+00:00",
+ "updated": "2026-11-07T21:57:50.777018+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T21:51:12+00:00"
+    },
+    {
+     "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+     "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T21:50:58+00:00"
+    },
+    {
+     "title": "Can New Zealand's new government win over disillusioned voters?",
+     "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T21:36:16+00:00"
+    },
+    {
+     "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+     "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T21:23:26+00:00"
+    },
+    {
+     "title": "Trump offers UFC chief Dana White press secretary job",
+     "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+     "source": "CNBC",
+     "date": "2026-11-07T21:17:54+00:00"
+    },
+    {
+     "title": "What we know so far after Krakow gun attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T21:13:24+00:00"
+    },
+    {
+     "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+     "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+     "source": "CNBC",
+     "date": "2026-11-07T20:28:17+00:00"
+    },
+    {
+     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+     "source": "NPR",
+     "date": "2026-11-07T20:18:18+00:00"
+    },
+    {
+     "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
+     "source": "NPR",
+     "date": "2026-11-07T18:37:36+00:00"
+    },
+    {
      "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
      "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-07T17:32:42+00:00"
-    },
-    {
-     "title": "Ousted Paraguayan president appears before prosecutors",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-     "source": "NPR",
-     "date": "2026-11-07T17:14:36+00:00"
-    },
-    {
-     "title": "Italian foreign minister says hackers leaked his personal data",
-     "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T16:50:06+00:00"
-    },
-    {
-     "title": "Dolly Parton's manager drops lawsuit against her nephew",
-     "link": "https://www.bbc.co.uk/news/articles/cmkgekz0r0v9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T16:30:31+00:00"
-    },
-    {
-     "title": "Tens of thousands of tents flooded after heavy rains in Gaza",
-     "link": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T16:25:55+00:00"
-    },
-    {
-     "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-     "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-     "source": "CNBC",
-     "date": "2026-11-07T16:02:33+00:00"
-    },
-    {
-     "title": "No clear winner after tight New Zealand general election",
-     "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T15:56:28+00:00"
-    },
-    {
-     "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
-     "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
-     "source": "CNBC",
-     "date": "2026-11-07T15:23:46+00:00"
-    },
-    {
-     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T15:19:35+00:00"
-    },
-    {
-     "title": "Two men arrested after boy injured in sword attack",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T15:10:54+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Trump offers UFC chief Dana White press secretary job",
+     "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
+     "source": "CNBC",
+     "date": "2026-11-07T21:17:54+00:00"
+    },
+    {
+     "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
+     "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
+     "source": "CNBC",
+     "date": "2026-11-07T20:28:17+00:00"
+    },
+    {
+     "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+     "source": "The Guardian",
+     "date": "2026-11-07T19:51:32+00:00"
+    },
+    {
+     "title": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-east-potomac-golf-course-lawsuit",
+     "source": "The Guardian",
+     "date": "2026-11-07T19:47:10+00:00"
+    },
     {
      "title": "Ousted Paraguayan president appears before prosecutors",
      "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
@@ -94,12 +118,6 @@
      "date": "2026-11-07T15:15:11+00:00"
     },
     {
-     "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
-     "source": "The Guardian",
-     "date": "2026-11-07T15:00:14+00:00"
-    },
-    {
      "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
      "link": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
      "source": "CNBC",
@@ -110,24 +128,6 @@
      "link": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
      "source": "CNBC",
      "date": "2026-11-07T13:30:01+00:00"
-    },
-    {
-     "title": "America doesn't like socialism. So why are socialists winning?",
-     "link": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
-     "source": "CNBC",
-     "date": "2026-11-07T13:01:01+00:00"
-    },
-    {
-     "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-     "source": "The Guardian",
-     "date": "2026-11-07T13:00:12+00:00"
-    },
-    {
-     "title": "Will Pete Hegseth be the blue tsunami’s next victim? | Arwa Mahdawi",
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/07/pete-hegseth-midterms-consequences",
-     "source": "The Guardian",
-     "date": "2026-11-07T13:00:12+00:00"
     }
    ]
   },
@@ -135,10 +135,40 @@
    "name": "World & government",
    "items": [
     {
+     "title": "What we know so far after Krakow gun attack",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T21:13:24+00:00"
+    },
+    {
+     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+     "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+     "source": "NPR",
+     "date": "2026-11-07T20:18:18+00:00"
+    },
+    {
+     "title": "Paraguay's former president charged after bank collapse",
+     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T19:17:22+00:00"
+    },
+    {
+     "title": "US offers $20m reward for information about Iran's nuclear programme",
+     "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T18:14:38+00:00"
+    },
+    {
      "title": "Ousted Paraguayan president appears before prosecutors",
      "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
      "source": "NPR",
      "date": "2026-11-07T17:14:36+00:00"
+    },
+    {
+     "title": "Houthis say at least 25 killed in Saudi air strike",
+     "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T17:09:24+00:00"
     },
     {
      "title": "Italian foreign minister says hackers leaked his personal data",
@@ -163,36 +193,6 @@
      "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
      "source": "The Guardian",
      "date": "2026-11-07T13:48:18+00:00"
-    },
-    {
-     "title": "New Zealand election coalition talks will likely take weeks – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-     "source": "The Guardian",
-     "date": "2026-11-07T13:12:22+00:00"
-    },
-    {
-     "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T12:49:36+00:00"
-    },
-    {
-     "title": "Texas mayor instructs police to limit co-operation with ICE",
-     "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T08:15:55+00:00"
-    },
-    {
-     "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-     "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T07:27:44+00:00"
-    },
-    {
-     "title": "Paraguay's president impeached and under house arrest after bank collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T07:20:00+00:00"
     }
    ]
   },
@@ -265,6 +265,30 @@
    "name": "Finance",
    "items": [
     {
+     "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+     "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-07T20:48:00+00:00"
+    },
+    {
+     "title": "Second-guessing my adviser: Is an annuity the right move in this market?",
+     "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-07T20:36:00+00:00"
+    },
+    {
+     "title": "Here are the 2027 capital-gains tax rates for each income level",
+     "link": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-07T19:48:00+00:00"
+    },
+    {
+     "title": "Medicare prescription drug costs will jump 50% in 2027. Doing nothing could cost you.",
+     "link": "https://www.marketwatch.com/story/medicare-prescription-drug-costs-will-jump-50-in-2027-doing-nothing-could-cost-you-b701dfb7?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-07T19:20:00+00:00"
+    },
+    {
      "title": "Democrats’ big election win revives a difficult Social Security question: Who pays?",
      "link": "https://www.marketwatch.com/story/democrats-big-election-win-revives-a-difficult-social-security-question-who-pays-17ba9448?mod=mw_rss_topstories",
      "source": "MarketWatch",
@@ -299,30 +323,6 @@
      "link": "https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-11-07T16:30:00+00:00"
-    },
-    {
-     "title": "I attend free meals hosted by people promoting annuities. I’ve no intention of buying any. Should I stop going?",
-     "link": "https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-07T16:30:00+00:00"
-    },
-    {
-     "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-     "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
-     "source": "CNBC",
-     "date": "2026-11-07T16:02:33+00:00"
-    },
-    {
-     "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-     "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-07T16:00:00+00:00"
-    },
-    {
-     "title": "You follow the rules for smart stock trading. But are they the right rules?",
-     "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-07T16:00:00+00:00"
     }
    ]
   },
