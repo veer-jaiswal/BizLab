@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-07T21:57:50.777018+00:00",
+ "updated": "2026-11-08T06:15:26.495503+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "title": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+     "link": "https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-07T21:51:12+00:00"
+     "date": "2026-11-08T04:09:21+00:00"
     },
     {
      "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
      "link": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-07T21:50:58+00:00"
+     "date": "2026-11-08T03:34:22+00:00"
     },
     {
-     "title": "Can New Zealand's new government win over disillusioned voters?",
-     "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+     "title": "Royal Family join veterans and families at Festival of Remembrance",
+     "link": "https://www.bbc.co.uk/news/articles/cxvgd2nr3e30o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-07T21:36:16+00:00"
+     "date": "2026-11-08T01:24:58+00:00"
+    },
+    {
+     "title": "My parents chose to die together and I was left to grieve alone",
+     "link": "https://www.bbc.co.uk/news/articles/c81dwllzv113o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T01:10:21+00:00"
+    },
+    {
+     "title": "Briton among six killed in 'far-right' shooting in Krakow",
+     "link": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T00:55:17+00:00"
+    },
+    {
+     "title": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
+     "link": "https://www.bbc.co.uk/news/articles/c6rmy9jvgwleo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T00:49:00+00:00"
+    },
+    {
+     "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+     "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T00:48:59+00:00"
+    },
+    {
+     "title": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
+     "link": "https://www.bbc.co.uk/news/articles/cm87zv70jg9no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T00:45:45+00:00"
+    },
+    {
+     "title": "Can the Zelda remake capture the magic of the original?",
+     "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T00:37:45+00:00"
     },
     {
      "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
      "link": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-07T21:23:26+00:00"
-    },
-    {
-     "title": "Trump offers UFC chief Dana White press secretary job",
-     "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-     "source": "CNBC",
-     "date": "2026-11-07T21:17:54+00:00"
-    },
-    {
-     "title": "What we know so far after Krakow gun attack",
-     "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T21:13:24+00:00"
-    },
-    {
-     "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-     "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-     "source": "CNBC",
-     "date": "2026-11-07T20:28:17+00:00"
-    },
-    {
-     "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
-     "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
-     "source": "NPR",
-     "date": "2026-11-07T20:18:18+00:00"
-    },
-    {
-     "title": "Gunman opens fire in Polish city of Krakow, killing 6 people and injuring 15",
-     "link": "https://www.npr.org/2026/11/07/g-s1-152532/gunman-opens-fire-in-polish-city-of-krakow-killing-6-people-and-injuring-15",
-     "source": "NPR",
-     "date": "2026-11-07T18:37:36+00:00"
-    },
-    {
-     "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-     "link": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T17:32:42+00:00"
+     "date": "2026-11-08T00:31:53+00:00"
     }
    ]
   },
@@ -70,22 +70,40 @@
    "name": "Politics",
    "items": [
     {
+     "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
+     "source": "The Guardian",
+     "date": "2026-11-08T00:28:33+00:00"
+    },
+    {
      "title": "Trump offers UFC chief Dana White press secretary job",
      "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
      "source": "CNBC",
-     "date": "2026-11-07T21:17:54+00:00"
+     "date": "2026-11-07T23:13:38+00:00"
+    },
+    {
+     "title": "Wisconsin state patrol trooper detained by ICE released from custody",
+     "link": "https://www.theguardian.com/us-news/2026/nov/07/wisconsin-state-trooper-ice-released",
+     "source": "The Guardian",
+     "date": "2026-11-07T23:05:06+00:00"
+    },
+    {
+     "title": "Texas's 'Blue Tsunami' has former Texas congressman Beto O'Rourke 'over the moon'",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6030966/texass-blue-tsunami-has-former-texas-congressman-beto-orourke-over-the-moon",
+     "source": "NPR",
+     "date": "2026-11-07T22:12:08+00:00"
+    },
+    {
+     "title": "President of The Heritage Foundation looks ahead to the future of the GOP",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6029779/president-of-the-heritage-foundation-looks-ahead-to-the-future-of-the-gop",
+     "source": "NPR",
+     "date": "2026-11-07T22:12:03+00:00"
     },
     {
      "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
      "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
      "source": "CNBC",
-     "date": "2026-11-07T20:28:17+00:00"
-    },
-    {
-     "title": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/donald-trump-dana-white-press-secretary",
-     "source": "The Guardian",
-     "date": "2026-11-07T19:51:32+00:00"
+     "date": "2026-11-07T21:59:10+00:00"
     },
     {
      "title": "Judge to appoint special master to determine whether Trump lawyers purposely misled her over golf course",
@@ -110,24 +128,6 @@
      "link": "https://www.theguardian.com/us-news/2026/nov/07/san-francisco-bay-area-transit-bart-muni",
      "source": "The Guardian",
      "date": "2026-11-07T16:00:15+00:00"
-    },
-    {
-     "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
-     "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
-     "source": "The Guardian",
-     "date": "2026-11-07T15:15:11+00:00"
-    },
-    {
-     "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
-     "link": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
-     "source": "CNBC",
-     "date": "2026-11-07T14:00:01+00:00"
-    },
-    {
-     "title": "Democrat shaping AI policy bought chip stocks despite backing congressional trading ban",
-     "link": "https://www.cnbc.com/2026/11/07/josh-gottheimer-ai-stocks-congress-trading-ban.html",
-     "source": "CNBC",
-     "date": "2026-11-07T13:30:01+00:00"
     }
    ]
   },
@@ -135,10 +135,46 @@
    "name": "World & government",
    "items": [
     {
+     "title": "Houthis say at least 33 killed in Saudi air strike",
+     "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T04:03:12+00:00"
+    },
+    {
+     "title": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+     "link": "https://www.theguardian.com/global-development/2026/nov/08/uyghurs-thailand-china-forced-deportation",
+     "source": "The Guardian",
+     "date": "2026-11-08T03:00:28+00:00"
+    },
+    {
      "title": "What we know so far after Krakow gun attack",
      "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-07T21:13:24+00:00"
+     "date": "2026-11-08T01:47:41+00:00"
+    },
+    {
+     "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+     "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+     "source": "The Guardian",
+     "date": "2026-11-08T01:00:48+00:00"
+    },
+    {
+     "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+     "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T22:19:59+00:00"
+    },
+    {
+     "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6032606/israeli-president-invites-netanyahus-opposition-leader-to-broker-new-government",
+     "source": "NPR",
+     "date": "2026-11-07T22:12:09+00:00"
+    },
+    {
+     "title": "A correspondent finds Cuba's people struggling",
+     "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+     "source": "NPR",
+     "date": "2026-11-07T22:12:06+00:00"
     },
     {
      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
@@ -157,48 +193,18 @@
      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-07T18:14:38+00:00"
-    },
-    {
-     "title": "Ousted Paraguayan president appears before prosecutors",
-     "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
-     "source": "NPR",
-     "date": "2026-11-07T17:14:36+00:00"
-    },
-    {
-     "title": "Houthis say at least 25 killed in Saudi air strike",
-     "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T17:09:24+00:00"
-    },
-    {
-     "title": "Italian foreign minister says hackers leaked his personal data",
-     "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T16:50:06+00:00"
-    },
-    {
-     "title": "No clear winner after tight New Zealand general election",
-     "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T15:56:28+00:00"
-    },
-    {
-     "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-07T15:19:35+00:00"
-    },
-    {
-     "title": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
-     "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-     "source": "The Guardian",
-     "date": "2026-11-07T13:48:18+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+     "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-07T23:02:35+00:00"
+    },
     {
      "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
      "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
@@ -252,12 +258,6 @@
      "link": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html",
      "source": "CNBC",
      "date": "2026-11-06T15:06:11+00:00"
-    },
-    {
-     "title": "Hiring jumps: The economy added 165,000 jobs last month",
-     "link": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
-     "source": "NPR",
-     "date": "2026-11-06T13:49:21+00:00"
     }
    ]
   },
