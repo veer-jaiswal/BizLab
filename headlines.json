@@ -1,74 +1,104 @@
 {
- "updated": "2026-11-08T19:44:51.834564+00:00",
+ "updated": "2026-11-09T00:58:44.929886+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
-     "source": "NPR",
-     "date": "2026-11-08T19:25:30+00:00"
+     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-09T00:50:06+00:00"
     },
     {
-     "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
-     "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
-     "source": "CNBC",
-     "date": "2026-11-08T18:57:56+00:00"
+     "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034036/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+     "source": "NPR",
+     "date": "2026-11-09T00:17:43+00:00"
+    },
+    {
+     "title": "NASA is looking for astronauts to live and work on the Moon",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034002/nasa-astronaut-class-applications-2026",
+     "source": "NPR",
+     "date": "2026-11-08T23:36:47+00:00"
     },
     {
      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
      "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-08T18:22:53+00:00"
+     "date": "2026-11-08T23:34:18+00:00"
     },
     {
-     "title": "King leads solemn Remembrance Sunday service at Cenotaph",
-     "link": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-08T18:20:53+00:00"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
-     "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+     "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+     "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
      "source": "CNBC",
-     "date": "2026-11-08T18:18:30+00:00"
+     "date": "2026-11-08T22:53:57+00:00"
     },
     {
-     "title": "Two arrested after police officers hurt in brawl outside bare-knuckle fighting event",
-     "link": "https://www.bbc.co.uk/news/articles/c8zxl9417e5vo?at_medium=RSS&at_campaign=rss",
+     "title": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+     "link": "https://www.bbc.co.uk/news/articles/cj4g1nwx39wno?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-08T17:42:28+00:00"
+     "date": "2026-11-08T22:49:53+00:00"
+    },
+    {
+     "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+     "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+     "source": "CNBC",
+     "date": "2026-11-08T21:53:02+00:00"
+    },
+    {
+     "title": "Maya Jama steps down as host of reality TV show Love Island",
+     "link": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T21:19:48+00:00"
+    },
+    {
+     "title": "Dense fog threatens Monday morning rush-hour disruption",
+     "link": "https://www.bbc.co.uk/weather/articles/cj75p29nz6e6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T20:01:04+00:00"
     },
     {
      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
      "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-08T17:35:13+00:00"
-    },
-    {
-     "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
-     "source": "NPR",
-     "date": "2026-11-08T16:46:15+00:00"
-    },
-    {
-     "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
-     "source": "NPR",
-     "date": "2026-11-08T16:30:16+00:00"
-    },
-    {
-     "title": "Footage shows derailed carriages after fatal train crash in Egypt",
-     "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-08T16:05:57+00:00"
+     "date": "2026-11-08T19:58:02+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+     "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+     "source": "CNBC",
+     "date": "2026-11-08T22:49:46+00:00"
+    },
+    {
+     "title": "Trump staffing changes post-midterms signal he's battle ready",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6034003/trump-staffing-changes-post-midterms-signal-hes-battle-ready",
+     "source": "NPR",
+     "date": "2026-11-08T22:04:17+00:00"
+    },
+    {
+     "title": "How will Democrats approach foreign policy after their midterm win?",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6030982/how-will-democrats-approach-foreign-policy-after-their-midterm-win",
+     "source": "NPR",
+     "date": "2026-11-08T22:04:14+00:00"
+    },
+    {
+     "title": "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
+     "link": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+     "source": "CNBC",
+     "date": "2026-11-08T21:53:02+00:00"
+    },
+    {
+     "title": "‘Seismic shift’: Native American women made significant gains in US midterms",
+     "link": "https://www.theguardian.com/us-news/2026/nov/08/native-american-women-midterm-elections",
+     "source": "The Guardian",
+     "date": "2026-11-08T21:04:49+00:00"
+    },
     {
      "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
      "link": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
@@ -80,12 +110,6 @@
      "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
      "source": "CNBC",
      "date": "2026-11-08T18:57:56+00:00"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
-     "link": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
-     "source": "CNBC",
-     "date": "2026-11-08T18:18:30+00:00"
     },
     {
      "title": "Saturday Night Live: Druski hosts and James Talarico cameos, but where’s the post-election comedy?",
@@ -104,30 +128,6 @@
      "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
      "source": "NPR",
      "date": "2026-11-08T16:46:15+00:00"
-    },
-    {
-     "title": "Challenging the politics that brought Donald Trump to power | Letters",
-     "link": "https://www.theguardian.com/us-news/2026/nov/08/challenging-the-politics-that-brought-donald-trump-to-power",
-     "source": "The Guardian",
-     "date": "2026-11-08T16:37:43+00:00"
-    },
-    {
-     "title": "How Democrats will try to end Trump's tariffs",
-     "link": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
-     "source": "CNBC",
-     "date": "2026-11-08T15:36:39+00:00"
-    },
-    {
-     "title": "Abdul El-Sayed’s Oxford years: PhD, political influences and sporting distinction",
-     "link": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
-     "source": "The Guardian",
-     "date": "2026-11-08T15:26:04+00:00"
-    },
-    {
-     "title": "Trump targets Slotkin in call for DOJ probe of alleged Democratic threats to Republicans",
-     "link": "https://www.cnbc.com/2026/11/07/trump-doj-democrats-alleged-threats-slotkin.html",
-     "source": "CNBC",
-     "date": "2026-11-08T14:15:00+00:00"
     }
    ]
   },
@@ -135,28 +135,52 @@
    "name": "World & government",
    "items": [
     {
+     "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+     "link": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+     "source": "The Guardian",
+     "date": "2026-11-09T00:25:28+00:00"
+    },
+    {
+     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+     "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T23:34:18+00:00"
+    },
+    {
+     "title": "The world's largest telecoms firm is on trial and the outcome has global implications",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications",
+     "source": "NPR",
+     "date": "2026-11-08T22:04:13+00:00"
+    },
+    {
+     "title": "Trying to find true owners, Paris' Musee D'Orsay exhibits art looted by Nazis",
+     "link": "https://www.npr.org/2026/11/08/nx-s1-5928034/trying-to-find-true-owners-paris-musee-dorsay-exhibits-art-looted-by-nazis",
+     "source": "NPR",
+     "date": "2026-11-08T22:04:09+00:00"
+    },
+    {
+     "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T21:37:36+00:00"
+    },
+    {
+     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+     "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-08T19:58:02+00:00"
+    },
+    {
      "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
      "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
      "source": "NPR",
      "date": "2026-11-08T19:25:30+00:00"
     },
     {
-     "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-     "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-08T18:22:53+00:00"
-    },
-    {
      "title": "Collision of two trains in Egypt kills at least seven",
      "link": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision",
      "source": "The Guardian",
      "date": "2026-11-08T17:51:17+00:00"
-    },
-    {
-     "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-     "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-08T17:35:13+00:00"
     },
     {
      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
@@ -169,36 +193,24 @@
      "link": "https://www.npr.org/2026/11/08/nx-s1-6033992/after-a-successful-trip-to-uruguay-pope-leo-heads-to-argentina",
      "source": "NPR",
      "date": "2026-11-08T16:30:16+00:00"
-    },
-    {
-     "title": "Russell Brand to learn sentence after being found guilty of rape and sexual assault",
-     "link": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand-learn-sentence-found-guilty-rape-sexual-assault",
-     "source": "NPR",
-     "date": "2026-11-08T15:07:15+00:00"
-    },
-    {
-     "title": "Homes and temples glow across India to mark Diwali",
-     "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-08T14:42:09+00:00"
-    },
-    {
-     "title": "Iran executes three men for 'armed unrest' after January protests",
-     "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-08T13:37:50+00:00"
-    },
-    {
-     "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
-     "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
-     "source": "The Guardian",
-     "date": "2026-11-08T12:00:39+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+     "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-09T00:50:06+00:00"
+    },
+    {
+     "title": "Doing these things now will help you save money at Christmas",
+     "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-09T00:09:14+00:00"
+    },
     {
      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
      "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
@@ -246,18 +258,6 @@
      "link": "https://www.npr.org/2026/11/06/nx-s1-6032695/this-was-the-week-the-ai-trade-cracked-so-whats-next",
      "source": "NPR",
      "date": "2026-11-06T21:58:09+00:00"
-    },
-    {
-     "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-     "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T21:49:50+00:00"
-    },
-    {
-     "title": "AI stocks climb after trillions wiped from market values",
-     "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-06T21:06:25+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-     "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+     "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+     "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T18:00:00+00:00"
+     "date": "2026-11-09T00:40:00+00:00"
     },
     {
-     "title": "Two months after my father’s funeral, my stepmother asked me to repay his $40,000 wedding gift. Should I do what she says?",
-     "link": "https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories",
+     "title": "I’m second-guessing my adviser: Is an annuity the right move in this market?",
+     "link": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T17:30:00+00:00"
-    },
-    {
-     "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
-     "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-08T17:23:00+00:00"
+     "date": "2026-11-09T00:30:00+00:00"
     },
     {
      "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
      "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T16:00:00+00:00"
+     "date": "2026-11-09T00:02:00+00:00"
     },
     {
-     "title": "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-     "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
+     "title": "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+     "link": "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T15:30:00+00:00"
+     "date": "2026-11-09T00:00:00+00:00"
     },
     {
-     "title": "My 93-year-old father changed his will at the 11th hour, leaving my brother his entire $500,000 estate. Can I challenge it?",
-     "link": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+     "title": "How much in Roth conversions can you do in 2027 with the new tax brackets?",
+     "link": "https://www.marketwatch.com/story/how-much-roth-conversion-can-you-do-in-2027-with-the-new-tax-brackets-a2f940c8?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T15:16:00+00:00"
+     "date": "2026-11-08T23:50:00+00:00"
     },
     {
-     "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-     "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
+     "title": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+     "link": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T15:00:00+00:00"
+     "date": "2026-11-08T23:49:00+00:00"
     },
     {
-     "title": "‘We’re losing to cottage cheese’: The protein-maxxing craze is hurting cream-cheese sales",
-     "link": "https://www.marketwatch.com/story/were-losing-to-cottage-cheese-the-protein-maxxing-craze-is-hurting-cream-cheese-sales-40ae94f3?mod=mw_rss_topstories",
+     "title": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+     "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T14:13:00+00:00"
+     "date": "2026-11-08T23:35:00+00:00"
     },
     {
-     "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
-     "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+     "title": "You follow the rules for smart stock trading. But are they the right rules?",
+     "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T14:00:00+00:00"
+     "date": "2026-11-08T23:15:00+00:00"
     },
     {
-     "title": "This market signal called the tech selloff. Now it’s sending another warning.",
-     "link": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+     "title": "A new setback for the AI trade: Nvidia’s board is probing CEO Huang’s relationship with alleged spy",
+     "link": "https://www.marketwatch.com/story/nvidias-board-will-probe-ceo-jensen-huangs-relationship-with-an-alleged-spy-heres-what-to-know-86656cd9?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-08T12:00:00+00:00"
+     "date": "2026-11-08T23:05:00+00:00"
+    },
+    {
+     "title": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
+     "link": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-08T18:00:00+00:00"
     }
    ]
   },
