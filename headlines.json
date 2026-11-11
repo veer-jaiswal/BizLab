@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-10T23:29:05.794522+00:00",
+ "updated": "2026-11-11T06:40:33.055002+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-     "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-     "source": "CNBC",
-     "date": "2026-11-10T23:16:15+00:00"
-    },
-    {
-     "title": "Hegseth impeachment effort torpedoed in House",
-     "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
-     "source": "CNBC",
-     "date": "2026-11-10T23:14:09+00:00"
-    },
-    {
-     "title": "Nvidia's Huang tries to project 'business as usual' in return to office after affair revelation",
-     "link": "https://www.cnbc.com/2026/11/10/nvidia-jensen-huang-affair-office.html",
-     "source": "CNBC",
-     "date": "2026-11-10T23:11:34+00:00"
-    },
-    {
-     "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-     "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+     "title": "Acquitted 'China spy': I was fall guy for security services",
+     "link": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-10T22:52:15+00:00"
+     "date": "2026-11-11T06:00:21+00:00"
     },
     {
-     "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
-     "link": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-10T22:41:01+00:00"
-    },
-    {
-     "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
-     "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+     "title": "Investors pivot to defensive stocks as markets enter a ‘state of alert’",
+     "link": "https://www.cnbc.com/2026/11/11/tech-selloff-defensive-pivot.html",
      "source": "CNBC",
-     "date": "2026-11-10T22:39:30+00:00"
+     "date": "2026-11-11T06:00:01+00:00"
     },
     {
-     "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-     "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-10T22:17:45+00:00"
-    },
-    {
-     "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
-     "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+     "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+     "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
      "source": "CNBC",
-     "date": "2026-11-10T22:08:25+00:00"
+     "date": "2026-11-11T05:15:50+00:00"
     },
     {
-     "title": "Census should include black English and Asian English options, says MP",
-     "link": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-10T22:04:54+00:00"
-    },
-    {
-     "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
-     "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+     "title": "Bessent reportedly moved to military base over Iranian threats on his life",
+     "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
      "source": "CNBC",
-     "date": "2026-11-10T22:01:52+00:00"
+     "date": "2026-11-11T04:06:47+00:00"
+    },
+    {
+     "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-11T04:03:25+00:00"
+    },
+    {
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-11T03:26:42+00:00"
+    },
+    {
+     "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+     "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+     "source": "CNBC",
+     "date": "2026-11-11T03:08:17+00:00"
+    },
+    {
+     "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+     "link": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
+     "source": "CNBC",
+     "date": "2026-11-11T02:46:56+00:00"
+    },
+    {
+     "title": "Anthropic opens Australian retail IPO offering as AI scrutiny intensifies",
+     "link": "https://www.cnbc.com/2026/11/11/anthopic-australian-retail-ipo-offering-.html",
+     "source": "CNBC",
+     "date": "2026-11-11T01:52:56+00:00"
+    },
+    {
+     "title": "Federal government failed to hold Epstein accountable, Republican committee says",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6036135/federal-government-failed-to-hold-epstein-accountable-republican-committee-says",
+     "source": "NPR",
+     "date": "2026-11-11T01:51:23+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
+     "title": "Who is Stephen Miller, the new gateway man to Trump - podcast",
+     "link": "https://www.theguardian.com/australia-news/audio/2026/nov/11/who-is-stephen-miller-the-new-gateway-man-to-trump-decoding-america-podcast",
+     "source": "The Guardian",
+     "date": "2026-11-11T06:08:15+00:00"
+    },
+    {
+     "title": "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
+     "link": "https://www.cnbc.com/2026/11/11/trump-xi-summit-ai-nvidia-.html",
+     "source": "CNBC",
+     "date": "2026-11-11T05:15:50+00:00"
+    },
+    {
+     "title": "Bessent reportedly moved to military base over Iranian threats on his life",
+     "link": "https://www.cnbc.com/2026/11/11/us-iran-war-trump-hormuz-bessent-threats.html",
+     "source": "CNBC",
+     "date": "2026-11-11T04:06:47+00:00"
+    },
+    {
+     "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+     "source": "The Guardian",
+     "date": "2026-11-11T02:55:46+00:00"
+    },
+    {
+     "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+     "link": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+     "source": "The Guardian",
+     "date": "2026-11-11T01:18:56+00:00"
+    },
+    {
+     "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+     "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+     "source": "The Guardian",
+     "date": "2026-11-10T23:56:11+00:00"
+    },
+    {
      "title": "Hegseth impeachment effort torpedoed in House",
      "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
      "source": "CNBC",
-     "date": "2026-11-10T23:14:09+00:00"
+     "date": "2026-11-10T23:46:41+00:00"
     },
     {
-     "title": "House blocks effort from Republican lawmaker to impeach Pete Hegseth – US politics live",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-     "source": "The Guardian",
-     "date": "2026-11-10T23:12:42+00:00"
-    },
-    {
-     "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
-     "link": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
-     "source": "The Guardian",
-     "date": "2026-11-10T23:12:12+00:00"
-    },
-    {
-     "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
-     "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-     "source": "CNBC",
-     "date": "2026-11-10T23:06:44+00:00"
-    },
-    {
-     "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
-     "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
-     "source": "The Guardian",
-     "date": "2026-11-10T22:42:43+00:00"
-    },
-    {
-     "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
-     "link": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
-     "source": "The Guardian",
-     "date": "2026-11-10T22:16:32+00:00"
-    },
-    {
-     "title": "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
-     "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-     "source": "CNBC",
-     "date": "2026-11-10T22:01:52+00:00"
-    },
-    {
-     "title": "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-     "link": "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-     "source": "CNBC",
-     "date": "2026-11-10T22:00:40+00:00"
-    },
-    {
-     "title": "House Republicans elect Jim Jordan as their next leader",
-     "link": "https://www.npr.org/2026/11/10/nx-s1-6035791/house-republicans-elect-jim-jordan-as-their-next-leader",
+     "title": "Hegseth has remained defiant as Congress members deliberate articles of impeachment",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6035792/hegseth-has-remained-defiant-as-congress-members-deliberate-articles-of-impeachment",
      "source": "NPR",
-     "date": "2026-11-10T21:57:23+00:00"
+     "date": "2026-11-10T23:43:59+00:00"
     },
     {
-     "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-     "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
-     "source": "CNBC",
-     "date": "2026-11-10T21:45:46+00:00"
+     "title": "House votes to effectively end the impeachment effort against Pete Hegseth",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth",
+     "source": "NPR",
+     "date": "2026-11-10T23:43:11+00:00"
+    },
+    {
+     "title": "Supreme Court seems split over federal agencies' ability to fine for law violations",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6034950/2026-11-10-nx-s1-6034950-supreme-court-seems-divided-over-federal-agencies-ability-to-fine-for-law-violations",
+     "source": "NPR",
+     "date": "2026-11-10T23:27:32+00:00"
     }
    ]
   },
@@ -135,22 +135,46 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-     "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+     "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+     "link": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
+     "source": "The Guardian",
+     "date": "2026-11-11T05:33:27+00:00"
+    },
+    {
+     "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+     "link": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-10T22:52:15+00:00"
+     "date": "2026-11-11T03:44:06+00:00"
+    },
+    {
+     "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+     "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-11T03:26:42+00:00"
+    },
+    {
+     "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+     "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-11T02:47:59+00:00"
     },
     {
      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-10T22:17:45+00:00"
+     "date": "2026-11-11T02:41:16+00:00"
     },
     {
-     "title": "First day of Ukraine peace talks constructive, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+     "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+     "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-10T21:21:55+00:00"
+     "date": "2026-11-11T01:01:20+00:00"
+    },
+    {
+     "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+     "link": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-11T00:18:07+00:00"
     },
     {
      "title": "Spain's king and queen attend memorial service for rail crash victims",
@@ -159,46 +183,46 @@
      "date": "2026-11-10T20:46:40+00:00"
     },
     {
+     "title": "US Army soldier suspected of spying for Russia arrested in UK",
+     "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-10T20:20:04+00:00"
+    },
+    {
      "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
      "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-10T19:26:42+00:00"
-    },
-    {
-     "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
-     "link": "https://www.theguardian.com/world/2026/nov/10/uk-and-argentina-clash-over-falklands-oil-project-as-hamburg-tribunal-starts",
-     "source": "The Guardian",
-     "date": "2026-11-10T19:01:33+00:00"
-    },
-    {
-     "title": "U.S. boycotts U.N. human rights review for second year running",
-     "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
-     "source": "NPR",
-     "date": "2026-11-10T18:53:34+00:00"
-    },
-    {
-     "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
-     "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-10T18:43:04+00:00"
-    },
-    {
-     "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-     "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-10T18:33:51+00:00"
-    },
-    {
-     "title": "Arrests made after visit from former US President Biden",
-     "link": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-10T18:07:56+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Robot vessels take on the dangerous work of mine hunting",
+     "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-11T00:19:13+00:00"
+    },
+    {
+     "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+     "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-11T00:16:44+00:00"
+    },
+    {
+     "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+     "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-11T00:02:07+00:00"
+    },
+    {
+     "title": "The scandal surrounding the head of Nvidia could have wide-ranging implications",
+     "link": "https://www.npr.org/2026/11/10/nx-s1-6035694/the-scandal-surrounding-the-head-of-nvidia-could-have-wide-ranging-implications",
+     "source": "NPR",
+     "date": "2026-11-10T23:43:58+00:00"
+    },
     {
      "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
      "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
@@ -234,30 +258,6 @@
      "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-10T17:04:55+00:00"
-    },
-    {
-     "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
-     "link": "https://www.cnbc.com/2026/11/10/rivian-r2-autonomy-2027-rj-scaringe.html",
-     "source": "CNBC",
-     "date": "2026-11-10T15:11:48+00:00"
-    },
-    {
-     "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-     "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-10T15:10:20+00:00"
-    },
-    {
-     "title": "US inflation higher than expected in October - here's what is happening with prices",
-     "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-10T14:45:46+00:00"
-    },
-    {
-     "title": "Gas prices dip below $4 but inflation remains stubbornly high",
-     "link": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
-     "source": "NPR",
-     "date": "2026-11-10T14:35:50+00:00"
     }
    ]
   },
@@ -265,16 +265,46 @@
    "name": "Finance",
    "items": [
     {
-     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+     "title": "Alibaba announces plans to list T-Head, its Nvidia chip rival",
+     "link": "https://www.cnbc.com/2026/11/11/alibaba-pr.html",
+     "source": "CNBC",
+     "date": "2026-11-11T03:08:17+00:00"
+    },
+    {
+     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-10T23:25:00+00:00"
+     "date": "2026-11-11T02:15:00+00:00"
     },
     {
      "title": "One reason Children’s Place is filing for bankruptcy? Not enough children.",
      "link": "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-10T22:56:00+00:00"
+     "date": "2026-11-11T01:54:00+00:00"
+    },
+    {
+     "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+     "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-11T01:12:00+00:00"
+    },
+    {
+     "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+     "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-11T00:30:00+00:00"
+    },
+    {
+     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-11T00:00:00+00:00"
+    },
+    {
+     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-10T23:25:00+00:00"
     },
     {
      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
@@ -293,36 +323,6 @@
      "link": "https://www.marketwatch.com/story/meet-the-former-prosecutor-nvidia-hired-to-investigate-the-jensen-huang-spy-scandal-e8078f67?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-11-10T22:05:00+00:00"
-    },
-    {
-     "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
-     "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-10T21:42:00+00:00"
-    },
-    {
-     "title": "How the stock market has performed after Veterans Day over the past decade",
-     "link": "https://www.marketwatch.com/story/how-the-stock-market-has-performed-after-veterans-day-over-the-past-decade-7b47233e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-10T21:29:00+00:00"
-    },
-    {
-     "title": "My friend feels trapped at her job but won’t do anything about it. Am I supposed to step in?",
-     "link": "https://www.marketwatch.com/story/my-friend-feels-trapped-at-her-job-but-wont-do-anything-about-it-am-i-supposed-to-step-in-7e55604e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-10T21:22:00+00:00"
-    },
-    {
-     "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
-     "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-10T21:20:00+00:00"
-    },
-    {
-     "title": "Nvidia could soon face tougher export rules, making it harder to sell chips to China after scandal",
-     "link": "https://www.marketwatch.com/story/nvidia-could-soon-face-tougher-export-rules-making-it-harder-to-sell-chips-to-china-69c88cc8?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-10T20:37:00+00:00"
     }
    ]
   },
@@ -333,7 +333,7 @@
      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
      "source": "CNBC",
-     "date": "2026-11-10T16:47:05+00:00"
+     "date": "2026-11-10T23:53:58+00:00"
     },
     {
      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
