@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-13T11:11:34.583647+00:00",
+ "updated": "2026-11-13T19:50:13.664845+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up",
-     "link": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html",
+     "title": "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
+     "link": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
      "source": "CNBC",
-     "date": "2026-11-13T11:07:04+00:00"
+     "date": "2026-11-13T19:48:05+00:00"
     },
     {
-     "title": "Kratom and 7-OH can feel like 'a miracle.' They can also be addictive",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6039203/kratom-7-oh-dea-addiction-opioid",
+     "title": "Hassett denies report he's leaving White House: 'Not true'",
+     "link": "https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html",
+     "source": "CNBC",
+     "date": "2026-11-13T19:47:28+00:00"
+    },
+    {
+     "title": "Supreme Court will hear Robinhood effort to toss IPO info omissions lawsuit",
+     "link": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
+     "source": "CNBC",
+     "date": "2026-11-13T19:33:26+00:00"
+    },
+    {
+     "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+     "source": "CNBC",
+     "date": "2026-11-13T19:11:13+00:00"
+    },
+    {
+     "title": "What's Trump's strategy now with Iran? To keep things as they are",
+     "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
      "source": "NPR",
-     "date": "2026-11-13T11:00:00+00:00"
+     "date": "2026-11-13T19:02:04+00:00"
     },
     {
-     "title": "Widespread Microsoft outage continues, taking down Outlook and other 365 services",
-     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+     "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+     "link": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-13T19:01:36+00:00"
+    },
+    {
+     "title": "Retirees sometimes tap savings for one-off expenses. Here’s what advisors say to consider first",
+     "link": "https://www.cnbc.com/2026/11/13/retirement-401k-ira-withdrawal-taxes.html",
      "source": "CNBC",
-     "date": "2026-11-13T10:55:10+00:00"
+     "date": "2026-11-13T19:01:12+00:00"
     },
     {
-     "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+     "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+     "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
      "source": "CNBC",
-     "date": "2026-11-13T10:54:40+00:00"
+     "date": "2026-11-13T18:56:26+00:00"
     },
     {
-     "title": "What we know about the global outage",
+     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-13T10:53:40+00:00"
+     "date": "2026-11-13T18:36:57+00:00"
     },
     {
-     "title": "Water firm pleads guilty after four killed in blast",
-     "link": "https://www.bbc.co.uk/news/articles/cm8x0l0jp150o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T10:44:00+00:00"
-    },
-    {
-     "title": "Piddington to bring legal challenge over asylum base plans",
-     "link": "https://www.bbc.co.uk/news/articles/ckzd91jqvm0lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T10:30:13+00:00"
-    },
-    {
-     "title": "Hegseth awards medal to soldier who chastised him",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-     "source": "NPR",
-     "date": "2026-11-13T10:27:08+00:00"
-    },
-    {
-     "title": "Watch: 'I feel it's a sign of what's to come': Office workers on Microsoft disruption",
-     "link": "https://www.bbc.co.uk/news/videos/cmge3y5rxg5jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T10:16:29+00:00"
-    },
-    {
-     "title": "Boy died from multiple injuries in Cyprus hotel fall",
-     "link": "https://www.bbc.co.uk/news/articles/cme3x30q9z9wo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T10:05:50+00:00"
+     "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+     "source": "CNBC",
+     "date": "2026-11-13T18:18:28+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Hegseth awards medal to soldier who chastised him",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6039845/hegseth-awards-medal-to-soldier-who-chastised-him",
-     "source": "NPR",
-     "date": "2026-11-13T10:27:08+00:00"
-    },
-    {
-     "title": "These swing voters have low expectations for divided government",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6035826/north-carolina-swing-voters-congress-trump",
-     "source": "NPR",
-     "date": "2026-11-13T10:00:00+00:00"
-    },
-    {
-     "title": "These two voter turnout trends explain what happened across the South in the election",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6038701/midterm-election-voter-turnout-south",
-     "source": "NPR",
-     "date": "2026-11-13T10:00:00+00:00"
-    },
-    {
-     "title": "Trump redirects Vance from Iran to focus on combatting fraud in Democratic-led states",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6039160/trump-redirects-vance-from-iran-to-focus-on-combatting-fraud-in-democratic-led-states",
-     "source": "NPR",
-     "date": "2026-11-13T09:43:04+00:00"
-    },
-    {
-     "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-     "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+     "title": "Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
      "source": "The Guardian",
-     "date": "2026-11-13T09:41:22+00:00"
+     "date": "2026-11-13T19:40:15+00:00"
     },
     {
-     "title": "Ukraine warns of fresh Starshield disruptions as U.S. envoys arrive in Moscow for talks with Putin",
-     "link": "https://www.cnbc.com/2026/11/12/starlink-starshield-ukraine-restrictions-spacex.html",
-     "source": "CNBC",
-     "date": "2026-11-13T08:17:04+00:00"
-    },
-    {
-     "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
-     "source": "CNBC",
-     "date": "2026-11-13T07:15:01+00:00"
-    },
-    {
-     "title": "Why the Nvidia CEO’s downfall is bad for Trump – podcast",
-     "link": "https://www.theguardian.com/politics/audio/2026/nov/13/why-the-nvidia-scandal-is-bad-for-trump-podcast",
+     "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
+     "link": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
      "source": "The Guardian",
-     "date": "2026-11-13T07:05:01+00:00"
+     "date": "2026-11-13T19:38:35+00:00"
     },
     {
-     "title": "Progressives are still so pessimistic, but why? The populist right can and will be defeated | Andy Beckett",
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/13/progressive-pessimism-right-defeat-us-midterms-brazil-hungary",
-     "source": "The Guardian",
-     "date": "2026-11-13T06:00:12+00:00"
-    },
-    {
-     "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-     "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+     "title": "Supreme Court will hear Robinhood effort to toss IPO info omissions lawsuit",
+     "link": "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
      "source": "CNBC",
-     "date": "2026-11-13T04:07:44+00:00"
+     "date": "2026-11-13T19:33:26+00:00"
+    },
+    {
+     "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+     "source": "CNBC",
+     "date": "2026-11-13T19:11:13+00:00"
+    },
+    {
+     "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
+     "source": "The Guardian",
+     "date": "2026-11-13T19:05:57+00:00"
+    },
+    {
+     "title": "Why the Nvidia scandal is far from over – The Latest",
+     "link": "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
+     "source": "The Guardian",
+     "date": "2026-11-13T19:01:38+00:00"
+    },
+    {
+     "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
+     "source": "The Guardian",
+     "date": "2026-11-13T18:01:46+00:00"
+    },
+    {
+     "title": "Who is Chris Van Hollen? The senator challenging Schumer as a progressive voice for Democrats",
+     "link": "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology",
+     "source": "The Guardian",
+     "date": "2026-11-13T17:15:05+00:00"
+    },
+    {
+     "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
+     "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+     "source": "CNBC",
+     "date": "2026-11-13T17:06:57+00:00"
+    },
+    {
+     "title": "The Trump administration's voter roll crusade could continue",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6034016/voter-fraud-search-trump-california",
+     "source": "NPR",
+     "date": "2026-11-13T17:00:00+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "What we know about the global Microsoft outage",
+     "title": "Democratic Senate leader Schumer set to face leadership challenge",
+     "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-13T19:03:10+00:00"
+    },
+    {
+     "title": "What's Trump's strategy now with Iran? To keep things as they are",
+     "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+     "source": "NPR",
+     "date": "2026-11-13T19:02:04+00:00"
+    },
+    {
+     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-13T10:53:40+00:00"
+     "date": "2026-11-13T18:36:57+00:00"
     },
     {
-     "title": "Nvidia scandal: Howard Lutnick under pressure over alleged lack of action",
-     "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-     "source": "The Guardian",
-     "date": "2026-11-13T09:41:22+00:00"
-    },
-    {
-     "title": "Storm Charles causes floods and flight cancellations across southern Europe",
-     "link": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
-     "source": "The Guardian",
-     "date": "2026-11-13T08:49:19+00:00"
-    },
-    {
-     "title": "Watch: How Microsoft services went down around the world",
-     "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
+     "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+     "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-13T07:18:17+00:00"
+     "date": "2026-11-13T18:34:45+00:00"
     },
     {
-     "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
-     "link": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+     "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-13T07:01:43+00:00"
+     "date": "2026-11-13T16:40:31+00:00"
     },
     {
-     "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+     "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+     "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-13T03:57:01+00:00"
+     "date": "2026-11-13T15:42:52+00:00"
     },
     {
-     "title": "Australian footballers will not be charged after hotel incident, police say",
-     "link": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
+     "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-13T03:02:54+00:00"
+     "date": "2026-11-13T15:40:08+00:00"
     },
     {
-     "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
-     "link": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
-     "source": "The Guardian",
-     "date": "2026-11-13T03:00:06+00:00"
-    },
-    {
-     "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-     "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+     "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+     "link": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-13T02:48:29+00:00"
+     "date": "2026-11-13T13:11:23+00:00"
     },
     {
-     "title": "Will the Eurovision Song Contest succeed in Asia?",
-     "link": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T02:24:11+00:00"
+     "title": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+     "link": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen",
+     "source": "NPR",
+     "date": "2026-11-13T12:07:12+00:00"
+    },
+    {
+     "title": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+     "link": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick",
+     "source": "NPR",
+     "date": "2026-11-13T11:47:00+00:00"
     }
    ]
   },
@@ -200,10 +200,28 @@
    "name": "Business",
    "items": [
     {
-     "title": "What we know about the global Microsoft outage",
+     "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-13T10:53:40+00:00"
+     "date": "2026-11-13T18:36:57+00:00"
+    },
+    {
+     "title": "Does Europe regret its bet on U.S. defense?",
+     "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+     "source": "NPR",
+     "date": "2026-11-13T16:17:43+00:00"
+    },
+    {
+     "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-13T15:40:08+00:00"
+    },
+    {
+     "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+     "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-13T12:22:30+00:00"
     },
     {
      "title": "SpaceX's giant rocket may leave NASA in the dust",
@@ -240,24 +258,6 @@
      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-13T00:13:35+00:00"
-    },
-    {
-     "title": "Some under-25s should get fewer benefits, Milburn review to say",
-     "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-12T22:51:18+00:00"
-    },
-    {
-     "title": "Scout Motors has 212,000 vehicle reservations as $2 billion South Carolina plant nears completion",
-     "link": "https://www.cnbc.com/2026/11/12/scout-motors-reservations-south-carolina-plant.html",
-     "source": "CNBC",
-     "date": "2026-11-12T22:17:05+00:00"
-    },
-    {
-     "title": "CEO Jensen Huang resigns from chip giant Nvidia",
-     "link": "https://www.npr.org/2026/11/12/nx-s1-6038865/ceo-jensen-huang-resigns-from-chip-giant-nvidia",
-     "source": "NPR",
-     "date": "2026-11-12T22:02:44+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "Investors are underestimating AI. But the real challenge is diversification, this strategist says.",
-     "link": "https://www.marketwatch.com/story/investors-are-underestimating-ai-but-the-real-challenge-is-diversification-this-strategist-says-8bd956c1?mod=mw_rss_topstories",
+     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+     "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T11:00:00+00:00"
+     "date": "2026-11-13T19:40:00+00:00"
     },
     {
-     "title": "‘She has a history of financial mismanagement’: My brother cut my sister out of his will. I’m getting everything. Do I tell her?",
-     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+     "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T10:15:00+00:00"
+     "date": "2026-11-13T19:26:00+00:00"
     },
     {
-     "title": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.",
-     "link": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
+     "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T10:14:00+00:00"
+     "date": "2026-11-13T19:19:00+00:00"
     },
     {
-     "title": "My wife has dementia and may outlive me. How do we prepare for long-term memory care?",
-     "link": "https://www.marketwatch.com/story/my-wife-has-dementia-and-may-outlive-me-how-do-we-prepare-for-long-term-memory-care-9c23efaa?mod=mw_rss_topstories",
+     "title": "Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets",
+     "link": "https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T09:09:00+00:00"
+     "date": "2026-11-13T19:19:00+00:00"
     },
     {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T04:46:00+00:00"
+     "date": "2026-11-13T19:16:00+00:00"
     },
     {
-     "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
-     "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+     "title": "Microsoft outage live: company ‘deeply sorry’ for disruption affecting millions and says it’s ‘not related to cyber or AI’",
+     "link": "https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news",
+     "source": "The Guardian",
+     "date": "2026-11-13T19:15:32+00:00"
+    },
+    {
+     "title": "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
+     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
      "source": "CNBC",
-     "date": "2026-11-13T02:56:35+00:00"
+     "date": "2026-11-13T19:11:13+00:00"
     },
     {
-     "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
-     "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
-     "source": "CNBC",
-     "date": "2026-11-13T00:01:19+00:00"
-    },
-    {
-     "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
-     "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+     "title": "‘Strangely calming and unnerving’: How Microsoft’s massive outage upended the corporate workday",
+     "link": "https://www.marketwatch.com/story/strangely-calming-and-unnerving-how-microsofts-massive-outage-upended-the-corporate-workday-9a78d000?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-12T22:57:00+00:00"
+     "date": "2026-11-13T19:01:00+00:00"
     },
     {
-     "title": "Opening trading-card packs has become a $2 billion market",
-     "link": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+     "title": "What really happens during Medicare open enrollment? High stakes and lots of uncertainty.",
+     "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-12T22:38:00+00:00"
+     "date": "2026-11-13T18:59:00+00:00"
     },
     {
-     "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-     "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+     "title": "Microsoft points to ‘broad recovery and stability’ after widespread Outlook outage",
+     "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-12T22:16:00+00:00"
+     "date": "2026-11-13T18:38:00+00:00"
     }
    ]
   },
@@ -330,10 +330,22 @@
    "name": "Economy",
    "items": [
     {
-     "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+     "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
      "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
      "source": "CNBC",
-     "date": "2026-11-13T10:00:26+00:00"
+     "date": "2026-11-13T17:06:57+00:00"
+    },
+    {
+     "title": "Does Europe regret its bet on U.S. defense?",
+     "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
+     "source": "NPR",
+     "date": "2026-11-13T16:17:43+00:00"
+    },
+    {
+     "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
+     "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
+     "source": "CNBC",
+     "date": "2026-11-13T15:44:16+00:00"
     },
     {
      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
@@ -376,24 +388,30 @@
      "link": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
      "source": "NPR",
      "date": "2026-11-11T19:59:14+00:00"
-    },
-    {
-     "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-     "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-     "source": "CNBC",
-     "date": "2026-11-11T12:27:47+00:00"
-    },
-    {
-     "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-     "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
-     "source": "CNBC",
-     "date": "2026-11-10T23:53:58+00:00"
     }
    ]
   },
   "startups": {
    "name": "Startups",
    "items": [
+    {
+     "title": "AI agent startup LangChain hits $3B valuation",
+     "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+     "source": "TechCrunch",
+     "date": "2026-11-13T19:37:57+00:00"
+    },
+    {
+     "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
+     "link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
+     "source": "Crunchbase News",
+     "date": "2026-11-13T19:20:04+00:00"
+    },
+    {
+     "title": "Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible",
+     "link": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
+     "source": "Crunchbase News",
+     "date": "2026-11-13T12:00:55+00:00"
+    },
     {
      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
      "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
@@ -435,24 +453,6 @@
      "link": "https://news.crunchbase.com/fintech/nubank-alum-colombia-startup-palomma-ai-rental-services/",
      "source": "Crunchbase News",
      "date": "2026-11-11T13:00:04+00:00"
-    },
-    {
-     "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-     "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-     "source": "TechCrunch",
-     "date": "2026-11-10T21:08:52+00:00"
-    },
-    {
-     "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-     "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-     "source": "TechCrunch",
-     "date": "2026-11-10T19:03:52+00:00"
-    },
-    {
-     "title": "Anthropic Seeks Record $88.5B Tied To Public Market Debut",
-     "link": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
-     "source": "Crunchbase News",
-     "date": "2026-11-10T18:51:25+00:00"
     }
    ]
   }
