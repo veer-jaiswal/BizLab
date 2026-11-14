@@ -1,74 +1,86 @@
 {
- "updated": "2026-11-14T18:15:06.972555+00:00",
+ "updated": "2026-11-14T22:35:36.358428+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-     "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-     "source": "CNBC",
-     "date": "2026-11-14T18:11:51+00:00"
-    },
-    {
-     "title": "Philippines wins first Eurovision Song Contest Asia",
-     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T17:56:59+00:00"
-    },
-    {
-     "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
-     "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
-     "source": "CNBC",
-     "date": "2026-11-14T17:46:06+00:00"
-    },
-    {
-     "title": "Thousands turn out in Edinburgh to protest against AI data centres",
-     "link": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T17:20:33+00:00"
-    },
-    {
-     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T17:16:36+00:00"
-    },
-    {
-     "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+     "title": "US has lost measles elimination status, global health authorities say",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
      "source": "NPR",
-     "date": "2026-11-14T16:53:04+00:00"
+     "date": "2026-11-14T22:15:02+00:00"
     },
     {
-     "title": "Fuel crisis and protests pressure Chile's far-right president",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T22:09:40+00:00"
+    },
+    {
+     "title": "SpaceX catches upper stage of Starship rocket in historic first",
+     "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+     "source": "CNBC",
+     "date": "2026-11-14T21:52:01+00:00"
+    },
+    {
+     "title": "SpaceX successfully catches Starship and makes history",
+     "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
      "source": "NPR",
-     "date": "2026-11-14T16:05:12+00:00"
-    },
-    {
-     "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-     "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
-     "source": "CNBC",
-     "date": "2026-11-14T15:50:43+00:00"
-    },
-    {
-     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-     "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-     "source": "CNBC",
-     "date": "2026-11-14T15:36:47+00:00"
+     "date": "2026-11-14T21:42:41+00:00"
     },
     {
      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T15:15:57+00:00"
+     "date": "2026-11-14T20:41:45+00:00"
+    },
+    {
+     "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
+     "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
+     "source": "NPR",
+     "date": "2026-11-14T20:12:34+00:00"
+    },
+    {
+     "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+     "source": "NPR",
+     "date": "2026-11-14T19:13:54+00:00"
+    },
+    {
+     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T19:12:25+00:00"
+    },
+    {
+     "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+     "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+     "source": "CNBC",
+     "date": "2026-11-14T18:32:47+00:00"
+    },
+    {
+     "title": "Philippines takes the crown in first Eurovision Song Contest Asia",
+     "link": "https://www.bbc.co.uk/news/videos/cqm2j0xkjvx7o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T18:31:55+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses",
+     "source": "The Guardian",
+     "date": "2026-11-14T19:38:19+00:00"
+    },
+    {
+     "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
+     "source": "NPR",
+     "date": "2026-11-14T19:13:54+00:00"
+    },
     {
      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
      "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
@@ -116,18 +128,6 @@
      "link": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
      "source": "NPR",
      "date": "2026-11-14T12:40:26+00:00"
-    },
-    {
-     "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
-     "source": "NPR",
-     "date": "2026-11-14T12:40:25+00:00"
-    },
-    {
-     "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6039155/trump-faces-bipartisan-backlash-over-plan-to-sell-public-lands-to-states-and-tribes",
-     "source": "NPR",
-     "date": "2026-11-14T12:40:22+00:00"
     }
    ]
   },
@@ -135,28 +135,52 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T18:00:10+00:00"
+     "date": "2026-11-14T22:09:40+00:00"
     },
     {
-     "title": "Philippines wins first Eurovision Song Contest Asia",
-     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T17:56:59+00:00"
+     "date": "2026-11-14T20:41:45+00:00"
+    },
+    {
+     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T20:23:06+00:00"
     },
     {
      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
      "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T17:16:36+00:00"
+     "date": "2026-11-14T19:12:25+00:00"
+    },
+    {
+     "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+     "link": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+     "source": "The Guardian",
+     "date": "2026-11-14T19:01:32+00:00"
     },
     {
      "title": "Italy fines Meta €805m over accessing users' photos",
      "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T16:29:48+00:00"
+     "date": "2026-11-14T18:28:06+00:00"
+    },
+    {
+     "title": "Philippines wins first Eurovision Song Contest Asia",
+     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T18:17:58+00:00"
+    },
+    {
+     "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T18:00:10+00:00"
     },
     {
      "title": "Fuel crisis and protests pressure Chile's far-right president",
@@ -169,36 +193,18 @@
      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-14T15:53:55+00:00"
-    },
-    {
-     "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
-     "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T15:42:54+00:00"
-    },
-    {
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T15:15:57+00:00"
-    },
-    {
-     "title": "What we know about the ground stop and what to do if you're affected",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T14:20:57+00:00"
-    },
-    {
-     "title": "Second catch attempt for SpaceX Starship rocket",
-     "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T14:18:41+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Commerce Department under pressure for delaying export controls on Nvidia chips",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040379/commerce-department-under-pressure-for-delaying-export-controls-on-nvidia-chips",
+     "source": "NPR",
+     "date": "2026-11-14T22:21:07+00:00"
+    },
     {
      "title": "Retailers are turning to entertainment to win shoppers’ attention",
      "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
@@ -252,18 +258,42 @@
      "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-13T12:22:30+00:00"
-    },
-    {
-     "title": "SpaceX's giant rocket may leave NASA in the dust",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
-     "source": "NPR",
-     "date": "2026-11-13T10:00:00+00:00"
     }
    ]
   },
   "finance": {
    "name": "Finance",
    "items": [
+    {
+     "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
+     "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T21:31:00+00:00"
+    },
+    {
+     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T21:00:00+00:00"
+    },
+    {
+     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T20:00:00+00:00"
+    },
+    {
+     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T19:30:00+00:00"
+    },
+    {
+     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
+     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T18:30:00+00:00"
+    },
     {
      "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
      "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
@@ -291,36 +321,6 @@
     {
      "title": "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
      "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-14T17:50:00+00:00"
-    },
-    {
-     "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
-     "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-14T17:50:00+00:00"
-    },
-    {
-     "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
-     "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-14T17:50:00+00:00"
-    },
-    {
-     "title": "4 expert tips for signing up for Medicare",
-     "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-14T17:50:00+00:00"
-    },
-    {
-     "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
-     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-14T17:50:00+00:00"
-    },
-    {
-     "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
-     "link": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-11-14T17:50:00+00:00"
     }
