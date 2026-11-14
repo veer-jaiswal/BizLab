@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-14T10:37:41.618223+00:00",
+ "updated": "2026-11-14T18:15:06.972555+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
+     "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
+     "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+     "source": "CNBC",
+     "date": "2026-11-14T18:11:51+00:00"
+    },
+    {
+     "title": "Philippines wins first Eurovision Song Contest Asia",
+     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T17:56:59+00:00"
+    },
+    {
+     "title": "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+     "link": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+     "source": "CNBC",
+     "date": "2026-11-14T17:46:06+00:00"
+    },
+    {
+     "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+     "link": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T17:20:33+00:00"
+    },
+    {
+     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T17:16:36+00:00"
+    },
+    {
+     "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
+     "source": "NPR",
+     "date": "2026-11-14T16:53:04+00:00"
+    },
+    {
+     "title": "Fuel crisis and protests pressure Chile's far-right president",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+     "source": "NPR",
+     "date": "2026-11-14T16:05:12+00:00"
+    },
+    {
+     "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+     "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+     "source": "CNBC",
+     "date": "2026-11-14T15:50:43+00:00"
+    },
+    {
+     "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+     "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+     "source": "CNBC",
+     "date": "2026-11-14T15:36:47+00:00"
+    },
+    {
      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T10:30:38+00:00"
-    },
-    {
-     "title": "U.S. flights resume after FAA ground stop, but travel disruption continues",
-     "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-     "source": "CNBC",
-     "date": "2026-11-14T10:04:43+00:00"
-    },
-    {
-     "title": "King jokes with Elton John as he marks 78th birthday with radio show",
-     "link": "https://www.bbc.co.uk/news/articles/ck0jx8pxxx6eo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T10:02:59+00:00"
-    },
-    {
-     "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-     "source": "NPR",
-     "date": "2026-11-14T10:00:00+00:00"
-    },
-    {
-     "title": "An organ transplant controversy tests 'the dead donor rule'",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6032604/organ-transplant-donor-dead-ethics",
-     "source": "NPR",
-     "date": "2026-11-14T10:00:00+00:00"
-    },
-    {
-     "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-     "source": "NPR",
-     "date": "2026-11-14T10:00:00+00:00"
-    },
-    {
-     "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T09:05:48+00:00"
-    },
-    {
-     "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-     "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-     "source": "CNBC",
-     "date": "2026-11-14T08:11:28+00:00"
-    },
-    {
-     "title": "What we know about the US ground stop and what to do if your flight is affected",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T07:42:11+00:00"
-    },
-    {
-     "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
-     "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
-     "source": "CNBC",
-     "date": "2026-11-14T07:08:45+00:00"
+     "date": "2026-11-14T15:15:57+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Hegseth's failed impeachment was a warning to Democrats. Where will they go from here?",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040299/hegseth-impeachment-democrats-house-test",
-     "source": "NPR",
-     "date": "2026-11-14T10:00:00+00:00"
-    },
-    {
-     "title": "As Democrats win big, thirst traps of male candidates take social media by storm",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040507/democrats-male-candidates-masculinity-trump",
-     "source": "NPR",
-     "date": "2026-11-14T10:00:00+00:00"
-    },
-    {
-     "title": "Airport chaos continues after US ground stop lifted – as it happened",
-     "link": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
+     "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+     "link": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
      "source": "The Guardian",
-     "date": "2026-11-14T05:55:53+00:00"
-    },
-    {
-     "title": "Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican",
-     "link": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins",
-     "source": "NPR",
-     "date": "2026-11-14T05:12:43+00:00"
-    },
-    {
-     "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-     "link": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
-     "source": "The Guardian",
-     "date": "2026-11-14T02:49:59+00:00"
-    },
-    {
-     "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
-     "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-     "source": "The Guardian",
-     "date": "2026-11-14T02:15:53+00:00"
+     "date": "2026-11-14T16:58:33+00:00"
     },
     {
      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
      "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
      "source": "CNBC",
-     "date": "2026-11-14T01:34:11+00:00"
+     "date": "2026-11-14T15:36:47+00:00"
     },
     {
-     "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-     "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-     "source": "CNBC",
-     "date": "2026-11-13T23:54:36+00:00"
+     "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
+     "link": "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress",
+     "source": "The Guardian",
+     "date": "2026-11-14T15:28:14+00:00"
     },
     {
-     "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-     "source": "CNBC",
-     "date": "2026-11-13T23:42:18+00:00"
+     "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+     "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+     "source": "The Guardian",
+     "date": "2026-11-14T15:00:47+00:00"
     },
     {
-     "title": "DHS head Markwayne Mullin says there is not a threat to the U.S. amid FAA ground stop",
-     "link": "https://www.npr.org/2026/11/13/nx-s1-6040418/dhs-head-markwayne-mullin-says-there-is-not-a-threat-to-the-u-s-amid-faa-ground-stop",
+     "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
      "source": "NPR",
-     "date": "2026-11-13T22:36:46+00:00"
+     "date": "2026-11-14T13:08:05+00:00"
+    },
+    {
+     "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
+     "source": "The Guardian",
+     "date": "2026-11-14T13:00:47+00:00"
+    },
+    {
+     "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+     "source": "The Guardian",
+     "date": "2026-11-14T13:00:46+00:00"
+    },
+    {
+     "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
+     "source": "NPR",
+     "date": "2026-11-14T12:40:26+00:00"
+    },
+    {
+     "title": "Legal scholar Stephen Vladeck on Texas' new Democratic AG and federal litigation",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6039286/legal-scholar-stephen-vladeck-on-texas-new-democratic-ag-and-federal-litigation",
+     "source": "NPR",
+     "date": "2026-11-14T12:40:25+00:00"
+    },
+    {
+     "title": "Trump faces bipartisan backlash over plan to sell public lands to states and tribes",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6039155/trump-faces-bipartisan-backlash-over-plan-to-sell-public-lands-to-states-and-tribes",
+     "source": "NPR",
+     "date": "2026-11-14T12:40:22+00:00"
     }
    ]
   },
@@ -135,70 +135,88 @@
    "name": "World & government",
    "items": [
     {
-     "title": "What we know about the ground stop and what to do if you're affected",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T07:42:11+00:00"
+     "date": "2026-11-14T18:00:10+00:00"
     },
     {
-     "title": "Microsoft says services fully restored after day-long global outage",
-     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+     "title": "Philippines wins first Eurovision Song Contest Asia",
+     "link": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T06:42:27+00:00"
+     "date": "2026-11-14T17:56:59+00:00"
+    },
+    {
+     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T17:16:36+00:00"
+    },
+    {
+     "title": "Italy fines Meta €805m over accessing users' photos",
+     "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T16:29:48+00:00"
+    },
+    {
+     "title": "Fuel crisis and protests pressure Chile's far-right president",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+     "source": "NPR",
+     "date": "2026-11-14T16:05:12+00:00"
     },
     {
      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T05:52:31+00:00"
+     "date": "2026-11-14T15:53:55+00:00"
     },
     {
-     "title": "Setback for SpaceX Starship rocket's double-catch test",
+     "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+     "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T15:42:54+00:00"
+    },
+    {
+     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T15:15:57+00:00"
+    },
+    {
+     "title": "What we know about the ground stop and what to do if you're affected",
+     "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-14T14:20:57+00:00"
+    },
+    {
+     "title": "Second catch attempt for SpaceX Starship rocket",
      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T00:01:01+00:00"
-    },
-    {
-     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T23:40:45+00:00"
-    },
-    {
-     "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T19:53:57+00:00"
-    },
-    {
-     "title": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
-     "link": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
-     "source": "The Guardian",
-     "date": "2026-11-13T19:51:28+00:00"
-    },
-    {
-     "title": "Democratic Senate leader Schumer set to face leadership challenge",
-     "link": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T19:03:10+00:00"
-    },
-    {
-     "title": "What's Trump's strategy now with Iran? To keep things as they are",
-     "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-     "source": "NPR",
-     "date": "2026-11-13T19:02:04+00:00"
-    },
-    {
-     "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-     "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T18:34:45+00:00"
+     "date": "2026-11-14T14:18:41+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Retailers are turning to entertainment to win shoppers’ attention",
+     "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+     "source": "CNBC",
+     "date": "2026-11-14T13:00:01+00:00"
+    },
+    {
+     "title": "These economists say in-person work boosts creativity, but office mandates fall short",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6040158/these-economists-say-in-person-work-boosts-creativity-but-office-mandates-fall-short",
+     "source": "NPR",
+     "date": "2026-11-14T12:40:28+00:00"
+    },
+    {
+     "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+     "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+     "source": "CNBC",
+     "date": "2026-11-14T12:00:01+00:00"
+    },
     {
      "title": "Microsoft says services fully restored after day-long global outage",
      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
@@ -240,24 +258,6 @@
      "link": "https://www.npr.org/2026/11/13/nx-s1-6039312/spacex-nasa-starship-iss-dragon-falcon-musk",
      "source": "NPR",
      "date": "2026-11-13T10:00:00+00:00"
-    },
-    {
-     "title": "Heat pumps: How much heat does your home really need?",
-     "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T09:29:25+00:00"
-    },
-    {
-     "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-     "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T03:57:01+00:00"
-    },
-    {
-     "title": "A negative Outlook: Microsoft scrambles to fix email outage",
-     "link": "https://www.npr.org/2026/11/12/nx-s1-6039343/outlook-down-widespread-outage-microsoft-email",
-     "source": "NPR",
-     "date": "2026-11-13T01:26:24+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "FAA lifts rare nationwide ground stop on flights; air travel may take days to recover",
-     "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-14T02:42:00+00:00"
+     "date": "2026-11-14T18:00:00+00:00"
     },
     {
-     "title": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
-     "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-     "source": "The Guardian",
-     "date": "2026-11-14T02:15:53+00:00"
-    },
-    {
-     "title": "14 dividend stocks selected for long-term growth",
-     "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
+     "title": "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+     "link": "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-14T01:58:00+00:00"
+     "date": "2026-11-14T17:50:00+00:00"
     },
     {
-     "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-     "source": "CNBC",
-     "date": "2026-11-13T23:42:18+00:00"
-    },
-    {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+     "title": "The trillion-dollar mistake corporate America is making about retirement",
+     "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T23:12:00+00:00"
+     "date": "2026-11-14T17:50:00+00:00"
+    },
+    {
+     "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
+     "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T17:50:00+00:00"
+    },
+    {
+     "title": "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
+     "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T17:50:00+00:00"
+    },
+    {
+     "title": "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+     "link": "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T17:50:00+00:00"
+    },
+    {
+     "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+     "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-14T17:50:00+00:00"
     },
     {
      "title": "4 expert tips for signing up for Medicare",
      "link": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T22:45:00+00:00"
+     "date": "2026-11-14T17:50:00+00:00"
     },
     {
-     "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-     "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+     "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T22:21:00+00:00"
+     "date": "2026-11-14T17:50:00+00:00"
     },
     {
-     "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-     "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+     "title": "The 2027 401(k) limits are here. See how much more you can save next year.",
+     "link": "https://www.marketwatch.com/story/the-2027-401-k-limits-are-here-see-how-much-more-you-can-save-next-year-d525768c?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-13T22:04:00+00:00"
-    },
-    {
-     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-13T22:00:00+00:00"
-    },
-    {
-     "title": "‘She has a history of financial mismanagement’: My brother cut our sister out of his will. I’ll get everything. Do I tell her?",
-     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-13T21:32:00+00:00"
+     "date": "2026-11-14T17:50:00+00:00"
     }
    ]
   },
