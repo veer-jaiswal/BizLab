@@ -1,74 +1,98 @@
 {
- "updated": "2026-11-14T22:35:36.358428+00:00",
+ "updated": "2026-11-15T06:45:19.092953+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "US has lost measles elimination status, global health authorities say",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-     "source": "NPR",
-     "date": "2026-11-14T22:15:02+00:00"
-    },
-    {
-     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+     "link": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T22:09:40+00:00"
+     "date": "2026-11-15T06:01:46+00:00"
     },
     {
-     "title": "SpaceX catches upper stage of Starship rocket in historic first",
-     "link": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+     "title": "Could Budapest be the next digital nomad hotspot?",
+     "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
      "source": "CNBC",
-     "date": "2026-11-14T21:52:01+00:00"
+     "date": "2026-11-15T06:00:01+00:00"
     },
     {
-     "title": "SpaceX successfully catches Starship and makes history",
-     "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
+     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
      "source": "NPR",
-     "date": "2026-11-14T21:42:41+00:00"
-    },
-    {
-     "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T20:41:45+00:00"
-    },
-    {
-     "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
-     "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
-     "source": "NPR",
-     "date": "2026-11-14T20:12:34+00:00"
-    },
-    {
-     "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
-     "source": "NPR",
-     "date": "2026-11-14T19:13:54+00:00"
-    },
-    {
-     "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-     "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T19:12:25+00:00"
+     "date": "2026-11-15T04:28:45+00:00"
     },
     {
      "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
      "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
      "source": "CNBC",
-     "date": "2026-11-14T18:32:47+00:00"
+     "date": "2026-11-15T02:53:59+00:00"
     },
     {
-     "title": "Philippines takes the crown in first Eurovision Song Contest Asia",
-     "link": "https://www.bbc.co.uk/news/videos/cqm2j0xkjvx7o?at_medium=RSS&at_campaign=rss",
+     "title": "FAA ground stop disrupts college football",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
+     "source": "NPR",
+     "date": "2026-11-15T01:13:59+00:00"
+    },
+    {
+     "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+     "link": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T18:31:55+00:00"
+     "date": "2026-11-15T00:09:29+00:00"
+    },
+    {
+     "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+     "link": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T00:07:29+00:00"
+    },
+    {
+     "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+     "link": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T00:06:55+00:00"
+    },
+    {
+     "title": "Judo champion shakes up French  presidential race with surprise candidacy",
+     "link": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T00:06:51+00:00"
+    },
+    {
+     "title": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
+     "link": "https://www.bbc.co.uk/news/articles/cqgm3g7ge1xlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T00:05:56+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+     "link": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+     "source": "The Guardian",
+     "date": "2026-11-15T04:52:34+00:00"
+    },
+    {
+     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+     "source": "NPR",
+     "date": "2026-11-15T04:28:45+00:00"
+    },
+    {
+     "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
+     "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
+     "source": "NPR",
+     "date": "2026-11-15T00:03:52+00:00"
+    },
+    {
+     "title": "'Root cause’ of nationwide ground stop is unknown, FAA says",
+     "link": "https://www.cnbc.com/2026/11/14/root-cause-of-nationwide-ground-stop-is-unknown-faa-says.html",
+     "source": "CNBC",
+     "date": "2026-11-14T22:54:47+00:00"
+    },
     {
      "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
      "link": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses",
@@ -104,30 +128,6 @@
      "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
      "source": "The Guardian",
      "date": "2026-11-14T15:00:47+00:00"
-    },
-    {
-     "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-     "source": "NPR",
-     "date": "2026-11-14T13:08:05+00:00"
-    },
-    {
-     "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
-     "link": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
-     "source": "The Guardian",
-     "date": "2026-11-14T13:00:47+00:00"
-    },
-    {
-     "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
-     "link": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
-     "source": "The Guardian",
-     "date": "2026-11-14T13:00:46+00:00"
-    },
-    {
-     "title": "Week in Politics: Battle for Senate leader; young and independent midterm turnout",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040156/week-in-politics-battle-for-senate-leader-young-and-independent-midterm-turnout",
-     "source": "NPR",
-     "date": "2026-11-14T12:40:26+00:00"
     }
    ]
   },
@@ -135,22 +135,34 @@
    "name": "World & government",
    "items": [
     {
-     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+     "title": "World leaders head to Asia for back-to-back diplomatic summits",
+     "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+     "source": "The Guardian",
+     "date": "2026-11-15T04:00:02+00:00"
+    },
+    {
+     "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+     "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T22:09:40+00:00"
+     "date": "2026-11-15T03:21:04+00:00"
+    },
+    {
+     "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+     "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T02:49:45+00:00"
     },
     {
      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T20:41:45+00:00"
+     "date": "2026-11-14T22:37:25+00:00"
     },
     {
-     "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-     "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+     "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+     "link": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-14T20:23:06+00:00"
+     "date": "2026-11-14T22:09:40+00:00"
     },
     {
      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
@@ -181,24 +193,18 @@
      "link": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-14T18:00:10+00:00"
-    },
-    {
-     "title": "Fuel crisis and protests pressure Chile's far-right president",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-     "source": "NPR",
-     "date": "2026-11-14T16:05:12+00:00"
-    },
-    {
-     "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-     "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T15:53:55+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+     "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T00:01:07+00:00"
+    },
     {
      "title": "Commerce Department under pressure for delaying export controls on Nvidia chips",
      "link": "https://www.npr.org/2026/11/14/nx-s1-6040379/commerce-department-under-pressure-for-delaying-export-controls-on-nvidia-chips",
@@ -230,6 +236,12 @@
      "date": "2026-11-14T06:42:27+00:00"
     },
     {
+     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-13T23:00:31+00:00"
+    },
+    {
      "title": "Is there an opening for Nvidia's competitors, now that Jensen Huang is out?",
      "link": "https://www.npr.org/2026/11/13/nx-s1-6040264/is-there-an-opening-for-nvidias-competitors-now-that-jensen-huang-is-out",
      "source": "NPR",
@@ -246,24 +258,18 @@
      "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-13T18:36:57+00:00"
-    },
-    {
-     "title": "Does Europe regret its bet on U.S. defense?",
-     "link": "https://www.npr.org/sections/planet-money/2026/11/13/nx-s1-6039196/does-europe-regret-its-bet-on-u-s-defense",
-     "source": "NPR",
-     "date": "2026-11-13T16:17:43+00:00"
-    },
-    {
-     "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-     "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T12:22:30+00:00"
     }
    ]
   },
   "finance": {
    "name": "Finance",
    "items": [
+    {
+     "title": "SpaceX successfully catches Starship rocket in huge milestone for the space industry",
+     "link": "https://www.marketwatch.com/story/spacex-successfully-catches-starship-rocket-in-huge-milestone-for-the-space-industry-f42c136c?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-15T00:33:00+00:00"
+    },
     {
      "title": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Is that a good investment?",
      "link": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
@@ -315,12 +321,6 @@
     {
      "title": "Retirees should be big beneficiaries of the midterms: ‘Democrats will hold every gavel that matters for aging and public policy’",
      "link": "https://www.marketwatch.com/story/retirees-should-be-big-beneficiaries-of-the-midterms-democrats-will-hold-every-gavel-that-matters-for-aging-and-public-policy-71e966f0?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-14T17:50:00+00:00"
-    },
-    {
-     "title": "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
-     "link": "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-11-14T17:50:00+00:00"
     }
