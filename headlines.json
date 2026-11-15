@@ -1,74 +1,110 @@
 {
- "updated": "2026-11-15T16:26:28.631041+00:00",
+ "updated": "2026-11-15T22:57:02.444675+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Staggered age of consent to be discussed after Brand case, minister says",
-     "link": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-15T15:08:30+00:00"
+     "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+     "source": "NPR",
+     "date": "2026-11-15T22:41:22+00:00"
     },
     {
-     "title": "Suspected China spy linked to Nvidia's ex-boss left Megaspeed in 2025, company says",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-15T14:56:21+00:00"
-    },
-    {
-     "title": "Social Security and the blue wave: What could happen to payroll taxes and senior tax breaks",
-     "link": "https://www.cnbc.com/2026/11/15/social-security-tax-changes-midterm-election.html",
-     "source": "CNBC",
-     "date": "2026-11-15T14:30:01+00:00"
-    },
-    {
-     "title": "'We slept here.' Flight delays linger as airlines scramble to recover from ground stop",
+     "title": "'We slept here': Flight delays linger but schedule is back on track for Monday",
      "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
      "source": "CNBC",
-     "date": "2026-11-15T14:24:18+00:00"
+     "date": "2026-11-15T22:33:26+00:00"
     },
     {
-     "title": "Minister backs legal right to job support for young people",
-     "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+     "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+     "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T13:06:15+00:00"
+     "date": "2026-11-15T22:30:03+00:00"
     },
     {
-     "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-     "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
-     "source": "CNBC",
-     "date": "2026-11-15T13:00:02+00:00"
-    },
-    {
-     "title": "Top Wall Street analysts are bullish on these 3 stocks for the long term",
-     "link": "https://www.cnbc.com/2026/11/15/top-wall-street-analysts-are-bullish-on-these-3-stocks-for-the-long-term.html",
-     "source": "CNBC",
-     "date": "2026-11-15T12:49:07+00:00"
-    },
-    {
-     "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
-     "link": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+     "title": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+     "link": "https://www.bbc.co.uk/news/articles/cm7024p1ded3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T12:38:28+00:00"
+     "date": "2026-11-15T22:23:57+00:00"
     },
     {
-     "title": "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
-     "link": "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
-     "source": "CNBC",
-     "date": "2026-11-15T12:00:01+00:00"
-    },
-    {
-     "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+     "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
      "source": "NPR",
-     "date": "2026-11-15T10:00:00+00:00"
+     "date": "2026-11-15T22:07:55+00:00"
+    },
+    {
+     "title": "Tories pledge to halt screen-based school exams and cut coursework",
+     "link": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T22:00:37+00:00"
+    },
+    {
+     "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T22:00:24+00:00"
+    },
+    {
+     "title": "Prince Harry praises war veterans on surprise visit to Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T22:00:13+00:00"
+    },
+    {
+     "title": "Trident submarine returns home after record-breaking undersea patrol",
+     "link": "https://www.bbc.co.uk/news/articles/c32l5ny1r7x9o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T21:48:10+00:00"
+    },
+    {
+     "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+     "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T19:32:39+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+     "source": "CNBC",
+     "date": "2026-11-15T19:58:21+00:00"
+    },
+    {
+     "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+     "link": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+     "source": "The Guardian",
+     "date": "2026-11-15T18:48:10+00:00"
+    },
+    {
+     "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+     "link": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+     "source": "The Guardian",
+     "date": "2026-11-15T18:46:49+00:00"
+    },
+    {
+     "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+     "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+     "source": "CNBC",
+     "date": "2026-11-15T18:10:18+00:00"
+    },
+    {
+     "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+     "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+     "source": "CNBC",
+     "date": "2026-11-15T16:56:40+00:00"
+    },
+    {
+     "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+     "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+     "source": "The Guardian",
+     "date": "2026-11-15T16:18:49+00:00"
+    },
     {
      "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
      "link": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
@@ -82,8 +118,8 @@
      "date": "2026-11-15T14:00:20+00:00"
     },
     {
-     "title": "In calling for an end to the Iran War, Vance walks a thin line with Trump",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-thin-line-with-trump",
+     "title": "In calling for an end to the Iran War, Vance walks a fine line with Trump",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump",
      "source": "NPR",
      "date": "2026-11-15T13:11:23+00:00"
     },
@@ -92,42 +128,6 @@
      "link": "https://www.npr.org/2026/11/15/nx-s1-6040041/politics-chat-duffy-calls-for-more-funding-democrats-plans-for-accountability",
      "source": "NPR",
      "date": "2026-11-15T13:09:15+00:00"
-    },
-    {
-     "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
-     "source": "The Guardian",
-     "date": "2026-11-15T13:00:15+00:00"
-    },
-    {
-     "title": "Trump administration planning to reimburse doctors treating vaccine ‘injury’",
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
-     "source": "The Guardian",
-     "date": "2026-11-15T12:00:15+00:00"
-    },
-    {
-     "title": "Black voters helped Democrats win in Georgia. Now they expect to be heard",
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
-     "source": "The Guardian",
-     "date": "2026-11-15T12:00:15+00:00"
-    },
-    {
-     "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
-     "source": "NPR",
-     "date": "2026-11-15T10:00:00+00:00"
-    },
-    {
-     "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
-     "source": "NPR",
-     "date": "2026-11-15T10:00:00+00:00"
-    },
-    {
-     "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-     "source": "NPR",
-     "date": "2026-11-15T04:28:45+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-     "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+     "title": "Police ban protests near 10 schools and five universities in Paris",
+     "link": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T15:57:03+00:00"
+     "date": "2026-11-15T22:28:54+00:00"
     },
     {
      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T14:56:21+00:00"
+     "date": "2026-11-15T22:24:20+00:00"
     },
     {
-     "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-     "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+     "title": "What to expect from Trump and Xi's upcoming meeting in China",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+     "source": "NPR",
+     "date": "2026-11-15T22:11:26+00:00"
+    },
+    {
+     "title": "Sydney Sweeney has great jeans. Who made them? (Psst: Workers)",
+     "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+     "source": "NPR",
+     "date": "2026-11-15T22:07:55+00:00"
+    },
+    {
+     "title": "Czechs rally against plan to switch funding of public media",
+     "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T14:33:59+00:00"
+     "date": "2026-11-15T21:03:40+00:00"
     },
     {
-     "title": "Iran targets US military base in Bahrain with drone attack",
-     "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+     "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+     "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T13:42:58+00:00"
+     "date": "2026-11-15T19:32:39+00:00"
     },
     {
-     "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-     "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+     "title": "Ronaldinho makes comeback in Ravenna win",
+     "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T13:37:45+00:00"
+     "date": "2026-11-15T19:31:48+00:00"
     },
     {
-     "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-     "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+     "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+     "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T11:06:32+00:00"
+     "date": "2026-11-15T19:20:53+00:00"
     },
     {
-     "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-     "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+     "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+     "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T09:57:25+00:00"
+     "date": "2026-11-15T18:38:11+00:00"
     },
     {
-     "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
-     "link": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_medium=RSS&at_campaign=rss",
+     "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+     "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T09:26:37+00:00"
-    },
-    {
-     "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-     "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-     "source": "The Guardian",
-     "date": "2026-11-15T08:56:11+00:00"
-    },
-    {
-     "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-     "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-15T08:17:41+00:00"
+     "date": "2026-11-15T16:15:20+00:00"
     }
    ]
   },
@@ -200,10 +200,22 @@
    "name": "Business",
    "items": [
     {
+     "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+     "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T22:30:03+00:00"
+    },
+    {
      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T14:56:21+00:00"
+     "date": "2026-11-15T22:24:20+00:00"
+    },
+    {
+     "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+     "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-15T22:00:24+00:00"
     },
     {
      "title": "Minister backs legal right to job support for young people",
@@ -246,24 +258,54 @@
      "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
      "source": "CNBC",
      "date": "2026-11-14T12:00:01+00:00"
-    },
-    {
-     "title": "Microsoft says services fully restored after day-long global outage",
-     "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-14T06:42:27+00:00"
-    },
-    {
-     "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-     "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-13T23:00:31+00:00"
     }
    ]
   },
   "finance": {
    "name": "Finance",
    "items": [
+    {
+     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
+     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-15T22:15:00+00:00"
+    },
+    {
+     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-15T21:32:00+00:00"
+    },
+    {
+     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
+     "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-15T21:31:00+00:00"
+    },
+    {
+     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-15T20:30:00+00:00"
+    },
+    {
+     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-15T20:01:00+00:00"
+    },
+    {
+     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
+     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-15T20:00:00+00:00"
+    },
+    {
+     "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+     "source": "CNBC",
+     "date": "2026-11-15T19:58:21+00:00"
+    },
     {
      "title": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
      "link": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
@@ -277,52 +319,10 @@
      "date": "2026-11-15T15:22:00+00:00"
     },
     {
-     "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-     "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T15:00:00+00:00"
-    },
-    {
-     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T15:00:00+00:00"
-    },
-    {
-     "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-     "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T14:00:00+00:00"
-    },
-    {
-     "title": "Will the Anthropic IPO create a disturbance in the broader U.S. equity market, like SpaceX did?",
-     "link": "https://www.marketwatch.com/story/will-the-anthropic-ipo-create-a-disturbance-in-the-broader-u-s-equity-market-like-spacex-did-05ba4351?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T14:00:00+00:00"
-    },
-    {
-     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T13:30:00+00:00"
-    },
-    {
-     "title": "The U.S. is turning more socialist under Trump 2.0, one analyst says. What could change with a Democratic-run Congress?",
-     "link": "https://www.marketwatch.com/story/the-u-s-is-turning-more-socialist-under-trump-2-0-one-analyst-says-what-could-change-with-a-democratic-run-congress-95d7ff17?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T13:30:00+00:00"
-    },
-    {
-     "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
-     "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T13:00:00+00:00"
-    },
-    {
-     "title": "Gold and silver are supposed to protect against inflation. So why are both metals tumbling instead?",
-     "link": "https://www.marketwatch.com/story/gold-and-silver-are-supposed-to-protect-against-inflation-so-why-are-both-metals-tumbling-instead-1735eca7?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T12:30:00+00:00"
+     "title": "When the boss has an affair, the whole family business can pay the price",
+     "link": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
+     "source": "The Guardian",
+     "date": "2026-11-15T15:00:16+00:00"
     }
    ]
   },
@@ -395,6 +395,12 @@
    "name": "Startups",
    "items": [
     {
+     "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+     "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+     "source": "TechCrunch",
+     "date": "2026-11-15T18:29:14+00:00"
+    },
+    {
      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
      "source": "TechCrunch",
@@ -447,12 +453,6 @@
      "link": "https://news.crunchbase.com/ai/startup-founders-reduce-platform-risk-filippenko-intch/",
      "source": "Crunchbase News",
      "date": "2026-11-12T12:00:44+00:00"
-    },
-    {
-     "title": "VCs Are Still Chasing Protein, Even As Fake Meat Falls Out Of Favor",
-     "link": "https://news.crunchbase.com/venture/protein-startups-raise-funding-medici/",
-     "source": "Crunchbase News",
-     "date": "2026-11-12T12:00:33+00:00"
     }
    ]
   }
