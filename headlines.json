@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-16T06:44:20.124249+00:00",
+ "updated": "2026-11-16T19:41:04.551395+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
-     "link": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-16T06:35:16+00:00"
-    },
-    {
-     "title": "Gas starts flowing from Jackdaw after government green light",
-     "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-16T06:24:08+00:00"
-    },
-    {
-     "title": "AI is reshaping banking jobs – but its ability to drive profits remains unclear",
-     "link": "https://www.cnbc.com/2026/11/16/how-ai-is-changing-banking-jobs-hiring-and-revenue.html",
+     "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+     "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
      "source": "CNBC",
-     "date": "2026-11-16T06:20:55+00:00"
+     "date": "2026-11-16T19:39:55+00:00"
     },
     {
-     "title": "'It felt like I was dying': Why some teenagers don't go to school",
-     "link": "https://www.bbc.co.uk/news/videos/cqe9kgegd2y4o?at_medium=RSS&at_campaign=rss",
+     "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+     "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-16T06:02:44+00:00"
+     "date": "2026-11-16T19:30:30+00:00"
     },
     {
-     "title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
-     "link": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss",
+     "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+     "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-16T06:01:33+00:00"
+     "date": "2026-11-16T19:19:18+00:00"
     },
     {
-     "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-     "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+     "title": "Altimeter's Brad Gerstner aims to invest $5 billion in Anthropic IPO",
+     "link": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
      "source": "CNBC",
-     "date": "2026-11-16T04:34:00+00:00"
+     "date": "2026-11-16T19:11:41+00:00"
     },
     {
-     "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-     "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+     "title": "This Anthropic proxy play is getting traders' attention – here's where they see it going",
+     "link": "https://www.cnbc.com/2026/11/16/anthropic-proxy-destiny-tech100-fund.html",
      "source": "CNBC",
-     "date": "2026-11-16T03:53:59+00:00"
+     "date": "2026-11-16T19:06:11+00:00"
     },
     {
-     "title": "Tech world's calls for Jensen Huang to return to Nvidia are growing",
-     "link": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+     "title": "Market's Nvidia obsession obscuring an opportunity in this name",
+     "link": "https://www.cnbc.com/2026/11/16/disney-options-trade-before-earnings.html",
      "source": "CNBC",
-     "date": "2026-11-16T03:35:09+00:00"
+     "date": "2026-11-16T18:56:49+00:00"
     },
     {
-     "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-     "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-     "source": "CNBC",
-     "date": "2026-11-16T02:56:24+00:00"
+     "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+     "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+     "source": "NPR",
+     "date": "2026-11-16T18:49:26+00:00"
     },
     {
-     "title": "Prince and Princess of Wales arrive in India ahead of meeting with Modi",
-     "link": "https://www.bbc.co.uk/news/articles/c5lyk0e3n1jxo?at_medium=RSS&at_campaign=rss",
+     "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+     "link": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-16T02:53:15+00:00"
+     "date": "2026-11-16T18:22:22+00:00"
+    },
+    {
+     "title": "Nvidia board is not considering bringing Jensen Huang back as CEO, source tells CNBC",
+     "link": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+     "source": "CNBC",
+     "date": "2026-11-16T18:22:06+00:00"
+    },
+    {
+     "title": "OpenAI inks agreements with four independent evaluators to boost company's safety work",
+     "link": "https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html",
+     "source": "CNBC",
+     "date": "2026-11-16T18:11:00+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
-     "link": "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+     "title": "California sues OpenAI over Hugging Face, other AI model loss of control",
+     "link": "https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html",
      "source": "CNBC",
-     "date": "2026-11-16T04:34:00+00:00"
+     "date": "2026-11-16T19:39:55+00:00"
     },
     {
-     "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+     "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+     "source": "The Guardian",
+     "date": "2026-11-16T19:32:06+00:00"
+    },
+    {
+     "title": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
+     "link": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
      "source": "CNBC",
-     "date": "2026-11-15T19:58:21+00:00"
+     "date": "2026-11-16T18:55:46+00:00"
     },
     {
-     "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
-     "source": "The Guardian",
-     "date": "2026-11-15T18:48:10+00:00"
-    },
-    {
-     "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
-     "source": "The Guardian",
-     "date": "2026-11-15T18:46:49+00:00"
-    },
-    {
-     "title": "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
-     "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
-     "source": "CNBC",
-     "date": "2026-11-15T18:10:18+00:00"
-    },
-    {
-     "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-     "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
-     "source": "CNBC",
-     "date": "2026-11-15T16:56:40+00:00"
-    },
-    {
-     "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
-     "source": "The Guardian",
-     "date": "2026-11-15T16:18:49+00:00"
-    },
-    {
-     "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
-     "source": "The Guardian",
-     "date": "2026-11-15T15:40:04+00:00"
-    },
-    {
-     "title": "‘We gotta do something’: the coalition that helped elect Scott Colom to Senate",
-     "link": "https://www.theguardian.com/us-news/2026/nov/15/coalition-scott-colom-mississippi-senate-win",
-     "source": "The Guardian",
-     "date": "2026-11-15T14:00:20+00:00"
-    },
-    {
-     "title": "In calling for an end to the Iran War, Vance walks a fine line with Trump",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6040447/in-calling-for-an-end-to-the-iran-war-vance-walks-a-fine-line-with-trump",
+     "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+     "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
      "source": "NPR",
-     "date": "2026-11-15T13:11:23+00:00"
+     "date": "2026-11-16T18:49:26+00:00"
+    },
+    {
+     "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+     "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
+     "source": "NPR",
+     "date": "2026-11-16T18:04:50+00:00"
+    },
+    {
+     "title": "Nearly two million people are behind bars in the US. How did we get here?",
+     "link": "https://www.npr.org/2026/11/16/nx-s1-6042432/nearly-two-million-people-are-behind-bars-in-the-us-how-did-we-get-here",
+     "source": "NPR",
+     "date": "2026-11-16T17:34:07+00:00"
+    },
+    {
+     "title": "Nvidia fallout: Commerce targets loophole for China's data center use",
+     "link": "https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html",
+     "source": "CNBC",
+     "date": "2026-11-16T17:22:11+00:00"
+    },
+    {
+     "title": "Even Hawaiʻi’s most Republican island can’t escape the blue wave",
+     "link": "https://www.theguardian.com/us-news/2026/nov/16/hawaii-niihau-midterm-elections",
+     "source": "The Guardian",
+     "date": "2026-11-16T17:00:49+00:00"
+    },
+    {
+     "title": "Lindsay Clancy to face a new trial in spring of 2027 over children's killing",
+     "link": "https://www.npr.org/2026/11/16/nx-s1-5983473/clancy-trial-retrial-murder-charges",
+     "source": "NPR",
+     "date": "2026-11-16T16:28:19+00:00"
+    },
+    {
+     "title": "DoJ warns Elizabeth Warren of ‘consequences’ unless she preserves Trump records",
+     "link": "https://www.theguardian.com/us-news/2026/nov/16/doj-elizabeth-warren-trump-investigation-records",
+     "source": "The Guardian",
+     "date": "2026-11-16T15:50:59+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+     "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+     "link": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-16T05:06:59+00:00"
+     "date": "2026-11-16T19:30:30+00:00"
     },
     {
-     "title": "Canada could work with Chinese automakers if US trade talks fail, says Carney",
-     "link": "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-     "source": "The Guardian",
-     "date": "2026-11-16T04:39:20+00:00"
-    },
-    {
-     "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
-     "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+     "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+     "link": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-16T03:21:56+00:00"
+     "date": "2026-11-16T19:19:18+00:00"
     },
     {
-     "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
-     "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+     "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+     "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-16T03:09:49+00:00"
+     "date": "2026-11-16T19:16:52+00:00"
     },
     {
-     "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-16T03:08:31+00:00"
-    },
-    {
-     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-16T01:47:57+00:00"
-    },
-    {
-     "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
-     "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
-     "source": "The Guardian",
-     "date": "2026-11-16T01:17:04+00:00"
-    },
-    {
-     "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-     "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-     "source": "The Guardian",
-     "date": "2026-11-16T01:13:44+00:00"
-    },
-    {
-     "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
-     "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-15T22:57:27+00:00"
-    },
-    {
-     "title": "What to expect from Trump and Xi's upcoming meeting in China",
-     "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
+     "title": "U.N. talks seek to rein in 'killer robots' as fears over AI weapons grow",
+     "link": "https://www.npr.org/2026/11/16/nx-s1-6042548/un-killer-robots-ai-weapons-drones",
      "source": "NPR",
-     "date": "2026-11-15T22:11:26+00:00"
+     "date": "2026-11-16T18:04:50+00:00"
+    },
+    {
+     "title": "When will we see Robert Pattinson as Bond in cinemas?",
+     "link": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-16T17:18:54+00:00"
+    },
+    {
+     "title": "Five EU countries announce migrant deportation centre in Rwanda",
+     "link": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-16T16:27:24+00:00"
+    },
+    {
+     "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+     "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+     "source": "The Guardian",
+     "date": "2026-11-16T16:21:40+00:00"
+    },
+    {
+     "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+     "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-16T14:58:12+00:00"
+    },
+    {
+     "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+     "link": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-16T14:48:55+00:00"
+    },
+    {
+     "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+     "link": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-16T14:22:36+00:00"
     }
    ]
   },
@@ -200,64 +200,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Investors sue chip giant Intel after 29% stock plunge",
-     "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+     "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+     "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-16T03:04:01+00:00"
+     "date": "2026-11-16T19:16:52+00:00"
     },
     {
-     "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-     "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-16T01:47:57+00:00"
+     "title": "Robert Pattinson cast as next James Bond",
+     "link": "https://www.cnbc.com/2026/11/16/robert-pattinson-james-bond.html",
+     "source": "CNBC",
+     "date": "2026-11-16T17:25:51+00:00"
     },
     {
-     "title": "Black Friday and tax return scams  - don't fall for these",
-     "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-16T00:50:39+00:00"
+     "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+     "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+     "source": "CNBC",
+     "date": "2026-11-16T17:14:13+00:00"
     },
     {
-     "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
-     "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-15T22:30:03+00:00"
+     "title": "'We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday",
+     "link": "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+     "source": "CNBC",
+     "date": "2026-11-16T15:56:39+00:00"
     },
     {
-     "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+     "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
      "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T22:00:24+00:00"
+     "date": "2026-11-16T15:40:16+00:00"
     },
     {
-     "title": "Minister backs legal right to job support for young people",
-     "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-15T13:06:15+00:00"
-    },
-    {
-     "title": "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
-     "link": "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+     "title": "Novo says Wegovy injection lowers BMI and obesity rates in children in trial",
+     "link": "https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html",
      "source": "CNBC",
-     "date": "2026-11-15T13:00:02+00:00"
+     "date": "2026-11-16T15:00:01+00:00"
     },
     {
-     "title": "Beauty advent calendars can cost hundreds but are they value for money?",
-     "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+     "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+     "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-15T00:01:07+00:00"
+     "date": "2026-11-16T13:19:33+00:00"
     },
     {
-     "title": "Commerce Department under pressure for delaying export controls on Nvidia chips",
-     "link": "https://www.npr.org/2026/11/14/nx-s1-6040379/commerce-department-under-pressure-for-delaying-export-controls-on-nvidia-chips",
-     "source": "NPR",
-     "date": "2026-11-14T22:21:07+00:00"
-    },
-    {
-     "title": "Retailers are turning to entertainment to win shoppers’ attention",
-     "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+     "title": "Big-ticket holiday items may be harder to find as shipping costs rise",
+     "link": "https://www.cnbc.com/2026/11/16/holiday-big-ticket-inventory-shipping-costs.html",
      "source": "CNBC",
-     "date": "2026-11-14T13:00:01+00:00"
+     "date": "2026-11-16T12:00:01+00:00"
+    },
+    {
+     "title": "Avoid this Black Friday scam - how to check it's a real deal",
+     "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-16T09:58:52+00:00"
+    },
+    {
+     "title": "Gas starts flowing from Jackdaw after government green light",
+     "link": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-16T06:24:08+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "My older brother, who has no children, cut our only sister out of his will. I’ll get everything. Do I tell her?",
-     "link": "https://www.marketwatch.com/story/she-has-a-history-of-financial-mismanagement-my-brother-cut-my-sister-out-of-his-will-im-getting-everything-do-i-tell-her-3e537851?mod=mw_rss_topstories",
+     "title": "Bond-market volatility is exploding higher. It could be the new normal for investors.",
+     "link": "https://www.marketwatch.com/story/bond-market-volatility-is-exploding-higher-it-could-be-the-new-normal-for-investors-7c24a763?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-16T04:15:00+00:00"
+     "date": "2026-11-16T19:34:00+00:00"
     },
     {
-     "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
-     "link": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-16T19:31:00+00:00"
+    },
+    {
+     "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+     "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
      "source": "CNBC",
-     "date": "2026-11-16T03:53:59+00:00"
-    },
-    {
-     "title": "A big chunk of your 401(k) is likely invested in Nvidia",
-     "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-16T03:11:00+00:00"
+     "date": "2026-11-16T19:13:25+00:00"
     },
     {
      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
      "link": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-15T23:30:00+00:00"
+     "date": "2026-11-16T19:00:00+00:00"
     },
     {
-     "title": "Should a widow leave her late partner’s home to her stepkids — or cut off contact with them?",
-     "link": "https://www.marketwatch.com/story/she-can-always-change-her-mind-should-a-widow-leave-the-family-home-to-her-stepchildren-649b06af?mod=mw_rss_topstories",
+     "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+     "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-15T23:00:00+00:00"
+     "date": "2026-11-16T18:54:00+00:00"
     },
     {
-     "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-     "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T21:32:00+00:00"
+     "title": "The man with the golden touch: James Bond franchise is a money-spinner",
+     "link": "https://www.theguardian.com/film/2026/nov/16/man-with-golden-touch-james-bond-franchise-money-spinner",
+     "source": "The Guardian",
+     "date": "2026-11-16T18:47:38+00:00"
     },
     {
-     "title": "Budget airlines are going upscale with first-class seats and faster wifi",
-     "link": "https://www.marketwatch.com/story/budget-airlines-are-going-upscale-with-first-class-seats-and-faster-wifi-999868ab?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T21:31:00+00:00"
-    },
-    {
-     "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
-     "link": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T20:30:00+00:00"
-    },
-    {
-     "title": "‘He calls my plans a fantasy’: My husband says we can’t afford a $200,000-a-year retirement. Is he being cheap?",
-     "link": "https://www.marketwatch.com/story/he-calls-my-plans-a-fantasy-my-husband-says-we-cant-afford-our-200-000-a-year-dream-retirement-i-think-hes-cheap-45bc5b4e?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-15T20:00:00+00:00"
-    },
-    {
-     "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
-     "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+     "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+     "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
      "source": "CNBC",
-     "date": "2026-11-15T19:58:21+00:00"
+     "date": "2026-11-16T18:46:07+00:00"
+    },
+    {
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-16T18:45:00+00:00"
+    },
+    {
+     "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+     "link": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+     "source": "The Guardian",
+     "date": "2026-11-16T18:30:57+00:00"
+    },
+    {
+     "title": "Nvidia’s stock extends declines following harsh words from the U.S. government",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-16T18:11:00+00:00"
     }
    ]
   },
@@ -395,6 +395,36 @@
    "name": "Startups",
    "items": [
     {
+     "title": "Island is a new screen-time app that turns staying off your phone into a game",
+     "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+     "source": "TechCrunch",
+     "date": "2026-11-16T18:54:18+00:00"
+    },
+    {
+     "title": "After dodging death, battery startup Our Next Energy is now going public",
+     "link": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
+     "source": "TechCrunch",
+     "date": "2026-11-16T13:00:00+00:00"
+    },
+    {
+     "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+     "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+     "source": "TechCrunch",
+     "date": "2026-11-16T12:30:00+00:00"
+    },
+    {
+     "title": "In The AI Era, Keep Hiring New College Grads — And Make Them Managers From Day One",
+     "link": "https://news.crunchbase.com/ai/new-college-grads-workforce-management-morse-strattam-quoia-kse/",
+     "source": "Crunchbase News",
+     "date": "2026-11-16T12:00:36+00:00"
+    },
+    {
+     "title": "VC Firm Plural Closes On $1.1B To Invest In European Startups With Potential For ‘GDP-Level Impact’",
+     "link": "https://news.crunchbase.com/venture/plural-closes-billion-euro-fund-european-ai-robotics-defense-startup-investment/",
+     "source": "Crunchbase News",
+     "date": "2026-11-16T07:00:39+00:00"
+    },
+    {
      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
      "source": "TechCrunch",
@@ -423,36 +453,6 @@
      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
      "source": "TechCrunch",
      "date": "2026-11-13T19:37:57+00:00"
-    },
-    {
-     "title": "The Week’s 10 Biggest Funding Rounds: Agentic AI And Infrastructure Are Still On A Roll",
-     "link": "https://news.crunchbase.com/venture/biggest-startup-funding-rounds-agentic-ai-infrastructure-mirendil-mercor/",
-     "source": "Crunchbase News",
-     "date": "2026-11-13T19:20:04+00:00"
-    },
-    {
-     "title": "Protein Startups Are Selling Lots Of Snacks And Drinks. Our Sample Tasting Found Most Neither Great Nor Horrible",
-     "link": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
-     "source": "Crunchbase News",
-     "date": "2026-11-13T12:00:55+00:00"
-    },
-    {
-     "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-     "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-     "source": "TechCrunch",
-     "date": "2026-11-12T19:11:00+00:00"
-    },
-    {
-     "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-     "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-     "source": "TechCrunch",
-     "date": "2026-11-12T17:00:00+00:00"
-    },
-    {
-     "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-     "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-     "source": "TechCrunch",
-     "date": "2026-11-12T13:26:25+00:00"
     }
    ]
   }
