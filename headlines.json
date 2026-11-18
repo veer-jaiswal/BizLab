@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-18T11:54:00.177654+00:00",
+ "updated": "2026-11-18T20:39:45.453748+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Lammy urges Burnham to take UK back into the EU",
-     "link": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
+     "title": "Anthropic IPO: AI lab considers increasing the offering as investor demand surges, sources say",
+     "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+     "source": "CNBC",
+     "date": "2026-11-18T20:20:35+00:00"
+    },
+    {
+     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-18T11:52:30+00:00"
+     "date": "2026-11-18T20:14:57+00:00"
     },
     {
-     "title": "Target posts best sales growth in five years, raises guidance",
-     "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+     "title": "Nvidia reverses, metals crash ahead of Anthropic IPO",
+     "link": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
      "source": "CNBC",
-     "date": "2026-11-18T11:50:08+00:00"
+     "date": "2026-11-18T20:10:07+00:00"
     },
     {
-     "title": "Trump lands in China for historic meeting with Xi, Putin",
-     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-     "source": "CNBC",
-     "date": "2026-11-18T11:12:47+00:00"
-    },
-    {
-     "title": "Banned player says whole Australia team knew about sandpaper cheating plot",
-     "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
+     "title": "William and Kate meet PM Modi as they wrap up India tour",
+     "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-18T11:12:46+00:00"
+     "date": "2026-11-18T20:07:08+00:00"
     },
     {
-     "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
-     "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+     "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
      "source": "CNBC",
-     "date": "2026-11-18T11:04:16+00:00"
+     "date": "2026-11-18T19:47:05+00:00"
     },
     {
-     "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
-     "link": "https://www.bbc.co.uk/news/articles/cqj3kelenm0do?at_medium=RSS&at_campaign=rss",
+     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+     "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+     "source": "CNBC",
+     "date": "2026-11-18T19:41:59+00:00"
+    },
+    {
+     "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
+     "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
+     "source": "CNBC",
+     "date": "2026-11-18T19:21:59+00:00"
+    },
+    {
+     "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+     "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+     "source": "CNBC",
+     "date": "2026-11-18T19:17:27+00:00"
+    },
+    {
+     "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+     "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+     "source": "CNBC",
+     "date": "2026-11-18T18:43:26+00:00"
+    },
+    {
+     "title": "Council wins legal fight against flags on lamp-posts",
+     "link": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-18T11:00:05+00:00"
-    },
-    {
-     "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-     "source": "NPR",
-     "date": "2026-11-18T11:00:00+00:00"
-    },
-    {
-     "title": "Grand Theft Auto VI is a grounded love story, a gonzo crime thriller and a gaming triumph",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6040326/grand-theft-auto-6-review-vice-city-masterpiece",
-     "source": "NPR",
-     "date": "2026-11-18T11:00:00+00:00"
-    },
-    {
-     "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-     "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
-     "source": "CNBC",
-     "date": "2026-11-18T10:49:37+00:00"
-    },
-    {
-     "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
-     "link": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
-     "source": "CNBC",
-     "date": "2026-11-18T10:45:01+00:00"
+     "date": "2026-11-18T18:19:34+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Trump lands in China for historic meeting with Xi, Putin",
-     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-     "source": "CNBC",
-     "date": "2026-11-18T11:12:47+00:00"
-    },
-    {
-     "title": "Fresh off recent wins, the left has a new goal: get AOC to run for president",
-     "link": "https://www.theguardian.com/us-news/2026/nov/18/presidential-election-aoc-candidate",
+     "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
      "source": "The Guardian",
-     "date": "2026-11-18T11:00:57+00:00"
+     "date": "2026-11-18T20:33:13+00:00"
     },
     {
-     "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-     "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
-     "source": "CNBC",
-     "date": "2026-11-18T10:49:37+00:00"
-    },
-    {
-     "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
-     "link": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
-     "source": "CNBC",
-     "date": "2026-11-18T10:45:01+00:00"
-    },
-    {
-     "title": "U.S. soldier taken into military custody over suspected spying for Russia",
-     "link": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
-     "source": "CNBC",
-     "date": "2026-11-18T10:41:05+00:00"
-    },
-    {
-     "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-     "source": "NPR",
-     "date": "2026-11-18T10:32:03+00:00"
-    },
-    {
-     "title": "How the East Potomac golf course became a D.C. landmark — and what could happen to it",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6042889/how-the-east-potomac-golf-course-became-a-d-c-landmark-and-what-could-happen-to-it",
-     "source": "NPR",
-     "date": "2026-11-18T10:02:00+00:00"
-    },
-    {
-     "title": "Project Gryffindor: Meta's plan to get more school kids using Instagram",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6037808/meta-instagram-schools-teens-safety",
-     "source": "NPR",
-     "date": "2026-11-18T10:00:00+00:00"
-    },
-    {
-     "title": "She retired early to care for family. New work rules for food aid disrupted that",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-5954231/snap-work-rules-retirees",
-     "source": "NPR",
-     "date": "2026-11-18T10:00:00+00:00"
-    },
-    {
-     "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
-     "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+     "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
+     "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
      "source": "The Guardian",
-     "date": "2026-11-18T09:58:28+00:00"
+     "date": "2026-11-18T19:45:30+00:00"
+    },
+    {
+     "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+     "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+     "source": "CNBC",
+     "date": "2026-11-18T19:17:27+00:00"
+    },
+    {
+     "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
+     "link": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
+     "source": "CNBC",
+     "date": "2026-11-18T18:32:39+00:00"
+    },
+    {
+     "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
+     "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
+     "source": "NPR",
+     "date": "2026-11-18T18:18:16+00:00"
+    },
+    {
+     "title": "Can progressives push Hakeem Jeffries to the left? | Norman Solomon",
+     "link": "https://www.theguardian.com/commentisfree/2026/nov/18/hakeem-jeffries-house-speaker-progressives",
+     "source": "The Guardian",
+     "date": "2026-11-18T18:13:07+00:00"
+    },
+    {
+     "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+     "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+     "source": "CNBC",
+     "date": "2026-11-18T17:50:37+00:00"
+    },
+    {
+     "title": "Senate committee rejects Trump nominee to lead National Science Foundation",
+     "link": "https://www.theguardian.com/us-news/2026/nov/18/trump-national-science-foundation-nominee",
+     "source": "The Guardian",
+     "date": "2026-11-18T17:46:34+00:00"
+    },
+    {
+     "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+     "link": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+     "source": "The Guardian",
+     "date": "2026-11-18T17:25:00+00:00"
+    },
+    {
+     "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives’ concerns",
+     "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
+     "source": "The Guardian",
+     "date": "2026-11-18T17:24:01+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech",
+     "title": "Hegseth boasts about Maduro’s capture while vowing to deepen US military cooperation with Venezuela",
+     "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+     "source": "The Guardian",
+     "date": "2026-11-18T20:24:19+00:00"
+    },
+    {
+     "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+     "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-18T20:14:57+00:00"
+    },
+    {
+     "title": "William and Kate meet PM Modi as they wrap up India tour",
+     "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-18T20:07:08+00:00"
+    },
+    {
+     "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+     "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+     "source": "NPR",
+     "date": "2026-11-18T18:15:59+00:00"
+    },
+    {
+     "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
      "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
      "source": "The Guardian",
-     "date": "2026-11-18T11:39:42+00:00"
+     "date": "2026-11-18T17:48:24+00:00"
     },
     {
-     "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-     "source": "NPR",
-     "date": "2026-11-18T11:00:00+00:00"
-    },
-    {
-     "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-     "source": "NPR",
-     "date": "2026-11-18T10:32:03+00:00"
-    },
-    {
-     "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-     "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+     "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+     "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-18T10:23:57+00:00"
+     "date": "2026-11-18T17:34:25+00:00"
     },
     {
-     "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-     "source": "NPR",
-     "date": "2026-11-18T10:00:00+00:00"
-    },
-    {
-     "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6044646/china-and-the-u-s-emissions-cop31-antalya",
-     "source": "NPR",
-     "date": "2026-11-18T10:00:00+00:00"
-    },
-    {
-     "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
-     "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
-     "source": "The Guardian",
-     "date": "2026-11-18T09:58:28+00:00"
-    },
-    {
-     "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
-     "source": "NPR",
-     "date": "2026-11-18T09:43:28+00:00"
-    },
-    {
-     "title": "Ghana's new $60m presidential jet sparks public outrage",
-     "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+     "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-18T09:27:51+00:00"
+     "date": "2026-11-18T17:34:23+00:00"
     },
     {
-     "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-     "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+     "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+     "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-18T07:48:18+00:00"
+     "date": "2026-11-18T17:00:40+00:00"
+    },
+    {
+     "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+     "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-18T17:00:04+00:00"
+    },
+    {
+     "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+     "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-18T16:33:16+00:00"
     }
    ]
   },
@@ -200,64 +200,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Target posts best sales growth in five years, raises guidance",
-     "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
-     "source": "CNBC",
-     "date": "2026-11-18T11:50:08+00:00"
-    },
-    {
      "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
      "link": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
      "source": "CNBC",
-     "date": "2026-11-18T11:47:59+00:00"
+     "date": "2026-11-18T18:27:52+00:00"
     },
     {
-     "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+     "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+     "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+     "source": "NPR",
+     "date": "2026-11-18T18:15:59+00:00"
+    },
+    {
+     "title": "Investigators make progress in hunt for cause of FAA ground stop",
+     "link": "https://www.cnbc.com/2026/11/18/faa-ground-stop-router-investigation.html",
+     "source": "CNBC",
+     "date": "2026-11-18T18:13:25+00:00"
+    },
+    {
+     "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
+     "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+     "source": "CNBC",
+     "date": "2026-11-18T17:56:50+00:00"
+    },
+    {
+     "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions",
+     "link": "https://www.cnbc.com/2026/11/18/ford-us-battery-cells-catl-tech.html",
+     "source": "CNBC",
+     "date": "2026-11-18T17:02:53+00:00"
+    },
+    {
+     "title": "Hims & Hers launches new peptide treatments — while admitting there's more to learn about efficacy",
+     "link": "https://www.cnbc.com/2026/11/18/hims-hers-peptides-plus-treatments.html",
+     "source": "CNBC",
+     "date": "2026-11-18T14:02:52+00:00"
+    },
+    {
+     "title": "The seven Anthropic founders who are about to become multi-billionaires",
+     "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-18T13:55:14+00:00"
+    },
+    {
+     "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
      "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-18T10:10:12+00:00"
+     "date": "2026-11-18T13:17:06+00:00"
     },
     {
-     "title": "Nvidia hold first earnings call since former CEO's departure",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6042563/nvidia-hold-first-earnings-call-since-former-ceos-departure",
-     "source": "NPR",
-     "date": "2026-11-18T09:43:50+00:00"
-    },
-    {
-     "title": "Columbia professor on whether Nvidia earnings call helped ease investors' concerns",
-     "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/columbia-professor-on-whether-nvidia-earnings-call-helped-ease-investors-concerns",
-     "source": "NPR",
-     "date": "2026-11-18T09:43:44+00:00"
-    },
-    {
-     "title": "Security flaw found in Java, world's third-largest programming language",
-     "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+     "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+     "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-18T08:47:06+00:00"
+     "date": "2026-11-18T13:10:01+00:00"
     },
     {
-     "title": "How important are Nvidia and Jensen Huang to the US economy?",
-     "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-18T06:04:21+00:00"
-    },
-    {
-     "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-     "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-18T04:00:54+00:00"
-    },
-    {
-     "title": "Waymo pulls driverless taxis from all US freeways",
-     "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-18T03:07:22+00:00"
-    },
-    {
-     "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-     "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-18T01:18:18+00:00"
+     "title": "Booking Holdings creates new enterprise division as AI reshapes travel planning",
+     "link": "https://www.cnbc.com/2026/11/18/booking-holdings-enterprise.html",
+     "source": "CNBC",
+     "date": "2026-11-18T12:55:01+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-     "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
+     "title": "Grand Theft Callout: ‘GTA 6’ fans are missing work to play — and some companies are making the game’s release a holiday",
+     "link": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-18T11:38:00+00:00"
+     "date": "2026-11-18T20:29:00+00:00"
     },
     {
-     "title": "Target is seeing a revival — but it still needs to work on shoes and women’s clothing",
-     "link": "https://www.marketwatch.com/story/target-is-seeing-a-revival-but-it-still-needs-to-work-on-shoes-and-womens-clothing-afb16799?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-18T11:33:00+00:00"
+     "title": "I watched Trump, Xi and Putin gather in China. Here are my top takeaways",
+     "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html",
+     "source": "CNBC",
+     "date": "2026-11-18T19:47:05+00:00"
     },
     {
-     "title": "The good news: Bubble predictions vastly outnumber actual episodes. The bad: There may be a 97% chance of one, right now.",
-     "link": "https://www.marketwatch.com/story/the-good-news-bubble-predictions-vastly-outnumber-actual-episodes-the-bad-there-may-be-a-97-chance-of-one-right-now-8ca55732?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-18T11:23:00+00:00"
+     "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+     "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+     "source": "CNBC",
+     "date": "2026-11-18T19:41:59+00:00"
     },
     {
-     "title": "Strategists say investors should start asking ‘what could go right’ after tech’s 42% valuation reset",
-     "link": "https://www.marketwatch.com/story/strategists-say-investors-should-start-asking-what-could-go-right-after-techs-42-valuation-reset-279a640a?mod=mw_rss_topstories",
+     "title": "Washington is scrambling to get to the bottom of the growing number of tech outages across America",
+     "link": "https://www.marketwatch.com/story/washington-is-scrambling-to-get-to-the-bottom-of-the-growing-number-of-tech-outages-across-america-66fbf299?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-18T11:17:00+00:00"
+     "date": "2026-11-18T19:39:00+00:00"
     },
     {
-     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "title": "Fed minutes show growing unease about the outlook for inflation",
+     "link": "https://www.marketwatch.com/story/fed-minutes-show-growing-unease-about-the-outlook-for-inflation-59e3c13d?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-18T10:15:00+00:00"
+     "date": "2026-11-18T19:38:00+00:00"
     },
     {
-     "title": "DJ Zedd sells his Hollywood Hills home for $4 million",
-     "link": "https://www.marketwatch.com/story/dj-zedd-sells-his-hollywood-hills-home-for-4-million-92a04353?mod=mw_rss_topstories",
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-18T10:05:00+00:00"
+     "date": "2026-11-18T19:30:00+00:00"
     },
     {
-     "title": "‘New Girl’ star Jake Johnson sells Pasadena home in just 2 weeks for $530K over asking price",
-     "link": "https://www.marketwatch.com/story/new-girl-star-jake-johnson-sells-pasadena-home-in-just-2-weeks-for-530k-over-asking-price-bc4d04c6?mod=mw_rss_topstories",
+     "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+     "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-18T09:59:00+00:00"
+     "date": "2026-11-18T18:30:00+00:00"
     },
     {
-     "title": "What Wall Street analysts are now saying after Nvidia’s beat-and-raise quarter",
-     "link": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
+     "title": "‘GTA 6’ is the biggest game of all time. What it means for Take-Two’s stock.",
+     "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-18T09:41:00+00:00"
+     "date": "2026-11-18T18:28:00+00:00"
     },
     {
-     "title": "Why Nvidia broke with its usual practice in holding back its quarterly SEC report",
-     "link": "https://www.marketwatch.com/story/why-nvidia-broke-with-its-usual-practice-in-holding-back-its-quarterly-sec-report-1489d492?mod=mw_rss_topstories",
+     "title": "‘It’s downright dirty’: My brother took over our ailing mother’s life and finances. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-18T09:32:00+00:00"
+     "date": "2026-11-18T18:00:00+00:00"
     },
     {
-     "title": "The S&P 500 just broke a crucial support level. Here’s what history shows may happen now.",
-     "link": "https://www.marketwatch.com/story/the-s-p-500-just-broke-a-crucial-support-level-heres-what-history-shows-may-happen-now-776f6da2?mod=mw_rss_topstories",
+     "title": "Social Security should be shut down, this Republican senator says",
+     "link": "https://www.marketwatch.com/story/social-security-should-be-shut-down-this-republican-senator-says-8f7fef81?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-18T08:50:00+00:00"
+     "date": "2026-11-18T17:46:00+00:00"
     }
    ]
   },
@@ -330,10 +330,16 @@
    "name": "Economy",
    "items": [
     {
+     "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+     "source": "Federal Reserve",
+     "date": "2026-11-18T19:00:00+00:00"
+    },
+    {
      "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
      "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
      "source": "CNBC",
-     "date": "2026-11-18T08:09:43+00:00"
+     "date": "2026-11-18T14:09:26+00:00"
     },
     {
      "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
@@ -382,12 +388,6 @@
      "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
      "source": "CNBC",
      "date": "2026-11-13T21:18:30+00:00"
-    },
-    {
-     "title": "Agencies extend comment period for proposed third-party risk management guidance",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
-     "source": "Federal Reserve",
-     "date": "2026-11-13T21:15:00+00:00"
     }
    ]
   },
@@ -395,7 +395,37 @@
    "name": "Startups",
    "items": [
     {
-     "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+     "title": "The Key Numbers I’m Watching As Anthropic Makes Its IPO Debut",
+     "link": "https://news.crunchbase.com/ai/anthropic-ant-ipo-revenue-growth-risks-s1-analysis/",
+     "source": "Crunchbase News",
+     "date": "2026-11-18T19:39:58+00:00"
+    },
+    {
+     "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+     "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+     "source": "TechCrunch",
+     "date": "2026-11-18T19:29:41+00:00"
+    },
+    {
+     "title": "What To Measure When ARR Isn’t Enough",
+     "link": "https://news.crunchbase.com/startups/arr-measure-ai-venture-growth-capital-zayani-rtp/",
+     "source": "Crunchbase News",
+     "date": "2026-11-18T12:00:54+00:00"
+    },
+    {
+     "title": "Sector Snapshot: Investors Turn Up The Volume On Voice AI",
+     "link": "https://news.crunchbase.com/venture/voice-ai-startup-funding-peaks-2026/",
+     "source": "Crunchbase News",
+     "date": "2026-11-18T12:00:31+00:00"
+    },
+    {
+     "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+     "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+     "source": "TechCrunch",
+     "date": "2026-11-18T12:00:00+00:00"
+    },
+    {
+     "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
      "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
      "source": "TechCrunch",
      "date": "2026-11-18T11:30:00+00:00"
@@ -423,36 +453,6 @@
      "link": "https://news.crunchbase.com/venture/robot-factory-workers-genesis-ai-fundraise/",
      "source": "Crunchbase News",
      "date": "2026-11-17T14:00:18+00:00"
-    },
-    {
-     "title": "Hank Green is self-funding ClockwiseTV, a curated educational video platform for kids",
-     "link": "https://techcrunch.com/2026/11/17/hank-green-is-self-funding-clockwisetv-a-curated-educational-video-platform-for-kids/",
-     "source": "TechCrunch",
-     "date": "2026-11-17T14:00:00+00:00"
-    },
-    {
-     "title": "The Money Cleared The Bank. Now The Founder Is The Risk.",
-     "link": "https://news.crunchbase.com/startups/founder-venture-funding-pressure-meerbott-you-loud-clear/",
-     "source": "Crunchbase News",
-     "date": "2026-11-17T12:00:45+00:00"
-    },
-    {
-     "title": "PwC’s IPO Lead On A Selective Market, AI Valuations And The Outlook For 2027",
-     "link": "https://news.crunchbase.com/public/ipo-ma-spac-ai-forecast-qa-pwcs-partner-bellin/",
-     "source": "Crunchbase News",
-     "date": "2026-11-17T12:00:41+00:00"
-    },
-    {
-     "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-     "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-     "source": "TechCrunch",
-     "date": "2026-11-16T23:32:32+00:00"
-    },
-    {
-     "title": "Island is a new screen-time app that turns staying off your phone into a game",
-     "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
-     "source": "TechCrunch",
-     "date": "2026-11-16T18:54:18+00:00"
     }
    ]
   }
