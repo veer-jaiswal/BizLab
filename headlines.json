@@ -1,74 +1,98 @@
 {
- "updated": "2026-11-21T02:26:37.477943+00:00",
+ "updated": "2026-11-21T11:20:26.689600+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T02:09:46+00:00"
+     "title": "5 ways to turn off your 'work brain' after the day ends",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6043793/stop-thinking-about-work",
+     "source": "NPR",
+     "date": "2026-11-21T10:01:00+00:00"
     },
     {
-     "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
-     "link": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T00:03:16+00:00"
+     "title": "The AI boom had a really bad week — and it's raising loud alarms",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+     "source": "NPR",
+     "date": "2026-11-21T10:00:00+00:00"
     },
     {
-     "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
-     "link": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T00:02:09+00:00"
+     "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+     "source": "NPR",
+     "date": "2026-11-21T10:00:00+00:00"
     },
     {
-     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
-     "link": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+     "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+     "source": "NPR",
+     "date": "2026-11-21T10:00:00+00:00"
+    },
+    {
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T09:52:11+00:00"
+    },
+    {
+     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+     "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T09:40:55+00:00"
+    },
+    {
+     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T08:10:25+00:00"
+    },
+    {
+     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+     "source": "NPR",
+     "date": "2026-11-21T08:08:01+00:00"
+    },
+    {
+     "title": "How China is using summits to expand its global influence",
+     "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
      "source": "CNBC",
-     "date": "2026-11-20T22:59:33+00:00"
+     "date": "2026-11-21T06:00:02+00:00"
     },
     {
-     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-20T22:42:47+00:00"
-    },
-    {
-     "title": "French police officers sentenced for beating of music producer Michel Zecler",
-     "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-20T22:37:09+00:00"
-    },
-    {
-     "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
-     "link": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
-     "source": "NPR",
-     "date": "2026-11-20T22:11:29+00:00"
-    },
-    {
-     "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-     "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-20T21:57:07+00:00"
-    },
-    {
-     "title": "The latest from Trump's press conference",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
-     "source": "NPR",
-     "date": "2026-11-20T21:38:21+00:00"
-    },
-    {
-     "title": "Rising seas have forced this Quinault village to relocate",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
-     "source": "NPR",
-     "date": "2026-11-20T21:38:13+00:00"
+     "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+     "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+     "source": "CNBC",
+     "date": "2026-11-21T06:00:02+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+     "source": "The Guardian",
+     "date": "2026-11-21T11:00:56+00:00"
+    },
+    {
+     "title": "Promise Me, America by Joe Biden review – former president defends his decisions",
+     "link": "https://www.theguardian.com/books/2026/nov/21/promise-me-america-joe-biden-memoir-review",
+     "source": "The Guardian",
+     "date": "2026-11-21T10:00:55+00:00"
+    },
+    {
+     "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
+     "source": "NPR",
+     "date": "2026-11-21T10:00:00+00:00"
+    },
+    {
+     "title": "How China is using summits to expand its global influence",
+     "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+     "source": "CNBC",
+     "date": "2026-11-21T06:00:02+00:00"
+    },
     {
      "title": "Trump turns White House press conference into a 2028 succession audition",
      "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
@@ -94,12 +118,6 @@
      "date": "2026-11-20T22:08:41+00:00"
     },
     {
-     "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-     "source": "The Guardian",
-     "date": "2026-11-20T21:47:41+00:00"
-    },
-    {
      "title": "The latest from Trump's press conference",
      "link": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
      "source": "NPR",
@@ -110,24 +128,6 @@
      "link": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
      "source": "CNBC",
      "date": "2026-11-20T20:52:08+00:00"
-    },
-    {
-     "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-     "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-     "source": "CNBC",
-     "date": "2026-11-20T20:47:58+00:00"
-    },
-    {
-     "title": "Jensen Huang to testify publicly before Senate banking panel, Chairman Scott says",
-     "link": "https://www.cnbc.com/2026/11/20/jensen-huang-nvidia-senate-testimony.html",
-     "source": "CNBC",
-     "date": "2026-11-20T19:42:53+00:00"
-    },
-    {
-     "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-     "source": "The Guardian",
-     "date": "2026-11-20T18:51:16+00:00"
     }
    ]
   },
@@ -135,70 +135,82 @@
    "name": "World & government",
    "items": [
     {
-     "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-     "link": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T02:09:46+00:00"
-    },
-    {
-     "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-     "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T00:01:39+00:00"
-    },
-    {
-     "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-     "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-20T23:08:57+00:00"
-    },
-    {
-     "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-     "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-20T22:42:47+00:00"
-    },
-    {
-     "title": "French police officers sentenced for beating of music producer Michel Zecler",
-     "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-20T22:37:09+00:00"
+     "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
+     "link": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+     "source": "The Guardian",
+     "date": "2026-11-21T11:00:57+00:00"
     },
     {
      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
      "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-20T21:57:07+00:00"
+     "date": "2026-11-21T10:26:36+00:00"
     },
     {
-     "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-     "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-     "source": "The Guardian",
-     "date": "2026-11-20T21:47:41+00:00"
-    },
-    {
-     "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-     "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-     "source": "The Guardian",
-     "date": "2026-11-20T21:38:17+00:00"
-    },
-    {
-     "title": "Another day of survival for a family in Ukraine",
-     "link": "https://www.npr.org/2026/11/20/nx-s1-6042206/another-day-of-survival-for-a-family-in-ukraine",
-     "source": "NPR",
-     "date": "2026-11-20T21:32:31+00:00"
-    },
-    {
-     "title": "Trump threatens ban on US firms building AI data centres overseas",
-     "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-20T20:54:12+00:00"
+     "date": "2026-11-21T09:52:11+00:00"
+    },
+    {
+     "title": "China commits to low-carbon electrification and help for others to improve",
+     "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+     "source": "The Guardian",
+     "date": "2026-11-21T09:47:57+00:00"
+    },
+    {
+     "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+     "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T09:40:55+00:00"
+    },
+    {
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T09:34:20+00:00"
+    },
+    {
+     "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+     "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T08:10:25+00:00"
+    },
+    {
+     "title": "Trafalgar Square Christmas tree felled in Norway",
+     "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T08:10:03+00:00"
+    },
+    {
+     "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+     "source": "NPR",
+     "date": "2026-11-21T08:08:01+00:00"
+    },
+    {
+     "title": "Man convicted of starting Palisades fire in Los Angeles",
+     "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T04:34:00+00:00"
     }
    ]
   },
   "business": {
    "name": "Business",
    "items": [
+    {
+     "title": "The AI boom had a really bad week — and it's raising loud alarms",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+     "source": "NPR",
+     "date": "2026-11-21T10:00:00+00:00"
+    },
+    {
+     "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+     "source": "NPR",
+     "date": "2026-11-21T10:00:00+00:00"
+    },
     {
      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
      "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
@@ -246,24 +258,24 @@
      "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-20T16:41:52+00:00"
-    },
-    {
-     "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
-     "link": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
-     "source": "CNBC",
-     "date": "2026-11-20T15:50:27+00:00"
-    },
-    {
-     "title": "Airbnb's divisive new house rules come into force",
-     "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-20T15:48:35+00:00"
     }
    ]
   },
   "finance": {
    "name": "Finance",
    "items": [
+    {
+     "title": "How China is using summits to expand its global influence",
+     "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+     "source": "CNBC",
+     "date": "2026-11-21T06:00:02+00:00"
+    },
+    {
+     "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+     "link": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-21T03:20:00+00:00"
+    },
     {
      "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
      "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
@@ -311,18 +323,6 @@
      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-11-20T21:36:00+00:00"
-    },
-    {
-     "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-     "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-20T21:34:00+00:00"
-    },
-    {
-     "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
-     "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-20T21:25:00+00:00"
     }
    ]
   },
