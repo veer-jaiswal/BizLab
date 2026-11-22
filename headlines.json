@@ -1,74 +1,80 @@
 {
- "updated": "2026-11-21T19:26:24.466208+00:00",
+ "updated": "2026-11-22T01:24:49.282464+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Storms expected on both coasts threatens Thanksgiving travel",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
-     "source": "NPR",
-     "date": "2026-11-21T18:22:46+00:00"
-    },
-    {
-     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
-     "source": "NPR",
-     "date": "2026-11-21T18:08:55+00:00"
-    },
-    {
-     "title": "Trump says there could be a 'positive spin' from the latest FBI database hack",
-     "link": "https://www.cnbc.com/2026/11/21/trump-fbi-database-hack.html",
-     "source": "CNBC",
-     "date": "2026-11-21T16:57:34+00:00"
-    },
-    {
-     "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-     "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-     "source": "CNBC",
-     "date": "2026-11-21T16:40:05+00:00"
-    },
-    {
-     "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
-     "link": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+     "title": "Kate's 'road to recovery' and 'Brave princess'",
+     "link": "https://www.bbc.co.uk/news/articles/c81dvrqe1zv0o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-21T16:16:29+00:00"
+     "date": "2026-11-22T00:43:19+00:00"
     },
     {
-     "title": "England run up record win over New Zealand in rugby union's Nations Championship",
-     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
+     "title": "How a teen gamer and his mother helped rescue a missing girl",
+     "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-21T16:08:59+00:00"
+     "date": "2026-11-22T00:09:58+00:00"
     },
     {
-     "title": "Tech outages are fueling a new doomsday economy",
-     "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-     "source": "CNBC",
-     "date": "2026-11-21T15:04:56+00:00"
+     "title": "From pit-stops to go-to destinations: The transformation of service stations",
+     "link": "https://www.bbc.co.uk/news/articles/ckqx5rylp9elo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-22T00:06:03+00:00"
+    },
+    {
+     "title": "Employers are being asked to give interview feedback - here's what applicants want",
+     "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-22T00:04:07+00:00"
+    },
+    {
+     "title": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
+     "link": "https://www.bbc.co.uk/news/articles/cj4gn7x05yygo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-22T00:01:27+00:00"
+    },
+    {
+     "title": "Trump orders federal contractors to check with White House before responding to Congress",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+     "source": "NPR",
+     "date": "2026-11-21T22:40:36+00:00"
+    },
+    {
+     "title": "Australia hold on for narrow win against Wales",
+     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T22:25:36+00:00"
     },
     {
      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
      "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-21T14:54:24+00:00"
+     "date": "2026-11-21T22:19:43+00:00"
     },
     {
-     "title": "Retirees face a looming deadline for required withdrawals — missing it could trigger a tax penalty",
-     "link": "https://www.cnbc.com/2026/11/21/rmd-deadline-penalty-2026.html",
-     "source": "CNBC",
-     "date": "2026-11-21T14:30:02+00:00"
-    },
-    {
-     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "title": "Google employees protest AI in schools policy",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy",
      "source": "NPR",
-     "date": "2026-11-21T14:18:17+00:00"
+     "date": "2026-11-21T22:01:40+00:00"
+    },
+    {
+     "title": "Highlights and challenges from covering an historic month in South America",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+     "source": "NPR",
+     "date": "2026-11-21T22:01:35+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Trump orders federal contractors to check with White House before responding to Congress",
+     "link": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+     "source": "NPR",
+     "date": "2026-11-21T22:40:36+00:00"
+    },
     {
      "title": "Trump orders contractors to check with White House over any congressional inquiries",
      "link": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
@@ -122,12 +128,6 @@
      "link": "https://www.npr.org/2026/11/21/nx-s1-6047376/week-in-politics-trump-returns-from-asia-hails-trip-as-one-of-best-in-history",
      "source": "NPR",
      "date": "2026-11-21T12:40:15+00:00"
-    },
-    {
-     "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact",
-     "source": "NPR",
-     "date": "2026-11-21T10:00:00+00:00"
     }
    ]
   },
@@ -135,13 +135,55 @@
    "name": "World & government",
    "items": [
     {
+     "title": "FBI reportedly investigating apparent hack of its criminal database",
+     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-22T00:10:44+00:00"
+    },
+    {
+     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T23:31:17+00:00"
+    },
+    {
+     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T22:19:43+00:00"
+    },
+    {
+     "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6048741/what-did-xi-jinping-get-from-the-bear-hug-with-trump-at-the-shenzhen-summit",
+     "source": "NPR",
+     "date": "2026-11-21T22:01:42+00:00"
+    },
+    {
+     "title": "Highlights and challenges from covering an historic month in South America",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6044647/highlights-and-challenges-from-covering-an-historic-month-in-south-america",
+     "source": "NPR",
+     "date": "2026-11-21T22:01:35+00:00"
+    },
+    {
+     "title": "A grieving family in Lebanon returns to their village",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6012085/a-grieving-family-in-lebanon-returns-to-their-village",
+     "source": "NPR",
+     "date": "2026-11-21T22:01:32+00:00"
+    },
+    {
+     "title": "Lock of former US President George Washington's hair sells for $4,000",
+     "link": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-21T22:01:19+00:00"
+    },
+    {
      "title": "Russia-bound ship attacked in Gulf of Finland",
      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-21T19:20:22+00:00"
     },
     {
-     "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+     "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
      "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
      "source": "NPR",
      "date": "2026-11-21T18:08:55+00:00"
@@ -151,48 +193,6 @@
      "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
      "source": "The Guardian",
      "date": "2026-11-21T17:46:55+00:00"
-    },
-    {
-     "title": "FBI reportedly investigating apparent hack of its criminal database",
-     "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T16:35:15+00:00"
-    },
-    {
-     "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-     "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T14:54:24+00:00"
-    },
-    {
-     "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-     "source": "NPR",
-     "date": "2026-11-21T14:18:17+00:00"
-    },
-    {
-     "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-     "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T13:17:38+00:00"
-    },
-    {
-     "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-     "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-21T13:15:21+00:00"
-    },
-    {
-     "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
-     "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
-     "source": "NPR",
-     "date": "2026-11-21T12:40:18+00:00"
-    },
-    {
-     "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-     "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-     "source": "NPR",
-     "date": "2026-11-21T12:30:16+00:00"
     }
    ]
   },
@@ -268,7 +268,37 @@
      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-21T19:23:00+00:00"
+     "date": "2026-11-22T01:15:00+00:00"
+    },
+    {
+     "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+     "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-22T00:03:00+00:00"
+    },
+    {
+     "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+     "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-21T23:05:00+00:00"
+    },
+    {
+     "title": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+     "link": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-21T20:15:00+00:00"
+    },
+    {
+     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
+     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-21T19:45:00+00:00"
+    },
+    {
+     "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+     "link": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-21T19:45:00+00:00"
     },
     {
      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
@@ -293,42 +323,18 @@
      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
      "source": "MarketWatch",
      "date": "2026-11-21T16:50:00+00:00"
-    },
-    {
-     "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-     "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-21T15:35:00+00:00"
-    },
-    {
-     "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks?",
-     "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-21T15:15:00+00:00"
-    },
-    {
-     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-21T15:15:00+00:00"
-    },
-    {
-     "title": "Here’s what’s been proven to help GLP-1 users from losing too much muscle from the drug",
-     "link": "https://www.marketwatch.com/story/heres-whats-been-proven-to-help-glp-1-users-who-have-lost-muscle-from-the-drug-2c71cdbf?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-21T15:03:00+00:00"
-    },
-    {
-     "title": "One thing Thanksgiving travelers can be thankful for: Gas prices are down 75 cents from this year’s peak",
-     "link": "https://www.marketwatch.com/story/one-thing-thanksgiving-travelers-can-be-thankful-for-gas-prices-are-down-75-cents-from-this-years-peak-efac1809?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-21T15:01:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "What's next after a brutal stock plunge we might have seen coming",
+     "link": "https://www.npr.org/2026/11/21/nx-s1-6049146/whats-next-after-a-brutal-stock-plunge-we-might-have-seen-coming",
+     "source": "NPR",
+     "date": "2026-11-21T22:01:43+00:00"
+    },
     {
      "title": "Tech outages are fueling a new doomsday economy",
      "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
@@ -382,12 +388,6 @@
      "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
      "source": "CNBC",
      "date": "2026-11-18T14:09:26+00:00"
-    },
-    {
-     "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
-     "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
-     "source": "CNBC",
-     "date": "2026-11-18T07:57:37+00:00"
     }
    ]
   },
