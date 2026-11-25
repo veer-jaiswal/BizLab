@@ -1,68 +1,68 @@
 {
- "updated": "2026-11-25T08:47:37.878367+00:00",
+ "updated": "2026-11-25T19:24:05.003119+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Energy bills to rise by 26% from January",
-     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T08:38:13+00:00"
-    },
-    {
-     "title": "Ministers ask public for views on changing age of consent",
-     "link": "https://www.bbc.co.uk/news/articles/cwgkl31kmnddo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T08:20:22+00:00"
-    },
-    {
-     "title": "Treasury yields fall as investors await key inflation signal",
-     "link": "https://www.cnbc.com/2026/11/25/treasury-yields-bonds-inflation.html",
+     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+     "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
      "source": "CNBC",
-     "date": "2026-11-25T07:44:24+00:00"
+     "date": "2026-11-25T19:19:05+00:00"
     },
     {
-     "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+     "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+     "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+     "source": "CNBC",
+     "date": "2026-11-25T19:11:53+00:00"
+    },
+    {
+     "title": "Poundland collapses putting 11,000 jobs at risk",
+     "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T18:29:42+00:00"
+    },
+    {
+     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+     "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+     "source": "CNBC",
+     "date": "2026-11-25T18:22:59+00:00"
+    },
+    {
+     "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
+     "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T17:48:28+00:00"
+    },
+    {
+     "title": "US stocks fall further as fears over AI intensify",
+     "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T17:48:09+00:00"
+    },
+    {
+     "title": "Group of Senate Democrats push to add freshman to leadership",
+     "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
      "source": "NPR",
-     "date": "2026-11-25T06:43:23+00:00"
+     "date": "2026-11-25T17:30:47+00:00"
     },
     {
-     "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-     "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-     "source": "CNBC",
-     "date": "2026-11-25T06:29:46+00:00"
-    },
-    {
-     "title": "Crypto talent will return ‘when AI implodes,’ Arthur Hayes says",
-     "link": "https://www.cnbc.com/2026/11/25/talents-crypto-ai-investment.html",
-     "source": "CNBC",
-     "date": "2026-11-25T06:09:44+00:00"
-    },
-    {
-     "title": "Festive market cancels bookings after AI backlash",
-     "link": "https://www.bbc.co.uk/news/articles/cm0qjglj3ejlo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T06:02:07+00:00"
-    },
-    {
-     "title": "UK sent sex offender refugee to African country in undisclosed deal",
-     "link": "https://www.bbc.co.uk/news/articles/c6z7407zrgwvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T06:00:45+00:00"
-    },
-    {
-     "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T06:00:36+00:00"
+     "date": "2026-11-25T17:30:16+00:00"
     },
     {
-     "title": "Racism, misogyny and homophobia remain in Met force, report finds",
-     "link": "https://www.bbc.co.uk/news/articles/cvwy0rg343j7o?at_medium=RSS&at_campaign=rss",
+     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+     "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T05:45:55+00:00"
+     "date": "2026-11-25T16:42:11+00:00"
+    },
+    {
+     "title": "Why has Poundland collapsed and what happens next?",
+     "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T16:24:30+00:00"
     }
    ]
   },
@@ -70,64 +70,64 @@
    "name": "Politics",
    "items": [
     {
-     "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – as it happened",
-     "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-     "source": "The Guardian",
-     "date": "2026-11-25T02:58:18+00:00"
-    },
-    {
-     "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-     "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html",
+     "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+     "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
      "source": "CNBC",
-     "date": "2026-11-25T02:43:33+00:00"
+     "date": "2026-11-25T19:11:53+00:00"
     },
     {
-     "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-     "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html",
-     "source": "CNBC",
-     "date": "2026-11-25T02:36:43+00:00"
-    },
-    {
-     "title": "Al Gore buys local, family-owned newspaper in central Tennessee",
-     "link": "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
+     "title": "What’s with Jan van Eyck’s tiny hands? | Brief letters",
+     "link": "https://www.theguardian.com/artanddesign/2026/nov/25/whats-with-jan-van-eyck-tiny-hands",
      "source": "The Guardian",
-     "date": "2026-11-25T02:31:42+00:00"
+     "date": "2026-11-25T18:07:35+00:00"
     },
     {
-     "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
-     "link": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
-     "source": "The Guardian",
-     "date": "2026-11-25T00:56:48+00:00"
-    },
-    {
-     "title": "Moving to Florida may become a choice of some Republicans after midterms",
-     "link": "https://www.npr.org/2026/11/24/nx-s1-6050930/moving-to-florida-may-become-a-choice-of-some-republicans-after-midterms",
+     "title": "Group of Senate Democrats push to add freshman to leadership",
+     "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
      "source": "NPR",
-     "date": "2026-11-24T22:54:01+00:00"
+     "date": "2026-11-25T17:30:47+00:00"
     },
     {
-     "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
-     "link": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+     "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
      "source": "The Guardian",
-     "date": "2026-11-24T22:09:57+00:00"
+     "date": "2026-11-25T17:21:10+00:00"
+    },
+    {
+     "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+     "source": "The Guardian",
+     "date": "2026-11-25T16:16:25+00:00"
+    },
+    {
+     "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+     "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+     "source": "CNBC",
+     "date": "2026-11-25T16:02:52+00:00"
     },
     {
      "title": "Saudi national charged in OpenAI bugging to be released on $1 million bond",
      "link": "https://www.cnbc.com/2026/11/24/openai-bugging-aflozan-release-saudi.html",
      "source": "CNBC",
-     "date": "2026-11-24T22:03:01+00:00"
+     "date": "2026-11-25T15:55:40+00:00"
     },
     {
-     "title": "Canada says it ‘does not report to the US’ after Pentagon memo criticizing military spending",
-     "link": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+     "title": "53 incoming House Democrats to boycott Harvard orientation in support of graduate students’ strike",
+     "link": "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
      "source": "The Guardian",
-     "date": "2026-11-24T22:02:13+00:00"
+     "date": "2026-11-25T15:47:25+00:00"
     },
     {
-     "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-     "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+     "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+     "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+     "source": "The Guardian",
+     "date": "2026-11-25T15:46:15+00:00"
+    },
+    {
+     "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
+     "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
      "source": "CNBC",
-     "date": "2026-11-24T21:13:39+00:00"
+     "date": "2026-11-25T13:20:34+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "All hostages freed after Colombian security forces storm supermarket, says president",
+     "title": "North Korea expels Swiss diplomat in sanctions row",
+     "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T19:19:06+00:00"
+    },
+    {
+     "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+     "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T18:41:33+00:00"
+    },
+    {
+     "title": "All hostages rescued after Colombian security forces storm supermarket",
      "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
      "source": "The Guardian",
-     "date": "2026-11-25T08:31:48+00:00"
+     "date": "2026-11-25T18:20:20+00:00"
     },
     {
-     "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
-     "link": "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o?at_medium=RSS&at_campaign=rss",
+     "title": "US stocks fall further as fears over AI intensify",
+     "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T07:26:54+00:00"
+     "date": "2026-11-25T17:48:09+00:00"
     },
     {
-     "title": "Africa Cup title given back to Senegal after sports court rules against Morocco",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
-     "source": "NPR",
-     "date": "2026-11-25T06:43:23+00:00"
-    },
-    {
-     "title": "Kilmar Ábrego García leaves US for Spain, ending Trump deportation battle",
-     "link": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T06:36:00+00:00"
-    },
-    {
-     "title": "Four years after huge asteroid crash, a spacecraft has now returned to assess the damage",
+     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
      "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T06:00:36+00:00"
+     "date": "2026-11-25T17:30:16+00:00"
     },
     {
-     "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
-     "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+     "title": "US announces new tariffs on host of countries including China",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T16:21:34+00:00"
+    },
+    {
+     "title": "Canadian astronaut welcomes baby girl  from space station",
+     "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T15:41:39+00:00"
+    },
+    {
+     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
+     "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T14:46:41+00:00"
+    },
+    {
+     "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
+     "link": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
      "source": "The Guardian",
-     "date": "2026-11-25T03:57:11+00:00"
+     "date": "2026-11-25T14:18:29+00:00"
     },
     {
-     "title": "US attorney general dodges questions about Nvidia investigation",
-     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T03:44:07+00:00"
-    },
-    {
-     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T02:59:27+00:00"
-    },
-    {
-     "title": "Thomas Markle charged in US for possessing child sex abuse images",
-     "link": "https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T01:40:42+00:00"
-    },
-    {
-     "title": "China investigates politburo star in Xi Jinping’s latest purge",
-     "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
-     "source": "The Guardian",
-     "date": "2026-11-25T01:31:46+00:00"
+     "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+     "source": "NPR",
+     "date": "2026-11-25T14:14:34+00:00"
     }
    ]
   },
@@ -200,64 +200,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Energy bills to rise by 26% from January",
-     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+     "title": "Poundland collapses putting 11,000 jobs at risk",
+     "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T08:38:13+00:00"
+     "date": "2026-11-25T18:29:42+00:00"
     },
     {
-     "title": "US attorney general dodges questions about Nvidia investigation",
-     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "title": "US stocks fall further as fears over AI intensify",
+     "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T03:44:07+00:00"
+     "date": "2026-11-25T17:48:09+00:00"
     },
     {
-     "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "title": "What's gone wrong at Poundland?",
+     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T02:59:27+00:00"
+     "date": "2026-11-25T17:00:32+00:00"
     },
     {
-     "title": "Trump's rescue of Nvidia's Huang brings political risks",
-     "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+     "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T01:03:05+00:00"
+     "date": "2026-11-25T16:42:11+00:00"
     },
     {
-     "title": "US preparing to unveil plan for new tariffs on global trading partners",
+     "title": "US announces new tariffs on host of countries including China",
      "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T00:38:01+00:00"
+     "date": "2026-11-25T16:21:34+00:00"
     },
     {
-     "title": "Why tiny cars are taking off across Europe",
-     "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T00:34:05+00:00"
+     "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+     "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
+     "source": "CNBC",
+     "date": "2026-11-25T14:17:01+00:00"
     },
     {
-     "title": "What will the energy cap changes mean for my bills?",
-     "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+     "title": "What to know before using AI agents for Black Friday shopping",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+     "source": "NPR",
+     "date": "2026-11-25T13:51:56+00:00"
+    },
+    {
+     "title": "Energy bills to rise by 26% from January after gas prices surge",
+     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T00:33:25+00:00"
+     "date": "2026-11-25T13:42:08+00:00"
     },
     {
      "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
      "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T00:30:52+00:00"
+     "date": "2026-11-25T12:12:11+00:00"
     },
     {
-     "title": "Unpacking President Trump's financial stake in Nvidia",
-     "link": "https://www.npr.org/2026/11/24/nx-s1-6052402/unpacking-president-trumps-financial-stake-in-nvidia",
-     "source": "NPR",
-     "date": "2026-11-24T23:48:14+00:00"
-    },
-    {
-     "title": "Will I get the £100 energy payment and when will I receive it?",
-     "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+     "title": "Energy bills will soar - here's how you can ease the pain",
+     "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-24T20:16:24+00:00"
+     "date": "2026-11-25T10:42:20+00:00"
     }
    ]
   },
@@ -265,70 +265,88 @@
    "name": "Finance",
    "items": [
     {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
+     "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
+     "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-25T02:00:00+00:00"
+     "date": "2026-11-25T19:20:00+00:00"
     },
     {
-     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-     "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
-     "source": "CNBC",
-     "date": "2026-11-25T01:13:56+00:00"
-    },
-    {
-     "title": "Dell’s stock rises as the AI boom helps sales more than double",
-     "link": "https://www.marketwatch.com/story/dells-stock-rises-as-the-ai-boom-helps-sales-more-than-double-cfb8cf65?mod=mw_rss_topstories",
+     "title": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
+     "link": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-25T01:11:00+00:00"
+     "date": "2026-11-25T19:16:00+00:00"
     },
     {
-     "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
-     "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
+     "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
+     "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-25T00:05:00+00:00"
+     "date": "2026-11-25T18:52:00+00:00"
     },
     {
-     "title": "Micron boosted CEO Sanjay Mehrotra’s security budget by 2,000%, new filing shows",
-     "link": "https://www.marketwatch.com/story/micron-boosted-ceo-sanjay-mehrotras-security-budget-by-2-000-new-filing-shows-d6202acc?mod=mw_rss_topstories",
+     "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
+     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-24T23:11:00+00:00"
+     "date": "2026-11-25T18:00:00+00:00"
     },
     {
-     "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-     "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-     "source": "CNBC",
-     "date": "2026-11-24T23:03:24+00:00"
+     "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+     "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-25T17:39:00+00:00"
     },
     {
-     "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-     "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+     "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
+     "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-25T17:31:00+00:00"
+    },
+    {
+     "title": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
+     "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-25T17:24:00+00:00"
+    },
+    {
+     "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – as it happened",
+     "link": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
      "source": "The Guardian",
-     "date": "2026-11-24T22:05:21+00:00"
+     "date": "2026-11-25T17:19:11+00:00"
     },
     {
-     "title": "12 days of sardines and Croc charms: Are Advent calendars getting out of control?",
-     "link": "https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories",
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-24T21:53:00+00:00"
+     "date": "2026-11-25T17:15:00+00:00"
     },
     {
-     "title": "Anthropic’s stock just broke below its IPO price for the first time",
-     "link": "https://www.marketwatch.com/story/anthropics-stock-just-broke-below-its-ipo-price-for-the-first-time-5dc82668?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-24T21:46:00+00:00"
-    },
-    {
-     "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-     "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-24T21:45:00+00:00"
+     "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+     "link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+     "source": "CNBC",
+     "date": "2026-11-25T17:08:03+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+     "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+     "source": "CNBC",
+     "date": "2026-11-25T16:17:13+00:00"
+    },
+    {
+     "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+     "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+     "source": "CNBC",
+     "date": "2026-11-25T14:18:45+00:00"
+    },
+    {
+     "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+     "source": "NPR",
+     "date": "2026-11-25T10:00:00+00:00"
+    },
     {
      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
      "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
@@ -370,30 +388,36 @@
      "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
      "source": "CNBC",
      "date": "2026-11-23T21:00:59+00:00"
-    },
-    {
-     "title": "From Wall Street to Main Street, how artificial intelligence is affecting the economy",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6048690/from-wall-street-to-main-street-how-artificial-intelligence-is-affecting-the-economy",
-     "source": "NPR",
-     "date": "2026-11-23T11:46:29+00:00"
-    },
-    {
-     "title": "Chief economist for Moody's Analytics on why Anthropic's IPO caused market volatility",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6048611/chief-economist-for-moodys-analytics-on-why-anthropics-ipo-caused-market-volatility",
-     "source": "NPR",
-     "date": "2026-11-23T11:46:24+00:00"
-    },
-    {
-     "title": "AI is making it hard for young people to find work, report says",
-     "link": "https://www.npr.org/2026/11/23/nx-s1-6048624/ai-is-making-it-hard-for-young-people-to-find-work-report-says",
-     "source": "NPR",
-     "date": "2026-11-23T09:42:40+00:00"
     }
    ]
   },
   "startups": {
    "name": "Startups",
    "items": [
+    {
+     "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+     "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+     "source": "TechCrunch",
+     "date": "2026-11-25T17:35:58+00:00"
+    },
+    {
+     "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+     "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+     "source": "TechCrunch",
+     "date": "2026-11-25T15:41:43+00:00"
+    },
+    {
+     "title": "The Art of The Terrible Startup Name",
+     "link": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+     "source": "Crunchbase News",
+     "date": "2026-11-25T12:00:49+00:00"
+    },
+    {
+     "title": "Your AI Startup’s Exit Is Being Shaped By The Deals You Sign Today",
+     "link": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+     "source": "Crunchbase News",
+     "date": "2026-11-25T12:00:09+00:00"
+    },
     {
      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
      "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
@@ -429,30 +453,6 @@
      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
      "source": "TechCrunch",
      "date": "2026-11-23T22:02:05+00:00"
-    },
-    {
-     "title": "Most Unicorns Are Worth More Than Their Last Funding-Round Valuations, Crunchbase Estimates",
-     "link": "https://news.crunchbase.com/venture/unicorn-startup-current-valuations-thinking-machines-sierra-crunchbase/",
-     "source": "Crunchbase News",
-     "date": "2026-11-23T12:00:19+00:00"
-    },
-    {
-     "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-     "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-     "source": "TechCrunch",
-     "date": "2026-11-20T20:58:29+00:00"
-    },
-    {
-     "title": "The Week’s 10 Biggest Funding Rounds: $400M For Neurotech Leads, Followed By Big Deals For AI, Fintech, Biotech And More",
-     "link": "https://news.crunchbase.com/venture/biggest-startup-rounds-science-neurotech-model-ml-galvanize-therapeutics/",
-     "source": "Crunchbase News",
-     "date": "2026-11-20T20:15:54+00:00"
-    },
-    {
-     "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-     "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-     "source": "TechCrunch",
-     "date": "2026-11-20T19:53:41+00:00"
     }
    ]
   }
