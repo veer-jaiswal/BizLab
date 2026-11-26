@@ -1,74 +1,92 @@
 {
- "updated": "2026-11-25T19:24:05.003119+00:00",
+ "updated": "2026-11-26T03:38:13.824290+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-     "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+     "title": "South Korea upgrades growth forecast, raises benchmark rates to highest in two years",
+     "link": "https://www.cnbc.com/2026/11/26/bok-rate-decision-korea-gdp-inflation.html",
      "source": "CNBC",
-     "date": "2026-11-25T19:19:05+00:00"
+     "date": "2026-11-26T03:32:53+00:00"
     },
     {
-     "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-     "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+     "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+     "link": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
      "source": "CNBC",
-     "date": "2026-11-25T19:11:53+00:00"
+     "date": "2026-11-26T03:19:44+00:00"
     },
     {
-     "title": "Poundland collapses putting 11,000 jobs at risk",
-     "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T18:29:42+00:00"
-    },
-    {
-     "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-     "link": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+     "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+     "link": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
      "source": "CNBC",
-     "date": "2026-11-25T18:22:59+00:00"
+     "date": "2026-11-26T03:09:47+00:00"
     },
     {
-     "title": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-     "link": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o?at_medium=RSS&at_campaign=rss",
+     "title": "UK government set to publish new treaties agreed with EU",
+     "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T17:48:28+00:00"
+     "date": "2026-11-26T02:13:00+00:00"
     },
     {
-     "title": "US stocks fall further as fears over AI intensify",
-     "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+     "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+     "link": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+     "source": "CNBC",
+     "date": "2026-11-26T01:52:20+00:00"
+    },
+    {
+     "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+     "link": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+     "source": "CNBC",
+     "date": "2026-11-26T01:45:52+00:00"
+    },
+    {
+     "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+     "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+     "source": "CNBC",
+     "date": "2026-11-26T01:34:58+00:00"
+    },
+    {
+     "title": "Hedge funds are no longer just for the rich. They’re coming for everyday investors",
+     "link": "https://www.cnbc.com/2026/11/26/hedge-funds-retail-investors.html",
+     "source": "CNBC",
+     "date": "2026-11-26T01:10:58+00:00"
+    },
+    {
+     "title": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c6vg24l724l4o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T17:48:09+00:00"
+     "date": "2026-11-26T00:24:48+00:00"
     },
     {
-     "title": "Group of Senate Democrats push to add freshman to leadership",
-     "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
-     "source": "NPR",
-     "date": "2026-11-25T17:30:47+00:00"
-    },
-    {
-     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+     "title": "BBC launches partnership with Met Office for weather coverage",
+     "link": "https://www.bbc.co.uk/news/articles/ckjrel5vdj9zo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T17:30:16+00:00"
-    },
-    {
-     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-     "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T16:42:11+00:00"
-    },
-    {
-     "title": "Why has Poundland collapsed and what happens next?",
-     "link": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T16:24:30+00:00"
+     "date": "2026-11-26T00:12:37+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – as it happened",
+     "link": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+     "source": "The Guardian",
+     "date": "2026-11-26T02:20:52+00:00"
+    },
+    {
+     "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+     "source": "The Guardian",
+     "date": "2026-11-25T19:36:24+00:00"
+    },
+    {
+     "title": "Vance says Jensen Huang doesn’t need pardon after Trump says ‘it’s an option’",
+     "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+     "source": "The Guardian",
+     "date": "2026-11-25T19:36:22+00:00"
+    },
     {
      "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
      "link": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
@@ -86,18 +104,6 @@
      "link": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
      "source": "NPR",
      "date": "2026-11-25T17:30:47+00:00"
-    },
-    {
-     "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
-     "link": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
-     "source": "The Guardian",
-     "date": "2026-11-25T17:21:10+00:00"
-    },
-    {
-     "title": "Kilmar Ábrego García, target of Trump’s immigration crackdown, lands in Spain after ‘leaving happy’",
-     "link": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
-     "source": "The Guardian",
-     "date": "2026-11-25T16:16:25+00:00"
     },
     {
      "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
@@ -118,12 +124,6 @@
      "date": "2026-11-25T15:47:25+00:00"
     },
     {
-     "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-     "link": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-     "source": "The Guardian",
-     "date": "2026-11-25T15:46:15+00:00"
-    },
-    {
      "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
      "link": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
      "source": "CNBC",
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
+     "title": "US announces new tariffs on host of countries including China",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-26T03:01:40+00:00"
+    },
+    {
+     "title": "California warns of flooding as King Tides peak over Thanksgiving",
+     "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-26T01:22:55+00:00"
+    },
+    {
+     "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+     "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+     "source": "The Guardian",
+     "date": "2026-11-26T00:39:10+00:00"
+    },
+    {
+     "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+     "link": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-26T00:23:05+00:00"
+    },
+    {
+     "title": "Has global jihadism failed, or is it simply changing shape?",
+     "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-26T00:22:18+00:00"
+    },
+    {
+     "title": "Macy's postpones Thanksgiving parade due to weather",
+     "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T23:57:03+00:00"
+    },
+    {
+     "title": "Angelina Jolie and Brad Pitt settle legal battle over French winery",
+     "link": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T23:18:27+00:00"
+    },
+    {
+     "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+     "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T22:18:06+00:00"
+    },
+    {
      "title": "North Korea expels Swiss diplomat in sanctions row",
      "link": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T19:19:06+00:00"
-    },
-    {
-     "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
-     "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T18:41:33+00:00"
-    },
-    {
-     "title": "All hostages rescued after Colombian security forces storm supermarket",
-     "link": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
-     "source": "The Guardian",
-     "date": "2026-11-25T18:20:20+00:00"
+     "date": "2026-11-25T21:51:17+00:00"
     },
     {
      "title": "US stocks fall further as fears over AI intensify",
      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T17:48:09+00:00"
-    },
-    {
-     "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-     "link": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T17:30:16+00:00"
-    },
-    {
-     "title": "US announces new tariffs on host of countries including China",
-     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T16:21:34+00:00"
-    },
-    {
-     "title": "Canadian astronaut welcomes baby girl  from space station",
-     "link": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T15:41:39+00:00"
-    },
-    {
-     "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-     "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T14:46:41+00:00"
-    },
-    {
-     "title": "China sends first foreign astronaut to ISS rival as it globalises space operations",
-     "link": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
-     "source": "The Guardian",
-     "date": "2026-11-25T14:18:29+00:00"
-    },
-    {
-     "title": "How American Thanksgiving took root -- and evolved -- in Liberia",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
-     "source": "NPR",
-     "date": "2026-11-25T14:14:34+00:00"
+     "date": "2026-11-25T21:43:18+00:00"
     }
    ]
   },
@@ -200,64 +200,64 @@
    "name": "Business",
    "items": [
     {
-     "title": "Poundland collapses putting 11,000 jobs at risk",
-     "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+     "title": "US announces new tariffs on host of countries including China",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T18:29:42+00:00"
+     "date": "2026-11-26T03:01:40+00:00"
+    },
+    {
+     "title": "UK government set to publish new treaties agreed with EU",
+     "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-26T02:13:00+00:00"
+    },
+    {
+     "title": "US approves SpaceX plan to send a million data satellites to space",
+     "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-26T00:07:51+00:00"
+    },
+    {
+     "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+     "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-26T00:01:37+00:00"
+    },
+    {
+     "title": "How Jensen Huang's return as NVIDIA's CEO is going over in China",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6053915/how-jensen-huangs-return-as-nvidias-ceo-is-going-over-in-china",
+     "source": "NPR",
+     "date": "2026-11-25T23:01:09+00:00"
+    },
+    {
+     "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+     "link": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
+     "source": "CNBC",
+     "date": "2026-11-25T22:26:56+00:00"
     },
     {
      "title": "US stocks fall further as fears over AI intensify",
      "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-25T17:48:09+00:00"
+     "date": "2026-11-25T21:43:18+00:00"
+    },
+    {
+     "title": "Poundland collapses putting 11,000 jobs at risk",
+     "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-25T21:31:10+00:00"
+    },
+    {
+     "title": "Credit card perks are fueling airline profitability",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-5860846/credit-card-perks-are-fueling-airline-profitability",
+     "source": "NPR",
+     "date": "2026-11-25T21:29:57+00:00"
     },
     {
      "title": "What's gone wrong at Poundland?",
      "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
      "date": "2026-11-25T17:00:32+00:00"
-    },
-    {
-     "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-     "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T16:42:11+00:00"
-    },
-    {
-     "title": "US announces new tariffs on host of countries including China",
-     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T16:21:34+00:00"
-    },
-    {
-     "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-     "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-     "source": "CNBC",
-     "date": "2026-11-25T14:17:01+00:00"
-    },
-    {
-     "title": "What to know before using AI agents for Black Friday shopping",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
-     "source": "NPR",
-     "date": "2026-11-25T13:51:56+00:00"
-    },
-    {
-     "title": "Energy bills to rise by 26% from January after gas prices surge",
-     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T13:42:08+00:00"
-    },
-    {
-     "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-     "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T12:12:11+00:00"
-    },
-    {
-     "title": "Energy bills will soar - here's how you can ease the pain",
-     "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-25T10:42:20+00:00"
     }
    ]
   },
@@ -265,70 +265,94 @@
    "name": "Finance",
    "items": [
     {
-     "title": "New-home sales just hit a 2026 high as builders dangle low mortgages and Black Friday deals",
-     "link": "https://www.marketwatch.com/story/new-home-sales-just-hit-a-2026-high-as-builders-dangle-low-mortgages-and-black-friday-deals-291a3b62?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-25T19:20:00+00:00"
+     "title": "Judge blocks Brendan Carr-led FCC from taking any further action against ABC’s licenses",
+     "link": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+     "source": "The Guardian",
+     "date": "2026-11-26T02:52:47+00:00"
     },
     {
-     "title": "Why macro investor Raoul Pal says the dollar is the signal to watch for stocks and crypto",
-     "link": "https://www.marketwatch.com/story/why-macro-investor-raoul-pal-says-the-dollar-is-the-signal-to-watch-for-stocks-and-crypto-d36f3c49?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-25T19:16:00+00:00"
-    },
-    {
-     "title": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to these lower prices",
-     "link": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-25T18:52:00+00:00"
+     "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+     "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+     "source": "CNBC",
+     "date": "2026-11-26T01:34:58+00:00"
     },
     {
      "title": "We are living in perilous times if Nvidia’s Jensen Huang dictates your 401(k) balance",
      "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-25T18:00:00+00:00"
+     "date": "2026-11-26T01:15:00+00:00"
     },
     {
      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-25T17:39:00+00:00"
+     "date": "2026-11-26T00:33:00+00:00"
     },
     {
-     "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-     "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
+     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
+     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-25T17:31:00+00:00"
+     "date": "2026-11-25T23:30:00+00:00"
     },
     {
-     "title": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
-     "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
+     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-25T17:24:00+00:00"
+     "date": "2026-11-25T23:30:00+00:00"
     },
     {
-     "title": "US proposes new tariffs on 14 trading partners, including China, Japan and the EU – as it happened",
-     "link": "https://www.theguardian.com/business/live/2026/nov/25/rise-energy-bills-britain-2166-impossible-high-millions-households-stocks-tumble-as-ai-rally-fizzles-live-updates",
-     "source": "The Guardian",
-     "date": "2026-11-25T17:19:11+00:00"
+     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
+     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-25T23:00:00+00:00"
     },
     {
      "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
      "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-25T17:15:00+00:00"
+     "date": "2026-11-25T22:45:00+00:00"
     },
     {
-     "title": "Prediction markets push OpenAI IPO expectations later into 2027",
-     "link": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
-     "source": "CNBC",
-     "date": "2026-11-25T17:08:03+00:00"
+     "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+     "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-25T22:16:00+00:00"
+    },
+    {
+     "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-25T22:11:00+00:00"
     }
    ]
   },
   "economy": {
    "name": "Economy",
    "items": [
+    {
+     "title": "Inflation is still hot, fueled in part by the AI boom",
+     "link": "https://www.npr.org/2026/11/25/nx-s1-6053958/inflation-is-still-hot-fueled-in-part-by-the-ai-boom",
+     "source": "NPR",
+     "date": "2026-11-25T22:04:36+00:00"
+    },
+    {
+     "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+     "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
+     "source": "CNBC",
+     "date": "2026-11-25T21:56:43+00:00"
+    },
+    {
+     "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+     "source": "Federal Reserve",
+     "date": "2026-11-25T20:00:00+00:00"
+    },
+    {
+     "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+     "source": "Federal Reserve",
+     "date": "2026-11-25T20:00:00+00:00"
+    },
     {
      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
      "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
@@ -364,30 +388,6 @@
      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm",
      "source": "Federal Reserve",
      "date": "2026-11-24T19:00:00+00:00"
-    },
-    {
-     "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-     "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-     "source": "CNBC",
-     "date": "2026-11-24T18:34:43+00:00"
-    },
-    {
-     "title": "What should it cost to insure a home in wildfire country?",
-     "link": "https://www.npr.org/sections/planet-money/2026/11/24/g-s1-154477/what-should-it-cost-to-insure-a-home-in-wildfire-country",
-     "source": "NPR",
-     "date": "2026-11-24T11:30:00+00:00"
-    },
-    {
-     "title": "Why France is at risk of recession — and what could keep it out of one",
-     "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-     "source": "CNBC",
-     "date": "2026-11-24T11:15:30+00:00"
-    },
-    {
-     "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-     "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-     "source": "CNBC",
-     "date": "2026-11-23T21:00:59+00:00"
     }
    ]
   },
