@@ -1,74 +1,92 @@
 {
- "updated": "2026-11-27T01:47:22.012267+00:00",
+ "updated": "2026-11-27T12:42:01.286270+00:00",
  "categories": {
   "top": {
    "name": "Top stories",
    "items": [
     {
-     "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-     "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+     "title": "Fury cleared to fight Joshua after medical checks",
+     "link": "https://www.bbc.co.uk/sport/boxing/articles/c539gd2x2ye1o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-27T12:13:15+00:00"
+    },
+    {
+     "title": "'A lonely road': Catherine joins cancer support group in new documentary",
+     "link": "https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-27T12:11:22+00:00"
+    },
+    {
+     "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
+     "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
      "source": "CNBC",
-     "date": "2026-11-27T01:38:00+00:00"
+     "date": "2026-11-27T12:00:22+00:00"
     },
     {
-     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-27T00:52:11+00:00"
+     "title": "Thanksgiving storm batters East Coast. And, Black Friday sales to hit record levels",
+     "link": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+     "source": "NPR",
+     "date": "2026-11-27T11:59:02+00:00"
     },
     {
-     "title": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
-     "link": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-27T00:48:11+00:00"
+     "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+     "source": "NPR",
+     "date": "2026-11-27T11:49:50+00:00"
     },
     {
-     "title": "Australia's sandpapergate probe to also include 2017-18 Ashes against England",
-     "link": "https://www.bbc.co.uk/sport/cricket/articles/cxdd1335nyj0o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-27T00:43:03+00:00"
-    },
-    {
-     "title": "Huw Edwards gives first interviews since child abuse image conviction",
-     "link": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-27T00:38:03+00:00"
-    },
-    {
-     "title": "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
-     "link": "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+     "title": "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+     "link": "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
      "source": "CNBC",
-     "date": "2026-11-27T00:22:29+00:00"
+     "date": "2026-11-27T11:49:18+00:00"
     },
     {
-     "title": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
-     "link": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-27T00:20:10+00:00"
+     "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
+     "link": "https://www.cnbc.com/2026/11/27/rheinmetall-stock-cmd-guidance-sales.html",
+     "source": "CNBC",
+     "date": "2026-11-27T11:27:20+00:00"
     },
     {
-     "title": "UK to pay 'participation' fee to deliver EU deals",
-     "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T23:17:12+00:00"
+     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+     "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+     "source": "CNBC",
+     "date": "2026-11-27T11:00:01+00:00"
     },
     {
-     "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
-     "link": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T23:03:16+00:00"
+     "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+     "source": "NPR",
+     "date": "2026-11-27T10:59:36+00:00"
     },
     {
-     "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-     "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+     "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+     "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-26T22:49:27+00:00"
+     "date": "2026-11-27T10:26:28+00:00"
     }
    ]
   },
   "politics": {
    "name": "Politics",
    "items": [
+    {
+     "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+     "source": "NPR",
+     "date": "2026-11-27T10:00:00+00:00"
+    },
+    {
+     "title": "What history can teach Trump about his lame-duck era – podcast",
+     "link": "https://www.theguardian.com/politics/audio/2026/nov/27/what-history-can-teach-trump-about-his-lame-duck-era-podcast",
+     "source": "The Guardian",
+     "date": "2026-11-27T05:00:55+00:00"
+    },
+    {
+     "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+     "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+     "source": "CNBC",
+     "date": "2026-11-27T03:30:23+00:00"
+    },
     {
      "title": "After Democrats' midterm wins, some hope attacks on DEI will ease",
      "link": "https://www.npr.org/2026/11/26/nx-s1-6036795-e1/after-democrats-midterm-wins-some-hope-attacks-on-dei-will-ease",
@@ -110,24 +128,6 @@
      "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
      "source": "NPR",
      "date": "2026-11-26T12:24:29+00:00"
-    },
-    {
-     "title": "Trump administration proposes new tariffs on goods from major U.S. trading partners",
-     "link": "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners",
-     "source": "NPR",
-     "date": "2026-11-26T11:43:47+00:00"
-    },
-    {
-     "title": "Sen. Tim Kaine, D-Va., shares why he opposes Trump's proposed tariffs",
-     "link": "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs",
-     "source": "NPR",
-     "date": "2026-11-26T11:43:10+00:00"
-    },
-    {
-     "title": "Kilmar Ábrego García leaves for Spain. But the Trump administration got what it wanted",
-     "link": "https://www.theguardian.com/us-news/2026/nov/26/kilmar-abrego-garcia-spain-departure-trump",
-     "source": "The Guardian",
-     "date": "2026-11-26T11:00:33+00:00"
     }
    ]
   },
@@ -135,64 +135,64 @@
    "name": "World & government",
    "items": [
     {
-     "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-     "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+     "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6055559/gerard-depardieu-trial-rape-france",
+     "source": "NPR",
+     "date": "2026-11-27T11:49:50+00:00"
+    },
+    {
+     "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+     "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-27T01:45:30+00:00"
+     "date": "2026-11-27T11:44:40+00:00"
     },
     {
-     "title": "Threat from China looms large over Taiwan’s local elections",
-     "link": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
-     "source": "The Guardian",
-     "date": "2026-11-27T01:00:49+00:00"
-    },
-    {
-     "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-     "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+     "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+     "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-27T00:52:11+00:00"
+     "date": "2026-11-27T10:39:31+00:00"
     },
     {
-     "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+     "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+     "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-27T10:26:28+00:00"
+    },
+    {
+     "title": "Clashes mar European games as Macron condemns violence",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-27T10:24:24+00:00"
+    },
+    {
+     "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
+     "link": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-27T10:01:07+00:00"
+    },
+    {
+     "title": "As UN Secretary General's last day approaches, search for his replacement continues",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6050907/as-un-secretary-generals-last-day-approaches-search-for-his-replacement-continues",
+     "source": "NPR",
+     "date": "2026-11-27T09:46:13+00:00"
+    },
+    {
+     "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
      "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-26T22:49:27+00:00"
+     "date": "2026-11-27T09:07:48+00:00"
     },
     {
-     "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-     "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+     "title": "Millions of wives in South Asia unprotected from marital rape - study",
+     "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-26T22:01:22+00:00"
+     "date": "2026-11-27T08:13:43+00:00"
     },
     {
-     "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-     "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+     "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+     "link": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-26T21:17:53+00:00"
-    },
-    {
-     "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-     "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T19:26:16+00:00"
-    },
-    {
-     "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-     "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T14:44:26+00:00"
-    },
-    {
-     "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-     "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T14:35:22+00:00"
-    },
-    {
-     "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
-     "link": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
-     "source": "NPR",
-     "date": "2026-11-26T13:47:09+00:00"
+     "date": "2026-11-27T07:28:10+00:00"
     }
    ]
   },
@@ -200,10 +200,34 @@
    "name": "Business",
    "items": [
     {
-     "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+     "title": "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+     "link": "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+     "source": "CNBC",
+     "date": "2026-11-27T11:00:01+00:00"
+    },
+    {
+     "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
      "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
      "source": "BBC",
-     "date": "2026-11-27T00:54:45+00:00"
+     "date": "2026-11-27T10:10:36+00:00"
+    },
+    {
+     "title": "Can luxury save Macy's?",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+     "source": "NPR",
+     "date": "2026-11-27T10:01:00+00:00"
+    },
+    {
+     "title": "The strategy behind those Black Friday deals",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6054055/the-strategy-behind-those-black-friday-deals",
+     "source": "NPR",
+     "date": "2026-11-27T09:46:04+00:00"
+    },
+    {
+     "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+     "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+     "source": "BBC",
+     "date": "2026-11-27T00:58:49+00:00"
     },
     {
      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
@@ -234,30 +258,6 @@
      "link": "https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html",
      "source": "CNBC",
      "date": "2026-11-26T18:27:43+00:00"
-    },
-    {
-     "title": "When will Poundland shops close? Five key questions answered",
-     "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T17:21:21+00:00"
-    },
-    {
-     "title": "New UK-EU treaty has 10-year termination clause",
-     "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T15:23:17+00:00"
-    },
-    {
-     "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-     "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T14:28:22+00:00"
-    },
-    {
-     "title": "Millions of people to see average monthly mortgage payments rise by £100",
-     "link": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-     "source": "BBC",
-     "date": "2026-11-26T14:00:20+00:00"
     }
    ]
   },
@@ -265,64 +265,64 @@
    "name": "Finance",
    "items": [
     {
-     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
-     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+     "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-27T01:15:00+00:00"
+     "date": "2026-11-27T12:29:00+00:00"
     },
     {
-     "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
-     "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+     "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+     "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-27T01:00:00+00:00"
+     "date": "2026-11-27T12:29:00+00:00"
     },
     {
-     "title": "We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance",
-     "link": "https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories",
+     "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+     "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-27T00:31:00+00:00"
-    },
-    {
-     "title": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lost his job. Should he raid his 401(k)?",
-     "link": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-26T22:00:00+00:00"
-    },
-    {
-     "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-     "link": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-26T21:45:00+00:00"
-    },
-    {
-     "title": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?",
-     "link": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-26T19:00:00+00:00"
-    },
-    {
-     "title": "Semiconductor chips are the new oil. Here's why",
-     "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-     "source": "CNBC",
-     "date": "2026-11-26T17:52:15+00:00"
-    },
-    {
-     "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs",
-     "link": "https://www.cnbc.com/2026/11/26/nvidias-volatile-swings-expose-risks-of-single-stock-etfs.html",
-     "source": "CNBC",
-     "date": "2026-11-26T16:00:01+00:00"
-    },
-    {
-     "title": "I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?",
-     "link": "https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories",
-     "source": "MarketWatch",
-     "date": "2026-11-26T16:00:00+00:00"
+     "date": "2026-11-27T12:22:00+00:00"
     },
     {
      "title": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?",
      "link": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
      "source": "MarketWatch",
-     "date": "2026-11-26T15:13:00+00:00"
+     "date": "2026-11-27T12:15:00+00:00"
+    },
+    {
+     "title": "The S&P 500 is in a correction. Bear markets and recessions don't always follow",
+     "link": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html",
+     "source": "CNBC",
+     "date": "2026-11-27T12:06:17+00:00"
+    },
+    {
+     "title": "Stocks look like a Black Friday bargain. Read the fine print.",
+     "link": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-27T12:01:00+00:00"
+    },
+    {
+     "title": "I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?",
+     "link": "https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-27T11:15:00+00:00"
+    },
+    {
+     "title": "Stocks are poised for a Friday jump — right into a $100 billion wave of automated selling, Goldman Sachs warns",
+     "link": "https://www.marketwatch.com/story/stocks-are-poised-for-a-friday-jump-right-into-a-100-billion-wave-of-automated-selling-goldman-sachs-warns-aba6440f?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-27T10:54:00+00:00"
+    },
+    {
+     "title": "SAP reportedly to cut 10,000 jobs. It marks the latest in a brutal year for tech layoffs.",
+     "link": "https://www.marketwatch.com/story/sap-reportedly-to-cut-10-000-jobs-it-marks-the-latest-in-a-brutal-year-for-tech-layoffs-c7989744?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-27T10:49:00+00:00"
+    },
+    {
+     "title": "This investment strategist is 100% in cash — and warns that buying the Nasdaq dip is like catching a falling knife",
+     "link": "https://www.marketwatch.com/story/this-investment-strategist-is-100-in-cash-and-warns-that-buying-the-nasdaq-dip-is-like-catching-a-falling-knife-64f5b233?mod=mw_rss_topstories",
+     "source": "MarketWatch",
+     "date": "2026-11-27T10:37:00+00:00"
     }
    ]
   },
@@ -330,16 +330,40 @@
    "name": "Economy",
    "items": [
     {
-     "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-     "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+     "title": "Can luxury save Macy's?",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+     "source": "NPR",
+     "date": "2026-11-27T10:01:00+00:00"
+    },
+    {
+     "title": "Record spending expected on Black Friday",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6047460/record-spending-expected-on-black-friday",
+     "source": "NPR",
+     "date": "2026-11-27T09:45:48+00:00"
+    },
+    {
+     "title": "Why Americans are still Black Friday shopping despite strained wallets",
+     "link": "https://www.npr.org/2026/11/27/nx-s1-6054846/why-americans-are-still-black-friday-shopping-despite-strained-wallets",
+     "source": "NPR",
+     "date": "2026-11-27T09:45:35+00:00"
+    },
+    {
+     "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+     "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
      "source": "CNBC",
-     "date": "2026-11-27T01:38:00+00:00"
+     "date": "2026-11-27T08:47:36+00:00"
     },
     {
      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
      "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
      "source": "CNBC",
-     "date": "2026-11-26T15:28:26+00:00"
+     "date": "2026-11-27T06:50:38+00:00"
+    },
+    {
+     "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+     "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+     "source": "CNBC",
+     "date": "2026-11-27T06:09:51+00:00"
     },
     {
      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
@@ -364,30 +388,6 @@
      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
      "source": "Federal Reserve",
      "date": "2026-11-25T20:00:00+00:00"
-    },
-    {
-     "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
-     "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
-     "source": "Federal Reserve",
-     "date": "2026-11-25T20:00:00+00:00"
-    },
-    {
-     "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-     "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-     "source": "CNBC",
-     "date": "2026-11-25T16:17:13+00:00"
-    },
-    {
-     "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-     "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-     "source": "CNBC",
-     "date": "2026-11-25T14:18:45+00:00"
-    },
-    {
-     "title": "In a time of rising costs, one Thanksgiving commodity is cheaper: cannabis",
-     "link": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
-     "source": "NPR",
-     "date": "2026-11-25T10:00:00+00:00"
     }
    ]
   },
